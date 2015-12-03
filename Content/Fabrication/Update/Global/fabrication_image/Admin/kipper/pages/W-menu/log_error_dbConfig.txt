@@ -1,0 +1,50 @@
+Mon / 2014-11-24 / 20:24:33 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-11-24 / 20:25:23 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-11-24 / 20:25:26 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-11-24 / 20:25:58 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-11-24 / 20:32:21 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Tue / 2014-11-25 / 10:56:39 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-12-01 / 18:56:36 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-12-01 / 18:57:31 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-12-01 / 18:59:32 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-12-01 / 18:59:46 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-12-01 / 19:36:26 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-12-01 / 19:36:37 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-12-01 / 19:36:56 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Thu / 2014-12-11 / 09:01:15 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Thu / 2014-12-11 / 09:01:22 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Thu / 2014-12-11 / 09:01:31 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Thu / 2014-12-11 / 09:02:10 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Thu / 2014-12-11 / 09:02:31 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Thu / 2014-12-11 / 09:03:41 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Thu / 2014-12-11 / 09:03:55 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Thu / 2014-12-11 / 15:29:42 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Thu / 2014-12-11 / 15:32:30 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Tue / 2015-01-20 / 18:48:29 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Tue / 2015-01-20 / 18:50:08 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Tue / 2015-01-20 / 18:50:30 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Thu / 2015-01-22 / 11:27:10 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Tue / 2015-02-17 / 08:31:15 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Tue / 2015-02-17 / 08:54:03 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Tue / 2015-02-17 / 09:01:01 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Tue / 2015-02-17 / 09:02:01 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Mon / 2015-03-16 / 14:50:20 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Mon / 2015-03-16 / 14:50:33 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Mon / 2015-04-13 / 13:44:20 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Mon / 2015-04-20 / 08:55:39 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Mon / 2015-04-20 / 08:55:49 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Mon / 2015-04-20 / 11:25:01 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Mon / 2015-04-20 / 11:25:31 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Fri / 2015-05-08 / 21:30:47 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Fri / 2015-05-08 / 21:42:11 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Fri / 2015-05-08 / 21:48:16 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Fri / 2015-05-08 / 22:56:06 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Wed / 2015-06-03 / 11:53:14 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] Connection refused
+Wed / 2015-06-03 / 11:53:28 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] Connection refused
+Tue / 2015-06-09 / 16:20:56 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] Connection refused
+Thu / 2015-07-02 / 13:59:00 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] Connection refused
+Fri / 2015-08-07 / 01:20:52 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Fri / 2015-08-07 / 01:21:03 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Fri / 2015-08-07 / 01:21:34 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Fri / 2015-08-07 / 11:07:00 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Fri / 2015-08-07 / 11:09:32 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 

@@ -1,0 +1,2962 @@
+Sat / 2014-11-22 / 05:44:20 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:44:20 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:44:20 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 05:44:20 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 05:44:27 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:44:27 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 05:44:27 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:44:27 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 05:44:40 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:44:40 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:44:40 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 05:44:40 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 05:44:43 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:44:43 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 05:44:52 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:44:52 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 05:44:52 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:44:52 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:55:38 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Tue / 2014-11-25 / 11:55:38 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Tue / 2014-11-25 / 11:56:51 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Tue / 2014-11-25 / 11:56:51 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Tue / 2014-11-25 / 11:58:48 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:58:48 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:58:48 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:58:48 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:59:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:59:42 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:59:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:59:42 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:01:15 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:01:15 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:01:15 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:01:15 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:07:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:07:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:07:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:07:58 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:09:55 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:09:55 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:09:55 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:09:55 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:10:34 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:10:34 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:10:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:10:35 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:11:30 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:11:30 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:11:30 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:11:30 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:11:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:11:43 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:11:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:11:43 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:12:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:12:04 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:12:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:12:04 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:12:09 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:12:09 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:12:09 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:12:09 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:12:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:12:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:12:35 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:12:35 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:12:51 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:12:51 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:12:51 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:12:51 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:12:55 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:12:55 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:12:55 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:12:55 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:13:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:13:33 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:13:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:13:33 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:13:48 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:13:48 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:13:48 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:13:48 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:14:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:14:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:14:26 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:14:26 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:15:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:15:04 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:15:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:15:04 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:15:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:15:18 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:15:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:15:18 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:16:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:16:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:16:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:16:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:16:53 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:16:53 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:16:53 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:16:53 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:18:50 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:18:50 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:18:50 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:18:50 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:19:50 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:19:50 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:19:50 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:19:50 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:21:09 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:21:09 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:21:09 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:21:09 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:21:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:21:26 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:21:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:21:26 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:22:14 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:22:14 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:22:14 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:22:14 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:22:45 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:22:45 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:22:45 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:22:45 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:22:59 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:22:59 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:22:59 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:22:59 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:23:09 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:23:09 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:23:09 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:23:09 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:23:20 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:23:20 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:23:20 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:23:20 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:23:48 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:23:48 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:23:48 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:23:48 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:23:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:23:58 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:25:27 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:25:27 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:25:27 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:25:27 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:25:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:25:36 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:25:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:25:36 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:26:11 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:26:11 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:26:11 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:26:11 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:27:17 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:27:17 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:27:23 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:27:23 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:52:15 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:52:15 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:53:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:53:35 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:53:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:53:35 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:54:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:54:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:54:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:54:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:55:16 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:55:16 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:55:16 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:55:16 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:55:37 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:55:37 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:55:37 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:55:37 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:55:56 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:55:56 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:55:56 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:55:56 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:57:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:57:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:57:06 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:57:06 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:57:15 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:57:15 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:57:15 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:57:15 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:57:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:57:58 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:57:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:57:58 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:58:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:58:06 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:58:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:58:06 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:58:28 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:58:28 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:58:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:58:54 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:59:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:59:06 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:59:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:59:06 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:59:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:59:08 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:59:51 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:59:51 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:59:51 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:59:51 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:59:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:59:54 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:00:19 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:00:19 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:00:19 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:00:19 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:00:21 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:00:21 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:00:30 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:00:30 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:00:30 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:00:30 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:00:32 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:00:32 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:00:41 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:00:42 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:00:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:00:42 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:00:47 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:00:47 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:00:56 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:00:56 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:00:56 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:00:56 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:01:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:01:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:01:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:01:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:01:16 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:01:16 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:01:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:01:33 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:01:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:01:33 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:01:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:01:58 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:01:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:01:58 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:02:11 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:02:11 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:06:16 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:06:16 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:06:16 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:06:16 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:06:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:06:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:06:22 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:06:22 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:06:28 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:06:28 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:06:28 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:06:28 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:06:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:06:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:06:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:06:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:07:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:07:08 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:07:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:07:08 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:07:16 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:07:16 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:07:16 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:07:16 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:07:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:07:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:07:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:07:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:09:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:09:36 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:09:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:09:36 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:11:00 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:11:00 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:11:00 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:11:00 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:11:34 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:11:34 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:11:34 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:11:34 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:45:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:45:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:45:22 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:45:22 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:46:44 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:46:44 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:46:44 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:46:44 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:49:11 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:49:11 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:49:11 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:49:11 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:49:30 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:49:30 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:49:30 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:49:30 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:49:59 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:49:59 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:49:59 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:49:59 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:55:16 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:55:16 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:55:17 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:55:17 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:55:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:55:25 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:55:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:55:25 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:59:27 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:59:27 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:59:27 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:59:27 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:59:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:59:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:59:33 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:59:33 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:00:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:00:18 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:00:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:00:18 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:01:01 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:01:01 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:01:01 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:01:01 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:04:37 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:04:37 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:04:37 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:04:37 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:07:14 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:07:14 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:07:14 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:07:14 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:07:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:07:33 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:07:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:07:33 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:09:45 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:09:45 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:24:59 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:24:59 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:24:59 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:24:59 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:25:51 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:25:51 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:25:51 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:25:51 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:26:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:26:40 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:26:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:26:40 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:26:56 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:26:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:26:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:26:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:27:16 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:27:16 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:27:16 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:27:16 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:27:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:27:24 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:27:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:27:24 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:28:12 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:28:12 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:28:12 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:28:12 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:28:17 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:28:17 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:28:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:28:24 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:28:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:28:24 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:30:07 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:30:07 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:30:07 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:30:07 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:30:32 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:30:32 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:30:32 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:30:32 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:30:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:30:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:30:42 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:30:42 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:30:46 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:30:46 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:30:53 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:30:53 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:30:53 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:30:53 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:31:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:31:35 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:31:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:31:35 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:31:52 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:31:52 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:31:52 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:31:52 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:31:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:31:54 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:33:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:33:22 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:33:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:33:22 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:33:39 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:33:39 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:33:39 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:33:39 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:33:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:33:58 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:33:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:33:58 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:34:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:34:08 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:34:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:34:08 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:34:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:34:18 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:34:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:34:18 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:34:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:34:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:34:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:34:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:35:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:35:26 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:35:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:35:26 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:35:39 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:35:39 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:35:49 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:35:49 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:36:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:36:26 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:36:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:36:40 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:36:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:36:40 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:55:51 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:55:51 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:55:51 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:55:51 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:56:03 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:56:03 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:56:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:56:04 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:56:07 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:56:07 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:56:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:56:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:56:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:56:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:58:16 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:58:16 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:58:16 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:58:16 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:58:20 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:58:20 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:58:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:58:25 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:58:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:58:25 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:59:41 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:59:41 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:59:41 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:59:41 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:59:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:59:42 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:00:17 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:00:17 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:00:17 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:00:17 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:00:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:00:36 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:00:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:00:36 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:01:32 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:01:32 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:01:32 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:01:32 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:02:21 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:02:21 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:02:21 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:02:21 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:03:19 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:03:19 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:03:19 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:03:19 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:03:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:03:33 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:04:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:04:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:04:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:04:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:04:11 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:04:11 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:04:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:04:25 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:04:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:04:26 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:04:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:04:31 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:04:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:04:35 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:04:37 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:04:37 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:04:38 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:04:38 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:04:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:04:59 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:04:59 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:04:59 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:05:05 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:05:05 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:05:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:05:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:05:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:05:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:05:28 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:05:28 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:05:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:05:31 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:05:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:05:31 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:05:37 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:05:37 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:05:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:05:42 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:05:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:05:42 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:09:23 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:09:23 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:09:23 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:09:23 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:10:00 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:10:00 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:10:15 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:10:15 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:10:15 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:10:15 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:10:21 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:10:21 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:10:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:10:31 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:10:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:10:31 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:28:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:28:06 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:28:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:28:06 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:28:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:28:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:28:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:28:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:29:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:29:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:29:06 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:29:06 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:29:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:29:22 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:29:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:29:22 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:29:32 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:29:32 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:29:32 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:29:32 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:30:09 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:30:09 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:30:09 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:30:09 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:30:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:30:18 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:30:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:30:18 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:30:32 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:30:32 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:30:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:30:42 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:31:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:31:02 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:32:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:32:02 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:32:05 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:32:05 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:32:05 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:32:05 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:32:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:32:24 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:32:28 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:32:28 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:32:28 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:32:28 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:32:34 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:32:34 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:32:45 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:32:45 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:32:45 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:32:45 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:32:48 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:32:48 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:32:52 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:32:52 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:32:52 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:32:52 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:32:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:32:54 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:32:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:32:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:32:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:32:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:32:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:32:58 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:33:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:33:08 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:33:09 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:33:09 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:33:13 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:33:13 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:33:17 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:33:17 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:33:17 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:33:17 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:33:19 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:33:19 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:33:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:33:24 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:33:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:33:24 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:33:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:33:26 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:33:29 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:33:29 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:33:29 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:33:29 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:33:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:33:35 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:33:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:33:40 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:33:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:33:40 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:33:44 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:33:44 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:34:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:34:18 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:34:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:34:18 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:34:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:34:22 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:37:13 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:37:13 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:37:13 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:37:13 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:37:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:37:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:37:54 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:37:54 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:38:21 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:38:21 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:38:21 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:38:21 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:38:41 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:38:41 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:38:41 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:38:41 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:40:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:40:36 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:40:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:40:36 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:44:05 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:44:05 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:44:05 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:44:05 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:44:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:44:54 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:44:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:44:54 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:52:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:52:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:52:06 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:52:06 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:53:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:53:25 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:53:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:53:25 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:53:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:53:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:53:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:53:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:54:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:54:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:54:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:54:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:54:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:54:36 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:54:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:54:36 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:56:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:56:04 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:56:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:56:04 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:57:56 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:57:56 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:57:56 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:57:57 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:22:55 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:22:55 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:22:55 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:22:55 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:23:29 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:23:29 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:23:29 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:23:29 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:23:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:23:35 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:23:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:23:40 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:23:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:23:40 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:23:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:23:43 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:23:47 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:23:47 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:23:47 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:23:47 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:23:52 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:23:52 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:24:28 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:24:28 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:24:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:24:35 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:24:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:24:35 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:24:38 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:24:38 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:24:46 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:24:46 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:24:46 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:24:46 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:25:13 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:25:13 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:25:13 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:25:13 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:25:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:25:18 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:25:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:25:18 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 11:31:47 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 11:31:47 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 17:06:48 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 17:06:48 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 17:06:48 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 17:06:48 WIB/ Koneksi Diputus 
+Thu / 2014-11-27 / 08:18:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-11-27 / 08:18:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-11-27 / 08:18:24 WIB/ Koneksi Diputus 
+Thu / 2014-11-27 / 08:18:24 WIB/ Koneksi Diputus 
+Thu / 2014-11-27 / 12:32:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-11-27 / 12:32:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-11-27 / 12:32:54 WIB/ Koneksi Diputus 
+Thu / 2014-11-27 / 12:32:54 WIB/ Koneksi Diputus 
+Thu / 2014-11-27 / 14:42:20 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-11-27 / 14:42:20 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-11-27 / 14:42:20 WIB/ Koneksi Diputus 
+Thu / 2014-11-27 / 14:42:20 WIB/ Koneksi Diputus 
+Thu / 2014-11-27 / 17:03:27 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-11-27 / 17:03:27 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-11-27 / 17:03:27 WIB/ Koneksi Diputus 
+Thu / 2014-11-27 / 17:03:27 WIB/ Koneksi Diputus 
+Thu / 2014-11-27 / 17:24:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-11-27 / 17:24:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-11-27 / 17:24:36 WIB/ Koneksi Diputus 
+Thu / 2014-11-27 / 17:24:36 WIB/ Koneksi Diputus 
+Fri / 2014-11-28 / 19:22:05 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Fri / 2014-11-28 / 19:22:05 WIB/ Koneksi Diputus 
+Fri / 2014-11-28 / 19:22:05 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Fri / 2014-11-28 / 19:22:05 WIB/ Koneksi Diputus 
+Fri / 2014-11-28 / 19:38:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Fri / 2014-11-28 / 19:38:43 WIB/ Koneksi Diputus 
+Fri / 2014-11-28 / 19:38:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Fri / 2014-11-28 / 19:38:43 WIB/ Koneksi Diputus 
+Sun / 2014-12-07 / 10:14:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-07 / 10:14:08 WIB/ Koneksi Diputus 
+Sun / 2014-12-07 / 10:14:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-07 / 10:14:08 WIB/ Koneksi Diputus 
+Sun / 2014-12-07 / 10:16:28 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-07 / 10:16:28 WIB/ Koneksi Diputus 
+Sun / 2014-12-07 / 10:16:28 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-07 / 10:16:28 WIB/ Koneksi Diputus 
+Sun / 2014-12-07 / 10:17:14 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-07 / 10:17:14 WIB/ Koneksi Diputus 
+Sun / 2014-12-07 / 10:17:14 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-07 / 10:17:14 WIB/ Koneksi Diputus 
+Mon / 2014-12-08 / 17:30:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-08 / 17:30:43 WIB/ Koneksi Diputus 
+Mon / 2014-12-08 / 17:30:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-08 / 17:30:43 WIB/ Koneksi Diputus 
+Mon / 2014-12-08 / 19:22:59 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-08 / 19:22:59 WIB/ Koneksi Diputus 
+Mon / 2014-12-08 / 19:22:59 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-08 / 19:22:59 WIB/ Koneksi Diputus 
+Mon / 2014-12-08 / 19:38:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-08 / 19:38:24 WIB/ Koneksi Diputus 
+Mon / 2014-12-08 / 19:38:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-08 / 19:38:24 WIB/ Koneksi Diputus 
+Mon / 2014-12-08 / 19:48:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-08 / 19:48:58 WIB/ Koneksi Diputus 
+Mon / 2014-12-08 / 19:48:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-08 / 19:48:58 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 09:06:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 09:06:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 09:06:58 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 09:06:58 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 09:07:03 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 09:07:03 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 09:07:03 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 09:07:03 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 09:07:15 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 09:07:15 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 09:07:15 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 09:07:15 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 09:07:17 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 09:07:17 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 09:07:17 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 09:07:17 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 09:07:21 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 09:07:21 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 09:08:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 09:08:31 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 09:08:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 09:08:31 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 09:09:05 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 09:09:05 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 09:09:05 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 09:09:05 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 11:46:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 11:46:54 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 11:46:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 11:46:54 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 11:47:00 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 11:47:00 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 11:48:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 11:48:42 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 11:48:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 11:48:42 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 11:54:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 11:54:42 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:32:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:32:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:32:22 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:32:22 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:32:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:32:24 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 18:52:03 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 18:52:03 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 18:52:03 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 18:52:03 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:10:38 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:10:38 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:10:38 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:10:38 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:10:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:10:40 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:12:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:12:33 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:12:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:12:33 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:13:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:13:25 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:13:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:13:25 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:14:56 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:14:56 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:14:56 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:14:56 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:16:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:16:10 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:16:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:16:10 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:16:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:16:26 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:16:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:16:26 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:19:07 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:19:07 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:19:07 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:19:07 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:19:29 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:19:29 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:19:29 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:19:29 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:21:23 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:21:23 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:21:23 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:21:23 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:21:37 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:21:37 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:21:37 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:21:37 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:23:45 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:23:45 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:23:45 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:23:45 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:23:55 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:23:55 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:23:55 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:23:55 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:25:14 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:25:14 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:25:14 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:25:14 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:25:15 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:25:15 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:25:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:25:24 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:25:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:25:24 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:25:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:25:24 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:25:29 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:25:29 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:25:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:25:36 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:25:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:25:36 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:25:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:25:36 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:36 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:36 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:38 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:38 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:38 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:38 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:38 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:38 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:43 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:44 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:44 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:44 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:44 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:47 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:47 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:47 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:47 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:47 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:47 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:49 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:49 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:49 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:49 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:50 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:50 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:53 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:53 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:53 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:53 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:53 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:53 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:55 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:55 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:26:59 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:26:59 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:27:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:27:04 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:27:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:27:04 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:27:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:27:04 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:27:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:27:10 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:27:23 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:27:23 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:27:23 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:27:23 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:27:23 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:27:23 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:27:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:27:25 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:27:34 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:27:34 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:27:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:27:35 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:27:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:27:35 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:27:37 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:27:37 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:27:44 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:27:44 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:27:44 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:27:44 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:27:44 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:27:44 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:28:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:28:04 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 19:28:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 19:28:04 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 20:23:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 20:23:40 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 20:23:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 20:23:40 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 20:42:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 20:42:08 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 20:42:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 20:42:08 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 20:42:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 20:42:33 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 20:42:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 20:42:33 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 20:42:34 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 20:42:34 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 20:45:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 20:45:26 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 20:45:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 20:45:26 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 20:45:30 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 20:45:30 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 21:21:11 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 21:21:11 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 21:21:11 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 21:21:11 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 21:21:15 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 21:21:15 WIB/ Koneksi Diputus 
+Fri / 2014-12-12 / 22:25:01 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Fri / 2014-12-12 / 22:25:01 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Fri / 2014-12-12 / 22:25:01 WIB/ Koneksi Diputus 
+Fri / 2014-12-12 / 22:25:01 WIB/ Koneksi Diputus 
+Fri / 2014-12-12 / 22:25:03 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Fri / 2014-12-12 / 22:25:03 WIB/ Koneksi Diputus 
+Fri / 2014-12-12 / 22:25:30 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Fri / 2014-12-12 / 22:25:30 WIB/ Koneksi Diputus 
+Fri / 2014-12-12 / 22:25:30 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Fri / 2014-12-12 / 22:25:30 WIB/ Koneksi Diputus 
+Fri / 2014-12-12 / 22:25:30 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Fri / 2014-12-12 / 22:25:30 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 11:37:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 11:37:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 11:37:11 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 11:37:11 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 11:48:19 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 11:48:19 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 11:48:19 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 11:48:19 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 11:48:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 11:48:26 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:25:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:25:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:25:57 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:25:57 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:26:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:26:33 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:26:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:26:40 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:26:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:26:40 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:26:51 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:26:51 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:27:01 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:27:02 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:27:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:27:02 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:27:13 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:27:13 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:27:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:27:24 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:27:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:27:24 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:27:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:27:31 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:27:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:27:31 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:27:44 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:27:44 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:27:44 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:27:44 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:27:49 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:27:49 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:28:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:28:02 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:28:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:28:02 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:28:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:28:33 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:29:00 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:29:00 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:29:00 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:29:00 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:29:28 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:29:28 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:29:28 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:29:28 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:29:34 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:29:34 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:29:34 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:29:34 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:30:03 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:30:03 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:30:03 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:30:03 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:30:39 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:30:39 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:30:39 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:30:39 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:31:07 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:31:07 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:31:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:31:08 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:31:30 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:31:30 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:31:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:31:31 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:31:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:31:42 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:31:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:31:42 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 17:18:11 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 17:18:11 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 17:18:11 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 17:18:11 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 17:18:46 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 17:18:46 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 17:18:46 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 17:18:46 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:46:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:46:25 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:46:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:46:25 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:46:32 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:46:32 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:46:32 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:46:32 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:52:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:52:43 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:52:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:52:43 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:54:55 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:54:55 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:54:55 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:54:55 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:55:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:55:36 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:55:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:55:36 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:56:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:56:26 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:56:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:56:26 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:56:51 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:56:51 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:56:51 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:56:51 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:57:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:57:06 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:57:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:57:06 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:57:20 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:57:20 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:57:20 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:57:20 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:57:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:57:54 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:57:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:57:54 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:58:00 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:58:00 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 09:58:00 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 09:58:00 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 10:02:59 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 10:02:59 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 10:02:59 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 10:02:59 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 10:03:45 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 10:03:45 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 10:03:45 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 10:03:45 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 12:37:50 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 12:37:50 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 12:37:50 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 12:37:50 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 12:37:52 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 12:37:52 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 12:37:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 12:37:59 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 12:37:59 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 12:37:59 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 12:38:01 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 12:38:01 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 12:38:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 12:38:06 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 12:38:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 12:38:06 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 12:38:09 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 12:38:09 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 12:38:15 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 12:38:15 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 12:38:16 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 12:38:16 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 13:22:56 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 13:22:56 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 13:22:56 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 13:22:56 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 13:44:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 13:44:08 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 13:44:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 13:44:08 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 13:44:11 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 13:44:11 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 13:44:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 13:44:22 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 13:44:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 13:44:22 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 13:44:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 13:44:22 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:02:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:02:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:02:54 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:02:54 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:02:56 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:02:56 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:03:05 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:03:05 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:23:23 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:23:23 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:23:24 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:23:24 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:38:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:38:43 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:38:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:38:43 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:39:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:39:33 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:39:46 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:39:46 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:39:51 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:39:51 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:39:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:39:57 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:02 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:02 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:04 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:07 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:07 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:08 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:09 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:09 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:13 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:13 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:13 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:13 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:14 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:14 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:18 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:18 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:20 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:20 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:23 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:23 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:23 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:23 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:25 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:28 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:28 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:28 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:28 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:30 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:30 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:33 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:33 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:35 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:37 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:37 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:38 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:38 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:39 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:39 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:43 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:40:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:40:43 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:28:29 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:28:29 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:28:29 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:28:29 WIB/ Koneksi Diputus 
+Thu / 2014-12-18 / 17:52:38 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Thu / 2014-12-18 / 17:52:38 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Thu / 2014-12-18 / 17:52:38 WIB/ Koneksi Diputus 
+Thu / 2014-12-18 / 17:52:38 WIB/ Koneksi Diputus 
+Thu / 2014-12-18 / 17:52:47 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Thu / 2014-12-18 / 17:52:47 WIB/ Koneksi Diputus 
+Mon / 2014-12-22 / 15:47:53 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Mon / 2014-12-22 / 15:47:53 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Mon / 2014-12-22 / 15:47:53 WIB/ Koneksi Diputus 
+Mon / 2014-12-22 / 15:47:53 WIB/ Koneksi Diputus 
+Mon / 2014-12-22 / 15:47:56 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Mon / 2014-12-22 / 15:47:56 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Mon / 2014-12-22 / 15:47:56 WIB/ Koneksi Diputus 
+Mon / 2014-12-22 / 15:47:56 WIB/ Koneksi Diputus 
+Mon / 2014-12-22 / 15:47:58 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Mon / 2014-12-22 / 15:47:58 WIB/ Koneksi Diputus 
+Mon / 2014-12-22 / 15:48:13 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Mon / 2014-12-22 / 15:48:13 WIB/ Koneksi Diputus 
+Mon / 2014-12-22 / 15:48:14 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Mon / 2014-12-22 / 15:48:14 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 07:23:22 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 07:23:22 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 07:23:22 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 07:23:22 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 07:23:24 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 07:23:24 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:40:32 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:40:32 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:40:32 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:40:32 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:40:54 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:40:54 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:41:11 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:41:11 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:41:11 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:41:11 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:41:14 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:41:14 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:41:21 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:41:21 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:41:21 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:41:21 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:41:30 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:41:30 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:41:46 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:41:46 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:41:46 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:41:46 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:41:57 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:41:57 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:42:04 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:42:04 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:42:04 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:42:04 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:42:25 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:42:25 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:42:32 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:42:33 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:42:33 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:42:33 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:42:43 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:42:43 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:42:43 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:42:43 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:42:46 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:42:46 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:42:50 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:42:50 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:42:53 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:42:53 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:42:53 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:42:53 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:46:06 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:46:06 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:46:06 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:46:06 WIB/ Koneksi Diputus 
+Tue / 2015-01-20 / 18:50:51 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-20 / 18:50:51 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-20 / 18:50:51 WIB/ Koneksi Diputus 
+Tue / 2015-01-20 / 18:50:51 WIB/ Koneksi Diputus 
+Tue / 2015-01-20 / 18:50:57 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-20 / 18:50:57 WIB/ Koneksi Diputus 
+Fri / 2015-03-13 / 14:33:35 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Fri / 2015-03-13 / 14:33:35 WIB/ Koneksi Diputus 
+Fri / 2015-03-13 / 14:33:35 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Fri / 2015-03-13 / 14:33:35 WIB/ Koneksi Diputus 
+Mon / 2015-04-13 / 13:44:52 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-13 / 13:44:52 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-13 / 13:44:52 WIB/ Koneksi Diputus 
+Mon / 2015-04-13 / 13:44:52 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 11:15:09 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 11:15:09 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 11:15:09 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 11:15:09 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 11:15:16 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 11:15:16 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 11:21:34 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 11:21:34 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 11:21:35 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 11:21:35 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 13:22:31 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 13:22:31 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 13:22:31 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 13:22:31 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 13:22:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 13:22:41 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 13:23:13 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 13:23:13 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 13:23:14 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 13:23:14 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 13:23:33 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 13:23:33 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 13:23:33 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 13:23:33 WIB/ Koneksi Diputus 
+Thu / 2015-04-16 / 10:47:14 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-16 / 10:47:14 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-16 / 10:47:14 WIB/ Koneksi Diputus 
+Thu / 2015-04-16 / 10:47:14 WIB/ Koneksi Diputus 
+Thu / 2015-04-16 / 10:47:18 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-16 / 10:47:18 WIB/ Koneksi Diputus 
+Thu / 2015-04-16 / 10:48:04 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-16 / 10:48:04 WIB/ Koneksi Diputus 
+Thu / 2015-04-16 / 10:48:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-16 / 10:48:05 WIB/ Koneksi Diputus 
+Thu / 2015-04-16 / 10:48:13 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-16 / 10:48:13 WIB/ Koneksi Diputus 
+Thu / 2015-04-16 / 10:48:27 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-16 / 10:48:27 WIB/ Koneksi Diputus 
+Thu / 2015-04-16 / 10:48:28 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-16 / 10:48:28 WIB/ Koneksi Diputus 
+Thu / 2015-04-16 / 10:48:34 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-16 / 10:48:34 WIB/ Koneksi Diputus 
+Thu / 2015-04-16 / 10:50:17 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-16 / 10:50:17 WIB/ Koneksi Diputus 
+Thu / 2015-04-16 / 10:50:18 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-16 / 10:50:18 WIB/ Koneksi Diputus 
+Thu / 2015-04-16 / 14:04:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-16 / 14:04:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-16 / 14:04:05 WIB/ Koneksi Diputus 
+Thu / 2015-04-16 / 14:04:05 WIB/ Koneksi Diputus 
+Thu / 2015-04-16 / 14:04:12 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-16 / 14:04:12 WIB/ Koneksi Diputus 
+Thu / 2015-04-16 / 14:04:36 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-16 / 14:04:36 WIB/ Koneksi Diputus 
+Thu / 2015-04-16 / 14:04:36 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-16 / 14:04:36 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 08:25:16 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 08:25:16 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 08:25:16 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 08:25:16 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 08:25:21 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 08:25:21 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 08:25:30 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 08:25:30 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 08:47:23 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 08:47:23 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 08:47:23 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 08:47:23 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 09:14:16 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 09:14:16 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 09:14:16 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 09:14:16 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 09:14:37 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 09:14:37 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 09:16:02 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 09:16:02 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 09:16:03 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 09:16:03 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 09:16:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 09:16:55 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 09:17:39 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 09:17:39 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 09:17:40 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 09:17:40 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 09:17:45 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 09:17:45 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 09:20:31 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 09:20:31 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 09:20:31 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 09:20:31 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 09:20:40 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 09:20:40 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 09:21:38 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 09:21:38 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 09:21:38 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 09:21:38 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 09:24:17 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 09:24:17 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 09:24:17 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 09:24:17 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:12:08 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:12:08 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:12:08 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:12:08 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:12:12 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:12:12 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:14:09 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:14:09 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:14:09 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:14:09 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:14:14 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:14:14 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:14:31 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:14:31 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:14:31 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:14:31 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:14:47 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:14:47 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:15:10 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:15:10 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:15:11 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:15:11 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:15:23 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:15:23 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:15:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:15:44 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:15:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:15:44 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:23:25 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:23:25 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:24:49 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:24:49 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:24:49 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:24:49 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:24:53 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:24:53 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:25:19 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:25:19 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:25:20 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:25:20 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:46:03 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:46:03 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:46:03 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:46:03 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:48:16 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:48:16 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:48:16 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:48:16 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:48:25 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:48:25 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:48:31 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:48:31 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:48:32 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:48:32 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:49:22 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:49:22 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:49:28 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:49:28 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:49:28 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:49:28 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:52:19 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:52:19 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:52:19 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:52:19 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:52:23 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:52:23 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:52:38 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:52:38 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:52:38 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:52:38 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:52:43 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:52:43 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:53:49 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:53:49 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:53:50 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:53:50 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:54:03 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:54:03 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:54:10 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:54:10 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:54:11 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:54:11 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:54:14 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:54:14 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:54:49 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:54:49 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:54:50 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:54:50 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:54:53 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:54:53 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:54:57 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:54:57 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:54:58 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:54:58 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:55:10 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:55:10 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:55:42 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:55:42 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:55:43 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:55:43 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:55:47 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:55:47 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:56:20 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:56:20 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:56:21 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:56:21 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:57:28 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:57:28 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:58:19 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:58:19 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:58:21 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:58:21 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:58:50 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:58:50 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:58:59 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:58:59 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:59:00 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:59:00 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:59:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:59:05 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:59:45 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:59:45 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 10:59:46 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 10:59:46 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 11:00:59 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 11:00:59 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 11:01:10 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 11:01:10 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 11:01:11 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 11:01:11 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 11:01:14 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 11:01:14 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 11:02:20 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 11:02:20 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 11:02:21 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 11:02:21 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 11:02:49 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 11:02:49 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 11:02:59 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 11:02:59 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 11:03:00 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 11:03:00 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 11:21:16 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 11:21:16 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 11:21:16 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 11:21:16 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 11:21:52 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 11:21:52 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 11:21:52 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 11:21:52 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 11:22:17 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 11:22:17 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 11:22:17 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 11:22:17 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 11:22:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 11:22:26 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 11:33:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 11:33:44 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 11:33:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 11:33:44 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 15:37:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 15:37:26 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 15:37:27 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 15:37:27 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 15:37:33 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 15:37:33 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 15:38:03 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 15:38:03 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 15:38:03 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 15:38:03 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 15:38:32 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 15:38:32 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 15:38:32 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 15:38:32 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 15:39:03 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 15:39:03 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 15:39:24 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 15:39:24 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 15:39:24 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 15:39:24 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 15:39:57 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 15:39:57 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 16:00:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 16:00:55 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 16:00:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 16:00:55 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 16:01:08 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 16:01:08 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 16:01:35 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 16:01:35 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 16:01:35 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 16:01:35 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 16:02:19 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 16:02:19 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 16:03:10 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 16:03:10 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 16:08:00 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 16:08:00 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 16:08:01 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 16:08:01 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 16:27:22 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 16:27:22 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 16:27:22 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 16:27:22 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 16:27:30 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 16:27:30 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 16:30:58 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 16:30:58 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 16:30:58 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 16:30:58 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 16:31:19 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 16:31:19 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 16:31:39 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 16:31:39 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 16:31:40 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 16:31:40 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 12:46:40 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 12:46:40 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 12:46:40 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 12:46:40 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:02:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:02:41 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:02:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:02:41 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:03:02 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:03:02 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:03:20 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:03:20 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:03:20 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:03:20 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:03:21 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:03:21 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:04:10 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:04:10 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:06:08 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:06:08 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:06:08 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:06:08 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:06:09 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:06:09 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:06:09 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:06:09 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:06:09 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:06:09 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:06:10 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:06:10 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:08:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:08:44 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:10:37 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:10:37 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:10:37 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:10:37 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:10:38 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:10:38 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:11:35 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:11:35 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:13:34 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:13:34 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:13:34 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:13:34 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:13:35 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:13:35 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:13:47 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:13:47 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:17:51 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:17:51 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:17:52 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:17:52 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:18:02 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:18:02 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:20:32 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:20:32 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:20:33 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:20:33 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:25:11 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:25:11 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:25:35 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:25:35 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:25:35 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:25:35 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:25:36 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:25:36 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:26:23 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:26:23 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:32:52 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:32:52 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:32:52 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:32:52 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:32:53 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:32:53 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:34:19 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:34:19 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:40:06 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:40:06 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:40:06 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:40:06 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:41:23 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:41:23 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:41:43 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:41:43 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:41:43 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:41:43 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:41:45 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:41:45 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:41:46 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:41:46 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:41:47 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:41:47 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:42:07 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:42:07 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:43:53 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:43:53 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:44:00 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:44:00 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:44:00 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:44:00 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:44:01 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:44:01 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:46:16 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:46:16 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:46:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:46:26 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:46:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:46:26 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:46:28 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:46:28 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:46:36 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:46:36 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:50:22 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:50:22 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:50:23 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:50:23 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:51:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:51:05 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 13:51:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 13:51:05 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:00:25 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:00:25 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:00:25 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:00:25 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:00:25 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:00:25 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:00:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:00:26 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:00:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:00:26 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:00:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:00:26 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:00:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:00:26 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:00:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:00:44 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:00:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:00:44 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:00:57 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:00:57 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:01:45 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No such file or directory
+Tue / 2015-04-21 / 14:01:46 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No such file or directory
+Tue / 2015-04-21 / 14:03:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:03:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:03:05 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:03:05 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:13:56 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:13:56 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:15:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:15:26 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:15:27 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:15:27 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:15:33 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:15:33 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:17:34 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:17:34 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:17:35 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:17:35 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:19:01 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:19:01 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:19:50 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:19:50 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:19:51 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:19:51 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:30:14 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:30:14 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:30:30 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:30:30 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:30:31 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:30:31 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:31:56 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:31:56 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:37:57 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:37:57 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:37:58 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:37:58 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:38:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:38:05 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:39:52 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:39:53 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:39:53 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:39:53 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:42:14 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:42:14 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:43:08 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:43:08 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:43:09 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:43:09 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:43:17 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:43:17 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:43:33 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:43:33 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:43:33 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:43:33 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:43:38 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:43:38 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:45:37 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:45:37 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:45:38 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:45:38 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:51:37 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:51:37 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:52:14 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:52:14 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:52:15 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:52:15 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:52:24 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:52:24 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:52:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:52:44 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:52:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:52:44 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:52:52 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:52:52 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:54:01 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:54:01 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:54:02 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:54:02 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:54:12 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:54:12 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:54:25 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:54:25 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:54:50 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:54:50 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:54:51 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:54:51 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:54:57 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:54:57 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:55:39 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:55:39 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 14:55:40 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 14:55:40 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:22:43 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:22:43 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:22:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:22:44 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:23:09 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:23:09 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:23:50 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:23:50 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:23:50 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:23:50 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:23:51 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:23:51 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:25:32 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:25:32 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:41:19 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:41:19 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:41:20 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:41:20 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:42:59 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:42:59 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:43:11 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:43:11 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:43:12 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:43:12 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:44:39 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:44:39 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:45:22 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:45:22 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:45:23 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:45:23 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:47:50 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:47:50 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:52:27 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:52:27 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:52:27 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:52:27 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:52:28 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:52:28 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 10:35:13 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 10:35:13 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 10:35:13 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 10:35:13 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 10:35:23 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 10:35:23 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 10:38:01 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 10:38:01 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 10:38:02 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 10:38:02 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 10:48:40 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 10:48:40 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 10:49:02 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 10:49:02 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 10:49:03 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 10:49:03 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 10:57:54 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 10:57:54 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 10:59:47 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 10:59:47 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 10:59:48 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 10:59:48 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 10:59:51 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 10:59:51 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:00:27 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:00:27 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:00:28 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:00:28 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:00:31 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:00:31 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:00:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:00:41 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:00:59 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:00:59 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:01:00 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:01:00 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:01:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:01:05 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:06:10 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:06:10 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:06:11 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:06:11 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:06:46 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:06:46 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:09:43 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:09:43 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:09:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:09:44 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:09:49 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:09:49 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:10:29 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:10:29 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:10:29 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:10:29 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:12:49 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:12:49 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:13:45 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:13:45 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:13:51 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:13:51 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:17:31 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:17:31 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:17:40 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:17:40 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:17:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:17:41 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:17:46 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:17:46 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:18:13 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:18:13 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:18:54 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:18:54 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:18:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:18:55 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:19:03 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:19:03 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:19:27 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:19:27 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:19:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:19:41 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:19:42 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:19:42 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:19:52 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:19:52 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:19:59 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:19:59 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:20:00 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:20:00 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:20:03 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:20:03 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:23:42 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:23:42 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:23:43 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:23:43 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:23:57 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:23:57 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:24:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:24:05 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:24:15 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:24:15 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:24:33 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:24:33 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:24:34 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:24:34 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:24:40 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:24:40 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:24:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:24:55 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:24:56 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:24:56 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:25:08 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:25:08 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:25:50 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:25:50 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:25:51 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:25:51 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:30:18 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:30:18 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:30:54 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:30:54 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:30:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:30:55 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:33:46 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:33:46 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:35:11 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:35:11 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:35:13 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:35:13 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:19:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:19:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:19:26 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:19:26 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:19:39 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:19:39 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:25:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:25:44 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:25:45 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:25:45 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:42:39 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:42:39 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:42:46 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:42:46 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:43:50 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:43:50 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:43:51 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:43:51 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:44:04 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:44:04 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:44:54 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:44:54 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:44:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:44:55 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:45:01 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:45:01 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:45:57 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:45:57 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:45:57 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:45:57 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:46:00 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:46:00 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:46:20 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:46:20 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:47:16 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:47:16 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:47:17 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:47:17 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:47:20 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:47:20 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:51:24 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:51:24 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:51:25 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:51:25 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:51:35 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:51:35 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:54:14 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:54:14 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:54:15 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:54:15 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:55:29 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:55:29 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:55:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:55:45 WIB/ Koneksi Diputus 
+Thu / 2015-04-23 / 10:55:45 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-23 / 10:55:45 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 08:22:09 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 08:22:09 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 08:22:09 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 08:22:09 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 08:22:47 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 08:22:47 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 08:22:47 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 08:22:47 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 08:33:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 08:33:41 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 08:33:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 08:33:41 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 08:33:52 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 08:33:52 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 08:33:52 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 08:33:52 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:05:46 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:05:46 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:05:46 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:05:46 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:05:56 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:05:56 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:10:18 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:10:18 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:10:19 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:10:19 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:10:35 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:10:35 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:11:33 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:11:33 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:11:34 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:11:34 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:11:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:11:44 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:39:50 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:39:50 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:39:50 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:39:50 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:39:58 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:39:58 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:40:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:40:26 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:40:27 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:40:27 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:40:37 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:40:37 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:41:33 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:41:33 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:41:34 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:41:34 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:47:48 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:47:48 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:54:59 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:54:59 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:55:00 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:55:00 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:57:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:57:55 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:59:06 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:59:06 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 09:59:06 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 09:59:06 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 10:04:48 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 10:04:48 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 10:05:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 10:05:41 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 10:05:42 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 10:05:42 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 10:07:32 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 10:07:32 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 10:07:32 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 10:07:32 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 10:52:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 10:52:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 10:52:41 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 10:52:41 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 10:56:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 10:56:26 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 10:56:59 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 10:56:59 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 10:57:00 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 10:57:00 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 10:57:03 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 10:57:03 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 10:57:12 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 10:57:12 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 10:57:12 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 10:57:12 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 10:57:15 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 10:57:15 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 10:57:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 10:57:41 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 10:57:42 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 10:57:42 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 13:05:09 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 13:05:09 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 13:05:09 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 13:05:09 WIB/ Koneksi Diputus 
+Tue / 2015-04-28 / 21:03:09 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Tue / 2015-04-28 / 21:03:09 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Tue / 2015-04-28 / 21:03:09 WIB/ Koneksi Diputus 
+Tue / 2015-04-28 / 21:03:09 WIB/ Koneksi Diputus 
+Tue / 2015-04-28 / 21:18:23 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Tue / 2015-04-28 / 21:18:24 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:01:09 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:01:09 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:01:09 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:01:10 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:01:18 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:01:18 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:01:18 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:01:18 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:05:06 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:05:07 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:05:07 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:05:07 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:11:37 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:11:37 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:13:17 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:13:17 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:13:25 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:13:25 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:13:25 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:13:25 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:14:34 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:14:34 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:14:45 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:14:45 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:15:29 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:15:30 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:15:30 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:15:31 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:15:37 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:15:38 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:16:20 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:16:20 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:17:47 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:17:47 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:18:05 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:18:05 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:18:06 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:18:06 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:18:24 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:18:24 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:19:03 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:19:03 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:19:12 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:19:13 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:19:13 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:19:13 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:20:28 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:20:28 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:20:33 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:20:33 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:20:33 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:20:34 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:20:37 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:20:38 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:20:43 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:20:44 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:20:44 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:20:44 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:20:48 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:20:48 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:20:58 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:20:59 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:20:59 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:20:59 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:21:07 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:21:07 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:21:11 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:21:12 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:21:12 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:21:12 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:21:23 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:21:23 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:21:27 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:21:28 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:21:28 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:21:28 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:21:30 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:21:30 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:21:34 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:21:35 WIB/ Koneksi Diputus 
+Wed / 2015-04-29 / 13:21:35 WIB/ Koneksi Berhasil: Use Database itk_test5 
+Wed / 2015-04-29 / 13:21:35 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:06:21 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:06:21 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:06:21 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:06:21 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:06:23 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:06:23 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:06:42 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:06:42 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:06:43 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:06:43 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:06:45 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:06:45 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:07:00 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:07:00 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:07:01 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:07:01 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:07:08 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:07:08 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:07:20 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:07:20 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:07:20 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:07:20 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:07:24 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:07:24 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:07:36 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:07:36 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:07:37 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:07:37 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:07:43 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:07:43 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:08:14 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:08:14 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:08:15 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:08:15 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:08:20 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:08:20 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:08:33 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:08:33 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:08:33 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:08:33 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:08:38 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:08:38 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:08:49 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:08:49 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:08:49 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:08:49 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:08:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:08:55 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:09:08 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:09:08 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:09:09 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:09:09 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:09:10 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:09:10 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:09:20 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:09:20 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:09:21 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:09:21 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:09:24 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:09:24 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:09:28 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:09:28 WIB/ Koneksi Diputus 
+Sun / 2015-05-03 / 19:09:28 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-03 / 19:09:28 WIB/ Koneksi Diputus 
+Mon / 2015-05-04 / 04:08:23 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-05-04 / 04:08:23 WIB/ Koneksi Diputus 
+Mon / 2015-05-04 / 04:08:23 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-05-04 / 04:08:23 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 11:28:36 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 11:28:36 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 11:28:36 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 11:28:36 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 11:28:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 11:28:41 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 11:28:47 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 11:28:47 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 11:28:47 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 11:28:47 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 11:29:03 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 11:29:03 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 11:29:11 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 11:29:11 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 11:29:11 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 11:29:11 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 19:07:42 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 19:07:42 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 19:07:42 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 19:07:42 WIB/ Koneksi Diputus 
+Thu / 2015-05-28 / 11:21:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-05-28 / 11:21:44 WIB/ Koneksi Diputus 
+Thu / 2015-05-28 / 11:21:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-05-28 / 11:21:44 WIB/ Koneksi Diputus 
+Wed / 2015-06-03 / 11:55:09 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-03 / 11:55:09 WIB/ Koneksi Diputus 
+Wed / 2015-06-03 / 11:55:09 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-03 / 11:55:09 WIB/ Koneksi Diputus 
+Tue / 2015-06-09 / 16:19:08 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-06-09 / 16:19:08 WIB/ Koneksi Diputus 
+Tue / 2015-06-09 / 16:19:08 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-06-09 / 16:19:08 WIB/ Koneksi Diputus 
+Tue / 2015-06-09 / 16:20:32 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-06-09 / 16:20:32 WIB/ Koneksi Diputus 
+Tue / 2015-06-09 / 16:20:32 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-06-09 / 16:20:32 WIB/ Koneksi Diputus 
+Tue / 2015-06-09 / 16:20:53 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-06-09 / 16:20:53 WIB/ Koneksi Diputus 
+Tue / 2015-06-09 / 16:20:53 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-06-09 / 16:20:53 WIB/ Koneksi Diputus 
+Wed / 2015-06-10 / 13:29:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-10 / 13:29:55 WIB/ Koneksi Diputus 
+Wed / 2015-06-10 / 13:29:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-10 / 13:29:55 WIB/ Koneksi Diputus 
+Fri / 2015-06-19 / 17:06:14 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-19 / 17:06:14 WIB/ Koneksi Diputus 
+Fri / 2015-06-19 / 17:06:14 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-19 / 17:06:14 WIB/ Koneksi Diputus 
+Thu / 2015-07-02 / 21:58:25 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-07-02 / 21:58:25 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-07-02 / 21:58:25 WIB/ Koneksi Diputus 
+Thu / 2015-07-02 / 21:58:25 WIB/ Koneksi Diputus 
+Thu / 2015-07-02 / 21:58:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-07-02 / 21:58:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-07-02 / 21:58:55 WIB/ Koneksi Diputus 
+Thu / 2015-07-02 / 21:58:55 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 01:21:43 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 01:21:43 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 01:21:43 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 01:21:43 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 01:21:47 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 01:21:47 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 10:49:11 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 10:49:11 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 10:49:11 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 10:49:11 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 10:49:47 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 10:49:47 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 10:49:47 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 10:49:47 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 10:50:07 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 10:50:07 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 10:50:20 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 10:50:20 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 10:50:21 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 10:50:21 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 10:50:21 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 10:50:21 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 11:09:43 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 11:09:43 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 11:09:43 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 11:09:43 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 11:10:56 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 11:10:56 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 11:10:56 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 11:10:56 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 11:12:57 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 11:12:57 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 11:12:57 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 11:12:57 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 11:27:19 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 11:27:19 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 11:27:19 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 11:27:19 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 11:28:23 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 11:28:23 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 11:28:23 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 11:28:23 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 20:42:15 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 20:42:15 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 20:42:15 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 20:42:15 WIB/ Koneksi Diputus 
+Sat / 2015-08-08 / 09:59:27 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sat / 2015-08-08 / 09:59:27 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sat / 2015-08-08 / 09:59:27 WIB/ Koneksi Diputus 
+Sat / 2015-08-08 / 09:59:27 WIB/ Koneksi Diputus 
+Sat / 2015-08-08 / 10:13:19 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sat / 2015-08-08 / 10:13:19 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sat / 2015-08-08 / 10:13:19 WIB/ Koneksi Diputus 
+Sat / 2015-08-08 / 10:13:19 WIB/ Koneksi Diputus 
+Sat / 2015-08-08 / 10:13:29 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sat / 2015-08-08 / 10:13:29 WIB/ Koneksi Diputus 
+Sat / 2015-08-08 / 10:13:29 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sat / 2015-08-08 / 10:13:29 WIB/ Koneksi Diputus 
+Sat / 2015-08-08 / 10:17:20 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sat / 2015-08-08 / 10:17:20 WIB/ Koneksi Diputus 
+Sat / 2015-08-08 / 10:17:20 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sat / 2015-08-08 / 10:17:20 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 12:55:28 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 12:55:28 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 12:55:28 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 12:55:28 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 12:56:24 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 12:56:24 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 12:56:24 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 12:56:24 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 12:56:44 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 12:56:44 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 12:56:44 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 12:56:44 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 12:56:55 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 12:56:55 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 12:57:17 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 12:57:17 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 12:57:17 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 12:57:17 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 12:57:17 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 12:57:17 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 17:57:20 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 17:57:20 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 17:57:20 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 17:57:20 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 17:57:30 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 17:57:30 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 17:57:40 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 17:57:40 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 17:57:40 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 17:57:40 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 17:57:41 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 17:57:41 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 17:58:19 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 17:58:19 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 17:58:19 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 17:58:19 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 17:58:42 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 17:58:42 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 17:58:43 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 17:58:43 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 17:58:45 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 17:58:45 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 17:58:57 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 17:58:57 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 17:58:57 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 17:58:57 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 17:58:58 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 17:58:58 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 17:59:46 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 17:59:46 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 17:59:46 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 17:59:46 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 17:59:51 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 17:59:51 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:00:01 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:00:01 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:00:01 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:00:01 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:00:01 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:00:01 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:00:19 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:00:19 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:00:28 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:00:29 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:00:29 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:00:29 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:00:31 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:00:31 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:00:39 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:00:39 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:00:39 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:00:39 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:00:39 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:00:39 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:01:55 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:01:55 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:01:55 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:01:55 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:09:30 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:09:30 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:13:53 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:13:53 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:14:26 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:14:26 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:14:26 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:14:26 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:16:00 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:16:00 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:16:00 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:16:00 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:18:14 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:18:14 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:18:14 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:18:14 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:18:18 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:18:18 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:18:18 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:18:18 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:18:18 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:18:18 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:25:46 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:25:46 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:25:46 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:25:46 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:26:16 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:26:16 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:26:17 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:26:17 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:28:46 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:28:46 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:28:46 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:28:46 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:28:49 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:28:49 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:29:06 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:29:07 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:29:07 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:29:07 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:30:03 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:30:03 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:30:03 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:30:03 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:30:09 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:30:09 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:32:00 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:32:00 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:32:00 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:32:00 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:32:09 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:32:09 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:32:09 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:32:09 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:32:12 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:32:12 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:32:22 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:32:22 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:32:22 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:32:22 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:32:32 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:32:32 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:32:32 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:32:32 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:32:32 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:32:32 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:32:35 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:32:35 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:32:35 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:32:36 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:32:36 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:32:36 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:32:40 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:32:40 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:32:40 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:32:40 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:32:40 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:32:41 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:33:18 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:33:18 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:33:18 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:33:18 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:33:45 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:33:45 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:33:45 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:33:45 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:33:53 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:33:53 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:34:07 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:34:07 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:34:07 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:34:07 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:34:07 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:34:07 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:34:25 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:34:25 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:34:25 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:34:25 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:35:25 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:35:25 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:35:32 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:35:32 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:35:32 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:35:32 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:35:41 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:35:41 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:35:48 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:35:48 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:35:48 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:35:48 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:35:48 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:35:48 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:37:00 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:37:00 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:37:00 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:37:00 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:37:02 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:37:02 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:37:10 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:37:10 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:37:10 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:37:10 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:37:10 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:37:10 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:37:42 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:37:42 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:37:42 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:37:42 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:37:44 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:37:44 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:37:51 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:37:51 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:37:51 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:37:51 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:37:51 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:37:51 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:40:25 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:40:25 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:40:25 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:40:25 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:40:27 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:40:27 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:40:35 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:40:35 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:41:31 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:41:31 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:41:31 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:41:31 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:41:33 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:41:33 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:41:43 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:41:43 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:41:43 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:41:43 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:41:43 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:41:43 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:41:54 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:41:54 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:42:04 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:42:04 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:42:04 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:42:04 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:42:04 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:42:04 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:45:39 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:45:39 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:45:39 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:45:39 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:45:41 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:45:41 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:46:10 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:46:10 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:46:10 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:46:10 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:46:13 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:46:13 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:46:16 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:46:16 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:46:18 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:46:18 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:46:19 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:46:19 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:46:19 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:46:19 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:46:36 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:46:36 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:46:36 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:46:36 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:46:39 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:46:39 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:46:54 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:46:54 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:46:54 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:46:54 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:46:57 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:46:57 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:46:58 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:46:58 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:46:59 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:46:59 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:46:59 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:46:59 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:46:59 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:46:59 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:47:00 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:47:00 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:47:01 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:47:01 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:47:01 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:47:01 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:47:02 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:47:02 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:47:19 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:47:19 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:47:19 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:47:19 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:47:21 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:47:21 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:48:25 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:48:25 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:48:33 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:48:33 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:48:33 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:48:34 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:48:34 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:48:34 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:48:47 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:48:47 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:48:47 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:48:47 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:48:49 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:48:50 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:56:17 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:56:17 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:56:17 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:56:17 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 18:56:20 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 18:56:20 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:13:28 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:13:28 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:13:28 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:13:28 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:13:54 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:13:54 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:13:54 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:13:54 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:24:49 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:24:49 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:24:57 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:24:57 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:24:57 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:24:57 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:25:01 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:25:01 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:25:05 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:25:06 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:25:06 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:25:06 WIB/ Koneksi Diputus 
+Tue / 2015-08-11 / 01:04:56 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-11 / 01:04:56 WIB/ Koneksi Diputus 
+Tue / 2015-08-11 / 01:04:56 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-11 / 01:04:56 WIB/ Koneksi Diputus 
+Tue / 2015-08-11 / 01:17:17 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-11 / 01:17:17 WIB/ Koneksi Diputus 
+Tue / 2015-08-11 / 01:17:17 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-11 / 01:17:17 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 08:59:33 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 08:59:33 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 08:59:33 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 08:59:33 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 08:59:45 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 08:59:45 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 08:59:45 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 08:59:45 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:00:19 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:00:19 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:12:07 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:12:07 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:12:07 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:12:07 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:35:40 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:35:40 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:35:40 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:35:40 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:44:03 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:44:04 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:44:04 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:44:04 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:44:08 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:44:08 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:47:25 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:47:25 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:47:25 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:47:25 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:47:29 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:47:29 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:48:35 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:48:35 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:49:44 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:49:45 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:49:45 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:49:45 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:49:59 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:49:59 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:50:08 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:50:08 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:50:08 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:50:08 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:51:05 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:51:05 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:51:11 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:51:11 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:51:11 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:51:11 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:51:45 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:51:45 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:52:06 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:52:06 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:52:06 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:52:06 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:06:01 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:06:01 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:06:07 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:06:07 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:06:07 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:06:07 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:06:09 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:06:09 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:06:13 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:06:13 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:06:13 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:06:13 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 01:39:08 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 01:39:08 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 01:39:08 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 01:39:08 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 01:39:32 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 01:39:32 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 01:39:32 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 01:39:32 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 01:39:39 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 01:39:39 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 01:39:51 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 01:39:51 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 01:39:51 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 01:39:51 WIB/ Koneksi Diputus 

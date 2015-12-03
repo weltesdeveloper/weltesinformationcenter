@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="../../js/jquery.mobile-1.4.5.min.css">
+        <script src="../../js/jquery-1.11.1.min.js"></script>
+        <script src="../../js/jquery.mobile-1.4.5.min.js"></script>
+    </head>
+    <body>
+        <section id="upload">
+
+            <!--#################################################################################-->
+            <div data-role="page" id="page_upload">
+                <div data-role="header">
+                    <a href="#" class="ui-btn ui-corner-all ui-shadow ui-icon-back ui-btn-icon-left" data-rel="back" id="btnKembali">Back</a>
+                    <h1>Weltes Energy Nusantara</h1>
+                    <div data-role="navbar">
+                        <ul>
+                            <li><a href="#" class="ui-btn-active ui-state-persist" data-icon="home" id="pageHome">Upload Foto</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div data-role="main" class="ui-content">
+
+                    <input type="hidden" id="param" disabled="disabled"/>
+                    <input type="hidden" id="job" disabled="disabled"/>
+                    <input type="hidden" id="sub_job" disabled="disabled"/>
+                    <input id="head_mark" disabled="disabled"/>
+                    <input type="hidden" id="status" disabled="disabled"/>
+                    
+                    <select name="subcont" id="subcont" >
+                        <option value="0">- Pilih Subcont -</option>
+                    </select>
+                    
+                    <div id="error">
+                            Pilih Subcont ... !!!
+                    </div>
+                    
+                    <ul data-role="listview" data-inset="true" id="list">
+                        <li>
+                            <a href="#" id="btnMarking">
+                                <img src="../../jquery-mobile/img/marking.png">
+                                <h2>MARKING</h2>
+                                <p>Jumlah Barang : <span id="tot_gambar_mark"></span></p>
+                                <span class="ui-li-count" id="imgTotalMark"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" id="btnCutting">
+                                <img src="../../jquery-mobile/img/cutting.png">
+                                <h2>CUTTING</h2>
+                                <p>Jumlah Barang : <span id="tot_gambar_cutt"></span></p>
+                                <span class="ui-li-count" id="imgTotalCutt"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" id="btnAssembly">
+                                <img src="../../jquery-mobile/img/assembly.png">
+                                <h2>ASSEMBLY</h2>
+                                <p>Jumlah Barang : <span id="tot_gambar_assy"></span></p>
+                                <span class="ui-li-count" id="imgTotalAssy"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" id="btnWelding">
+                                <img src="../../jquery-mobile/img/welding.png">
+                                <h2>WELDING</h2>
+                                <p>Jumlah Barang : <span id="tot_gambar_weld"></span></p>
+                                <span class="ui-li-count" id="imgTotalWeld"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" id="btnDrilling">
+                                <img src="../../jquery-mobile/img/drilling.png">
+                                <h2>DRILLING</h2>
+                                <p>Jumlah Barang : <span id="tot_gambar_drill"></span></p>
+                                <span class="ui-li-count" id="imgTotalDrill"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" id="btnFinishing">
+                                <img src="../../jquery-mobile/img/finishing.png">
+                                <h2>FINISHING</h2>
+                                <p>Jumlah Barang : <span id="tot_gambar_finsh"></span></p>
+                                <span class="ui-li-count" id="imgTotalFinsh"></span>
+                            </a>
+                        </li>
+                    </ul>
+
+                    <!--<a href="#" class="ui-btn ui-corner-all ui-shadow ui-btn-inline ui-btn-b ui-icon-gear ui-btn-icon-left" id="btnUpload">Proses</a>-->
+                    <!--<a href="#" class="ui-btn ui-corner-all ui-shadow ui-btn-inline ui-btn-b ui-icon-back ui-btn-icon-left" data-rel="back" id="btnKembali">Go Back</a>-->
+
+                </div>
+
+                <div data-role="footer">
+                    <h1>My Footer</h1>
+                </div>    
+
+            </div> 
+        </section>	
+    </body>
+</html>
+
+<script src="script_upload.js" type="text/javascript"></script>

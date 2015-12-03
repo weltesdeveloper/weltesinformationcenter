@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="../../js/jquery.mobile-1.4.5.min.css">
+        <script src="../../js/jquery-1.11.1.min.js"></script>
+        <script src="../../js/jquery.mobile-1.4.5.min.js"></script>
+
+        <script type="text/javascript" charset="utf-8" src="../../cordova.js"></script>
+        <script type="text/javascript" charset="utf-8" src="../../js/camera.js"></script>
+
+    </head>
+    <body>
+        <section id="finishing">
+            <!--#################################################################################-->
+            <div data-role="page" id="page_upload">
+                <div data-role="header">
+                    <a href="#" class="ui-btn ui-corner-all ui-shadow ui-icon-back ui-btn-icon-left" data-rel="back">Back</a>
+                    <h1>Weltes Energy Nusantara</h1>
+                    <!--<a href="#" class="ui-btn ui-corner-all ui-shadow ui-icon-search ui-btn-icon-left">Search</a>-->
+
+                    <div data-role="navbar">
+                        <ul>
+                            <li><a href="#" class="ui-btn-active ui-state-persist" data-icon="home" id="pageHome">FINISHING</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div data-role="main" class="ui-content">
+                    <input type="hidden" id="param" disabled="disabled"/>
+                    <input type="text" id="head" disabled="disabled"/>
+                    <input type="hidden" id="element" value="FINISHING" disabled="disabled"/>
+                    <!--<h2>MARKING</h2>-->
+                    <!--<button onclick="capturePhoto();">Capture Photo</button> <br>-->
+                    <!--<button onclick="capturePhotoEdit();">Capture Editable Photo</button> <br>-->
+                    <!--<button onclick="getPhoto(pictureSource.PHOTOLIBRARY);">From Photo Library</button><br>-->
+                    <!--<button onclick="getPhoto(pictureSource.SAVEDPHOTOALBUM);">From Photo Album</button><br>-->
+                    <!--<img style="display:none;" id="largeImage" src="" />-->
+
+
+                    <ul data-role="listview" data-inset="true">
+                        <li>
+                            <a href="#" id="btnMarking">
+                                <img style="display:none;width:90px;height:90px;" id="smallImage" src="" />
+                                <p>
+                                    <button onclick="capturePhoto();">Capture Photo</button> <br>
+                                </p>
+                            </a>
+                            <textarea name="remark" id="remark"></textarea>
+                        </li>
+                    </ul>
+
+                    <a href="#" class="ui-btn ui-corner-all ui-shadow ui-btn-inline ui-btn-b ui-icon-gear ui-btn-icon-left" id="btnProses">Proses</a>
+                </div>
+
+                <div data-role="footer">
+                    <h1>My Footer</h1>
+                </div>    
+
+            </div> 
+        </section>	
+    </body>
+</html>
+
+<script src="script_finishing.js" type="text/javascript"></script>

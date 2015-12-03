@@ -1,0 +1,2 @@
+[21-Apr-2015 14:01:45 Asia/Jakarta] PHP Fatal error:  Call to a member function setAttribute() on a non-object in /home/itkacid/public_html/admin-itk/config/dbConfig.php on line 261
+[21-Apr-2015 14:01:46 Asia/Jakarta] PHP Fatal error:  Call to a member function setAttribute() on a non-object in /home/itkacid/public_html/admin-itk/config/dbConfig.php on line 151

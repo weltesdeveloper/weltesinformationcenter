@@ -1,0 +1,400 @@
+Mon / 2014-11-17 / 15:10:28 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:10:28 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 15:10:47 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:10:47 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 15:10:48 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:10:48 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 15:10:51 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:10:51 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 15:10:52 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:10:52 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 15:12:15 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:12:15 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 15:12:24 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:12:24 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 15:12:24 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:12:25 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 15:12:47 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:12:47 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 15:12:48 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:12:48 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 15:12:53 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:12:53 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 15:12:54 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:12:54 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 15:12:57 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:12:57 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 15:13:00 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:13:00 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 15:13:01 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:13:01 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 15:13:05 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:13:05 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 15:13:07 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:13:07 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 15:13:11 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:13:12 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 15:13:47 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 15:13:47 WIB/ Koneksi Diputus 
+Mon / 2014-11-17 / 23:57:44 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Mon / 2014-11-17 / 23:57:44 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:29:59 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:29:59 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:30:43 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:30:43 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:30:44 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:30:44 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:30:50 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:30:51 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:30:52 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:30:52 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:30:57 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:30:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:31:01 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:31:01 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:31:01 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:31:01 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:31:07 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:31:07 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:31:08 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:31:08 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:31:57 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:31:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:31:58 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:31:58 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:32:04 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:32:04 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:32:42 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:32:42 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:32:49 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:32:49 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:32:50 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:32:50 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:33:03 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:33:03 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:33:07 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:33:07 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:33:08 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:33:08 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:33:25 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:33:25 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:33:26 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:33:26 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:33:32 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:33:32 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:35:42 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:35:42 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:36:30 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:36:30 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:36:31 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:36:31 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:36:38 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:36:38 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:36:39 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:36:39 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:36:43 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:36:43 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:36:49 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:36:49 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:36:50 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:36:50 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:36:56 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:36:56 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:36:56 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:36:56 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:37:28 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:37:28 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:37:29 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:37:29 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:37:37 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:37:37 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:37:50 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:37:50 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:37:51 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:37:51 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:38:07 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:38:07 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:38:11 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:38:11 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:50:03 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:50:03 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:50:10 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:50:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:50:33 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:50:33 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:51:12 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:51:12 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:51:13 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:51:13 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:51:45 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:51:45 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:51:48 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:51:48 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:51:53 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:51:53 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:51:56 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:51:56 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:54:21 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:54:21 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 00:54:28 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 00:54:28 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 01:11:55 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 01:11:55 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 01:11:59 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 01:11:59 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 01:12:04 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 01:12:04 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 01:12:10 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 01:12:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 01:12:56 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 01:12:56 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 01:13:00 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 01:13:00 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 01:14:47 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 01:14:47 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 01:22:06 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 01:22:06 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 01:22:24 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 01:22:24 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 01:22:25 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 01:22:25 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 01:22:29 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 01:22:29 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 10:34:25 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 10:34:26 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 10:34:37 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 10:34:37 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 10:34:39 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 10:34:39 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 10:34:43 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 10:34:43 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 10:34:45 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 10:34:45 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 10:34:50 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 10:34:50 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 10:34:58 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 10:34:58 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 10:34:59 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 10:34:59 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 10:35:09 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 10:35:09 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 10:35:10 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 10:35:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:03:56 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:03:56 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:11:27 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:11:27 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:11:53 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:11:53 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:11:57 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:11:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:48:27 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:48:27 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:55:41 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:55:41 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:55:45 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:55:45 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:55:46 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:55:46 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:55:57 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:55:58 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:55:58 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:55:58 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:56:02 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:56:02 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:56:14 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:56:14 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:56:14 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:56:14 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:56:19 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:56:19 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:56:20 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:56:20 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:56:26 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:56:26 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:57:20 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:57:20 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:57:29 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:57:29 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:58:42 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:58:42 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:58:43 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:58:43 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:58:45 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:58:46 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:59:13 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:59:13 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:59:14 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:59:14 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 11:59:19 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 11:59:20 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 12:10:25 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 12:10:25 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 12:10:44 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 12:10:44 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 12:11:36 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 12:11:36 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 12:13:19 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 12:13:19 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 12:13:23 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 12:13:23 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 12:13:25 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 12:13:25 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 12:13:27 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 12:13:27 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 12:13:30 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 12:13:30 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 12:13:31 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 12:13:31 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 12:13:36 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 12:13:36 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 12:13:38 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 12:13:38 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 12:13:51 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 12:13:51 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 12:13:52 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 12:13:52 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 12:13:56 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 12:13:56 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 12:13:58 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 12:13:58 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 12:43:01 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 12:43:01 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 12:43:19 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 12:43:19 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 12:43:20 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 12:43:20 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 17:04:32 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 17:04:32 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 17:04:37 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 17:04:37 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 17:04:59 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 17:04:59 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 17:05:01 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 17:05:01 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 17:05:20 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 17:05:20 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 17:05:21 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 17:05:21 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 17:05:26 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 17:05:26 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 17:05:28 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 17:05:28 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 17:05:38 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 17:05:38 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 17:06:27 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 17:06:28 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 17:06:29 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 17:06:29 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 17:15:13 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 17:15:13 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 17:24:47 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 17:24:47 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 18:40:35 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 18:40:35 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 18:40:41 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 18:40:41 WIB/ Koneksi Diputus 
+Tue / 2014-11-18 / 18:40:43 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Tue / 2014-11-18 / 18:40:43 WIB/ Koneksi Diputus 
+Thu / 2014-11-20 / 13:40:24 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Thu / 2014-11-20 / 13:40:24 WIB/ Koneksi Diputus 
+Thu / 2014-11-20 / 13:40:28 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Thu / 2014-11-20 / 13:40:29 WIB/ Koneksi Diputus 
+Thu / 2014-11-20 / 13:40:56 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Thu / 2014-11-20 / 13:40:57 WIB/ Koneksi Diputus 
+Thu / 2014-11-20 / 13:40:59 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Thu / 2014-11-20 / 13:40:59 WIB/ Koneksi Diputus 
+Thu / 2014-11-20 / 14:13:21 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Thu / 2014-11-20 / 14:13:21 WIB/ Koneksi Diputus 
+Thu / 2014-11-20 / 14:13:48 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Thu / 2014-11-20 / 14:13:48 WIB/ Koneksi Diputus 
+Thu / 2014-11-20 / 14:14:07 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Thu / 2014-11-20 / 14:14:07 WIB/ Koneksi Diputus 
+Thu / 2014-11-20 / 14:14:09 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Thu / 2014-11-20 / 14:14:09 WIB/ Koneksi Diputus 
+Thu / 2014-11-20 / 14:33:39 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Thu / 2014-11-20 / 14:33:39 WIB/ Koneksi Diputus 
+Thu / 2014-11-20 / 15:07:42 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Thu / 2014-11-20 / 15:07:42 WIB/ Koneksi Diputus 
+Thu / 2014-11-20 / 15:07:46 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Thu / 2014-11-20 / 15:07:46 WIB/ Koneksi Diputus 
+Thu / 2014-11-20 / 15:08:03 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Thu / 2014-11-20 / 15:08:03 WIB/ Koneksi Diputus 
+Thu / 2014-11-20 / 15:08:04 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Thu / 2014-11-20 / 15:08:05 WIB/ Koneksi Diputus 
+Thu / 2014-11-20 / 15:17:54 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Thu / 2014-11-20 / 15:17:54 WIB/ Koneksi Diputus 
+Thu / 2014-11-20 / 15:18:05 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Thu / 2014-11-20 / 15:18:05 WIB/ Koneksi Diputus 
+Thu / 2014-11-20 / 15:18:18 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Thu / 2014-11-20 / 15:18:18 WIB/ Koneksi Diputus 
+Thu / 2014-11-20 / 15:18:19 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Thu / 2014-11-20 / 15:18:19 WIB/ Koneksi Diputus 
+Fri / 2014-11-21 / 07:43:22 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Fri / 2014-11-21 / 07:43:23 WIB/ Koneksi Diputus 
+Fri / 2014-11-21 / 07:43:39 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Fri / 2014-11-21 / 07:43:39 WIB/ Koneksi Diputus 
+Fri / 2014-11-21 / 07:43:39 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Fri / 2014-11-21 / 07:43:40 WIB/ Koneksi Diputus 
+Fri / 2014-11-21 / 07:43:44 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Fri / 2014-11-21 / 07:43:44 WIB/ Koneksi Diputus 
+Fri / 2014-11-21 / 07:44:10 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Fri / 2014-11-21 / 07:44:10 WIB/ Koneksi Diputus 
+Fri / 2014-11-21 / 07:45:22 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Fri / 2014-11-21 / 07:45:22 WIB/ Koneksi Diputus 
+Fri / 2014-11-21 / 07:45:23 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Fri / 2014-11-21 / 07:45:23 WIB/ Koneksi Diputus 
+Fri / 2014-11-21 / 07:45:26 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Fri / 2014-11-21 / 07:45:26 WIB/ Koneksi Diputus 
+Fri / 2014-11-21 / 07:45:28 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Fri / 2014-11-21 / 07:45:28 WIB/ Koneksi Diputus 
+Mon / 2014-11-24 / 20:24:33 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-11-24 / 20:25:23 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-11-24 / 20:25:26 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-11-24 / 20:25:58 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-11-24 / 20:32:21 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Tue / 2014-11-25 / 10:56:39 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-12-01 / 18:56:36 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-12-01 / 18:57:31 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-12-01 / 18:59:32 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-12-01 / 18:59:46 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-12-01 / 19:36:26 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-12-01 / 19:36:37 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Mon / 2014-12-01 / 19:36:56 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Thu / 2014-12-11 / 09:01:15 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Thu / 2014-12-11 / 09:01:22 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Thu / 2014-12-11 / 09:01:31 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Thu / 2014-12-11 / 09:02:10 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Thu / 2014-12-11 / 09:02:31 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Thu / 2014-12-11 / 09:03:41 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Thu / 2014-12-11 / 09:03:55 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Thu / 2014-12-11 / 15:29:42 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Thu / 2014-12-11 / 15:32:30 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Tue / 2015-01-20 / 18:48:29 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Tue / 2015-01-20 / 18:50:08 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Tue / 2015-01-20 / 18:50:30 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Thu / 2015-01-22 / 11:27:10 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Tue / 2015-02-17 / 08:31:15 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Tue / 2015-02-17 / 08:54:03 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Tue / 2015-02-17 / 09:01:01 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Tue / 2015-02-17 / 09:02:01 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Mon / 2015-03-16 / 14:50:20 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Mon / 2015-03-16 / 14:50:33 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Mon / 2015-04-13 / 13:44:20 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Mon / 2015-04-20 / 08:55:39 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Mon / 2015-04-20 / 08:55:49 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Mon / 2015-04-20 / 11:25:01 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Mon / 2015-04-20 / 11:25:31 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Fri / 2015-05-08 / 21:30:47 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Fri / 2015-05-08 / 21:42:11 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Fri / 2015-05-08 / 21:48:16 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Fri / 2015-05-08 / 22:56:06 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+Wed / 2015-06-03 / 11:53:14 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] Connection refused
+Wed / 2015-06-03 / 11:53:28 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] Connection refused
+Tue / 2015-06-09 / 16:20:56 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] Connection refused
+Thu / 2015-07-02 / 13:59:00 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] Connection refused
+Fri / 2015-08-07 / 01:20:52 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Fri / 2015-08-07 / 01:21:03 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Fri / 2015-08-07 / 01:21:34 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Fri / 2015-08-07 / 11:07:00 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Fri / 2015-08-07 / 11:09:32 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 

@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="../../js/jquery.mobile-1.4.5.min.css">
+        <script src="../../js/jquery-1.11.1.min.js"></script>
+        <script src="../../js/jquery.mobile-1.4.5.min.js"></script>
+        <script type="text/javascript" charset="utf-8" src="../../js/camera-min.js"></script> 
+
+    </head>
+    <body>
+        <section id="home">
+
+            <div data-role="page" id="pageone">
+                <div data-role="header">
+                    <h1>Weltes Energy Nusantara</h1>
+                    <div data-role="navbar">
+                        <ul>
+                            <li><a href="#page_fabrication" class="ui-btn-active ui-state-persist" data-icon="home">Home</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div data-role="main" class="ui-content">
+
+                    <input type="text" id="user" disabled="disabled"/>
+                    <!--<input type="text" id="tes2" disabled="disabled"/>-->
+                    <!--<input type="text" id="tes3" disabled="disabled"/>-->
+
+                    <ul data-role="listview" data-inset="true">
+                        <li>
+                            <a href="#" id="STRUCTURE">
+                                <img src="../../jquery-mobile/img/structure.png">
+                                <h2>STRUCTURE</h2>
+                            </a>
+                            <!--<a href="../fabrication_image/fabrication_image.html" data-transition="pop" data-icon="gear">Go Proses</a>-->
+                        </li>
+                        <li>
+                            <a href="#" id="EQUIPMENT">
+                                <img src="../../jquery-mobile/img/equipment.png">
+                                <h2>EQUIPMENT</h2>
+                            </a>
+                            <!--<a href="../fabrication_image/fabrication_image.html" data-transition="pop" data-icon="gear">Go Proses</a>-->
+                        </li>
+                        <li>
+                            <a href="#" id="OTHERS">
+                                <img src="../../jquery-mobile/img/others.png">
+                                <h2>OTHERS</h2>
+                            </a>
+                            <!--<a href="../fabrication_image/fabrication_image.html" data-transition="pop" data-icon="gear">Go Proses</a>-->
+                        </li>
+                        <li>
+                            <a href="#" id="TANKAGE">
+                                <img src="../../jquery-mobile/img/gudang.png">
+                                <h2>TANKAGE</h2>
+                            </a>
+                            <!--<a href="../fabrication_image/fabrication_image.html" data-transition="pop" data-icon="gear">Go Proses</a>-->
+                        </li>
+                    </ul>
+
+                </div>
+
+
+                <div data-role="footer">
+                    <h1>My Footer</h1>
+                </div> 
+            </div
+           
+        </section>	
+    </body>
+</html>
+
+<script src="script_home.js" type="text/javascript"></script>
+
+
+<!--
+ #################################################################################
+            <div data-role="page" id="page_fabrication">
+                <div data-role="header">
+                    <h1>Weltes Energy Nusantara</h1>
+                    <div data-role="navbar">
+                        <ul>
+                            <li><a href="#" data-icon="home" id="pageHome">Home</a></li>
+                            <li><a href="#" class="ui-btn-active ui-state-persist" data-icon="arrow-r" id="pageFabrication">Page Two</a></li>
+                            <li><a href="#" data-icon="power" id="pageLogout">Logout</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div data-role="main" class="ui-content">
+                    <form>
+                        <fieldset class="ui-field-contain">
+                            <a href="#" class="ui-btn ui-btn-inline ui-icon-refres ui-btn-icon-left ui-corner-all ui-shadow" id="btnRefres">Refres</a>
+                            <input data-type="text" id="pass_parameter">
+                            <input data-type="search" id="searchForJosb">
+                            <select name="job" id="job" data-input="#searchForJob" data-filter="true" >
+                                <option value="0">- Pilih Job -</option>
+                            </select>
+
+                            <input data-type="search" id="searchForSubJob">
+                            <select name="sub_job" id="sub_job" data-input="#searchForSubJob" data-filter="true" >
+                                <option value="0">- Pilih Sub Job -</option>
+                            </select>
+
+                            <input data-type="search" id="searchForHeadMark">
+                            <select name="head_mark" id="head_mark" data-input="#searchForHeadMark" data-filter="true">
+                                <option value="0">- Pilih Head Mark -</option>
+                            </select>
+                        </fieldset>
+                        <a href="#page_upload"  data-transition="fade" class="ui-btn ui-corner-all ui-shadow ui-btn-inline" id="btnProses">Proses</a>
+                    </form>
+                </div>
+
+
+                <div data-role="footer">
+                    <h1>My Footer</h1>
+                </div>    
+
+            </div>-->
+
+<!--
+ #################################################################################
+            <div data-role="page" id="page_upload">
+                <div data-role="header">
+                    <h1>Weltes Energy Nusantara</h1>
+                    <div data-role="navbar">
+                        <ul>
+                            <li><a href="#" class="ui-btn-active ui-state-persist" data-icon="home" id="pageHome">Upload Foto</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div data-role="main" class="ui-content">
+                    <div data-role="main" class="ui-content">
+
+
+                                                <input type="hidden" id="job" disabled="disabled"/>
+                                                <input type="hidden" id="sub_job" disabled="disabled"/>
+                                                <input type="hidden" id="head_mark" disabled="disabled"/>
+
+
+                        <div data-role="main" class="ui-content">
+                                                                                    <form id="form" name="frmUpload" action="" enctype="multipart/form-data" method="post">
+                                                                                        <div data-role="collapsibleset">                                
+                                                                                            <div data-role="collapsible">
+                                                        
+                                                                                                <h3>Marking</h3>
+                                                                                                <p>
+                                                                                                <ul data-role="listview" data-inset="true">
+                                                                                                    <li>
+                                                                                                        <img id="displayFotoMarking" src="../../jquery-mobile/img/warning_img.png" onclick="HandleFileButtonClick();">
+                                                                                                        <h1>Marking</h1>
+                                                                                                    </li>
+                                                                                                </ul>
+                                                                                                <input name="imgInputMarking" id="imgInputMarking" value="" type="file" >
+                                                                                                </p>
+                                                                                            </div>
+                                                                                            <div data-role="collapsible">
+                                                                                                <h3>Cutting</h3>
+                                                                                                <p>
+                                                                                                <ul data-role="listview" data-inset="true">
+                                                                                                    <li>
+                                                                                                        <img id="displayFotoCutting" src="../../jquery-mobile/img/warning_img.png">
+                                                                                                        <h1>Cutting</h1>
+                                                                                                    </li>
+                                                                                                </ul>
+                                                                                                <input name="file-2" id="imgInputCutting" value="" type="file" >
+                                                                                                </p>
+                                                                                            </div>
+                                                                                            <div data-role="collapsible">
+                                                                                                <h3>Assembly</h3>
+                                                                                                <p>
+                                                                                                <ul data-role="listview" data-inset="true">
+                                                                                                    <li>
+                                                                                                        <img id="displayFotoAssembly" src="../../jquery-mobile/img/warning_img.png">
+                                                                                                        <h1>Assembly</h1>
+                                                                                                    </li>
+                                                                                                </ul>
+                                                                                                <input name="file-2" id="imgInputAssembly" value="" type="file" >
+                                                                                                </p>
+                                                                                            </div>
+                                                                                            <div data-role="collapsible">
+                                                                                                <h3>Welding</h3>
+                                                                                                <p>
+                                                                                                <ul data-role="listview" data-inset="true">
+                                                                                                    <li>
+                                                                                                        <img id="displayFotoWelding" src="../../jquery-mobile/img/warning_img.png">
+                                                                                                        <h1>Welding</h1>
+                                                                                                    </li>
+                                                                                                </ul>
+                                                                                                <input name="file-2" id="imgInputWelding" value="" type="file" >
+                                                                                                </p>
+                                                                                            </div>
+                                                                                            <div data-role="collapsible">
+                                                                                                <h3>Drilling</h3>
+                                                                                                <p>
+                                                                                                <ul data-role="listview" data-inset="true">
+                                                                                                    <li>
+                                                                                                        <img id="displayFotoDrilling" src="../../jquery-mobile/img/warning_img.png">
+                                                                                                        <h1>Drilling</h1>
+                                                                                                    </li>
+                                                                                                </ul>
+                                                                                                <input name="file-2" id="imgInputDrilling" value="" type="file" >
+                                                                                                </p>
+                                                                                            </div>
+                                                                                            <div data-role="collapsible">
+                                                                                                <h3>Finishing</h3>
+                                                                                                <p>
+                                                                                                <ul data-role="listview" data-inset="true">
+                                                                                                    <li>
+                                                                                                        <img id="displayFotoFinishing" src="../../jquery-mobile/img/warning_img.png">
+                                                                                                        <h1>Finishing</h1>
+                                                                                                    </li>
+                                                                                                </ul>
+                                                                                                <input name="file-2" id="imgInputFinishing" value="" type="file" >
+                                                                                                </p>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </form>
+
+                            <ul data-role="listview" data-inset="true">
+                                <li><a href="#" id="capturePhoneButton">Capture Photo</a></li>
+                                <li><a href="#" id="fromPhotoLibraryButton">From Photo Library</a></li>
+                            </ul>
+
+                            <div class="mesgBox">
+                                <h5 class="hlabel">Using camera.getPicture method</h5>
+                                <label id="cameraStatus"></label>
+                                <ul class="smFont">
+                                    <li>For both of the above menu items, URI is used to retrieve the image.<br/>
+                                        Along with each image, the corresponding URI is shown.
+                                    </li>
+                                </ul>           
+                            </div>
+
+                            <div data-role="popup" id="popupPhoto" class="ui-content" data-theme="e" data-corners="false">
+                                <h5 class="hlabel">Image URI</h5>
+                                <p id="pictBox" class="content mesgBox"></p>
+                                <a href="#" data-rel="back" data-role="button" data-theme="a" data-icon="delete" data-iconpos="notext" class="ui-btn-right">Close</a>
+                                <img class="popphoto" id="popImage" src="">
+                            </div>
+                        </div>
+
+                        <a href="#" class="ui-btn ui-corner-all ui-shadow ui-btn-inline ui-btn-b ui-icon-back ui-btn-icon-left" data-rel="back">Go Back</a>
+                    </div>
+                </div>
+
+                <div data-role="footer">
+                    <h1>My Footer</h1>
+                </div>    
+
+            </div>
+-->

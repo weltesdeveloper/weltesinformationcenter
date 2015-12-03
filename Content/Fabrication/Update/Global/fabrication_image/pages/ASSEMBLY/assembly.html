@@ -1,0 +1,119 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no;" />
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+        <title>PhoneGap</title>
+        <script type="text/javascript" charset="utf-8" src="../../cordova.js"></script>
+
+        <link rel="stylesheet" href="../../js/jquery.mobile-1.4.5.min.css">
+        <script src="../../js/jquery-1.11.1.min.js"></script>
+        <script src="../../js/jquery.mobile-1.4.5.min.js"></script>
+
+        <script type="text/javascript" charset="utf-8">
+
+            var deviceReady = false;
+
+            function init() {
+                document.addEventListener("deviceready", function () {
+                    deviceReady = true;
+                }, false);
+                window.setTimeout(function () {
+                    if (!deviceReady) {
+                        alert("Error: PhoneGap did not initialize.  Demo will not run correctly.");
+                    }
+                }, 2000);
+            }
+
+            /**
+             * Take picture with camera
+             */
+            function takePicture() {
+                navigator.camera.getPicture(
+                        function (uri) {
+                            var img = document.getElementById('camera_image');
+                            img.style.visibility = "visible";
+                            img.style.display = "block";
+                            img.src = uri;
+                            document.getElementById('camera_status').innerHTML = "Success";
+                        },
+                        function (e) {
+                            console.log("Error getting picture: " + e);
+                            document.getElementById('camera_status').innerHTML = "Error getting picture.";
+                        },
+                        {quality: 50, destinationType: navigator.camera.DestinationType.FILE_URI});
+            }
+            ;
+
+
+        </script>
+
+    </head>
+    <body onload="init();">    
+        <section id="assembly">
+            <!--#################################################################################-->
+            <div data-role="page" id="page_upload">
+                <div data-role="header">
+                    <a href="#" class="ui-btn ui-corner-all ui-shadow ui-icon-back ui-btn-icon-left" data-rel="back">Back</a>
+                    <h1>Weltes Energy Nusantara</h1>
+                    <div data-role="navbar">
+                        <ul>
+                            <li><a href="#" class="ui-btn-active ui-state-persist" data-icon="home" id="pageHome">Upload Foto</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div data-role="main" class="ui-content">
+
+                    <input id="serverUrl" type="hidden" value="http://192.168.110.251:7777/weltesinformationcenter/Content/Fabrication/Update/Global/fabrication_image/API/model_marking.php" />
+                    <input type="text" id="user" disabled="disabled"/>
+                    <input type="hidden" id="param" disabled="disabled"/>
+                    <input type="text" id="head" disabled="disabled"/>
+                    <input type="hidden" id="element" value="ASSEMBLY" disabled="disabled"/>
+                    <input type="hidden" id="subcont" disabled="disabled"/>
+                    <input type="hidden" id="image_id" disabled="disabled"/>
+
+                    Klik icon untuk capture foto <a align="right" href="#" class="ui-btn ui-btn-inline ui-icon-search ui-btn-icon-notext ui-corner-all ui-shadow ui-alt-icon" onclick="takePicture();">Black icon</a>
+
+                    <hr>
+                    <ul data-role="listview" data-inset="true" id="list">
+                        <div data-role="main" class="ui-content" align="center">
+                            <span id="camera_status" align="center"></span>
+                        </div>    
+                    </ul>
+
+                    <ul data-role="listview" data-inset="true" id="list">
+                        <div data-role="main" class="ui-content">
+                            <div id="divQty">
+                                <div data-role="fieldcontain" >
+                                    <label for="text">Qty</label>
+                                    <input type="text" id="qty" />
+                                </div>
+                                <div data-role="fieldcontain">
+                                    <label for="text">Remark</label>
+                                    <textarea name="remark" id="remark"></textarea>
+                                </div>
+                            </div>
+                            <ul data-role="listview" data-inset="true" id="list">
+                                <div data-role="main" class="ui-content" align="center">
+                                    <img style="width:120px;visibility:hidden;display:none;" id="camera_image" src="" /><br>
+                                </div>
+                            </ul>
+                            <a href="#" class="ui-btn ui-corner-all ui-shadow ui-btn-inline ui-btn-b ui-icon-gear ui-btn-icon-left" id="btnProses">Proses</a>
+                        </div>    
+                    </ul>
+
+
+
+                </div>
+
+                <div data-role="footer">
+                    <h1>My Footer</h1>
+                </div>    
+
+            </div> 
+        </section>	
+    </body>
+</html>
+
+<script type="text/javascript" charset="utf-8" src="script_assembly.js"></script>

@@ -1,0 +1,330 @@
+Sun / 2015-08-09 / 04:48:00 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 04:48:01 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE row_status='1'  
+Sun / 2015-08-09 / 04:48:01 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 04:49:40 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 04:49:40 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE row_status='1'  
+Sun / 2015-08-09 / 04:49:40 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 04:51:59 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 04:51:59 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE row_status='1'  
+Sun / 2015-08-09 / 04:51:59 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 04:52:24 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 04:52:24 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE row_status='1'  
+Sun / 2015-08-09 / 04:52:24 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 04:52:46 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 04:52:46 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE row_status='1'  
+Sun / 2015-08-09 / 04:52:46 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 04:55:57 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 04:55:57 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE row_status='1'  
+Sun / 2015-08-09 / 04:55:57 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 04:56:13 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 04:56:13 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE row_status='1'  
+Sun / 2015-08-09 / 04:56:13 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 04:59:24 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 04:59:24 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE row_status='1'  
+Sun / 2015-08-09 / 04:59:24 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 04:59:51 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 04:59:51 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE row_status='1'  
+Sun / 2015-08-09 / 04:59:51 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:00:34 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:00:34 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE row_status='1'  
+Sun / 2015-08-09 / 05:00:34 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:01:22 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:01:22 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:01:38 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:01:38 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:02:14 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:02:14 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Sun / 2015-08-09 / 05:02:14 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:02:38 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:02:38 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:02:56 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:02:56 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Sun / 2015-08-09 / 05:02:56 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:05:51 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:05:51 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Sun / 2015-08-09 / 05:05:51 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:08:10 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:08:10 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Sun / 2015-08-09 / 05:08:10 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:09:44 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:09:44 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Sun / 2015-08-09 / 05:09:44 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:10:25 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:10:25 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi=''  
+Sun / 2015-08-09 / 05:10:25 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:11:58 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:11:58 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi=''  
+Sun / 2015-08-09 / 05:11:58 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:13:11 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:13:11 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Sun / 2015-08-09 / 05:13:11 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:13:29 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:13:29 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Sun / 2015-08-09 / 05:13:29 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:14:20 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:14:20 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Sun / 2015-08-09 / 05:14:20 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:14:51 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:14:51 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Sun / 2015-08-09 / 05:14:51 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:18:22 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:18:22 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='2'  
+Sun / 2015-08-09 / 05:18:22 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:18:28 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:18:28 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='3'  
+Sun / 2015-08-09 / 05:18:28 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:18:38 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:18:38 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='4'  
+Sun / 2015-08-09 / 05:18:38 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:19:07 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:19:07 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='4'  
+Sun / 2015-08-09 / 05:19:07 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:20:45 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:20:45 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='4'  
+Sun / 2015-08-09 / 05:20:45 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:21:05 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:21:05 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='4'  
+Sun / 2015-08-09 / 05:21:05 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:21:26 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:21:26 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='4'  
+Sun / 2015-08-09 / 05:21:26 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:21:37 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:21:37 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='4'  
+Sun / 2015-08-09 / 05:21:37 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:21:58 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:21:58 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='4'  
+Sun / 2015-08-09 / 05:21:58 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:22:06 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:22:06 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='4'  
+Sun / 2015-08-09 / 05:22:06 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:22:13 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:22:13 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='2'  
+Sun / 2015-08-09 / 05:22:13 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:22:19 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:22:19 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='4'  
+Sun / 2015-08-09 / 05:22:19 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:22:22 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:22:22 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='3'  
+Sun / 2015-08-09 / 05:22:22 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:23:34 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:23:34 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='3'  
+Sun / 2015-08-09 / 05:23:34 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:23:39 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:23:39 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='4'  
+Sun / 2015-08-09 / 05:23:39 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:24:01 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:24:01 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='4'  
+Sun / 2015-08-09 / 05:24:01 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:24:13 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:24:13 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='4'  
+Sun / 2015-08-09 / 05:24:13 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:30:35 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:30:35 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='5'  
+Sun / 2015-08-09 / 05:30:35 WIB/ Koneksi Diputus 
+Sun / 2015-08-09 / 05:31:06 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sun / 2015-08-09 / 05:31:06 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='5'  
+Sun / 2015-08-09 / 05:31:06 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:25:38 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:25:38 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Mon / 2015-08-10 / 20:25:38 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:25:42 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:25:42 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='2'  
+Mon / 2015-08-10 / 20:25:42 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:25:45 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:25:45 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='3'  
+Mon / 2015-08-10 / 20:25:45 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:25:48 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:25:48 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='4'  
+Mon / 2015-08-10 / 20:25:48 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:25:55 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:25:55 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='5'  
+Mon / 2015-08-10 / 20:25:55 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:33:56 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:33:56 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='5'  
+Mon / 2015-08-10 / 20:33:56 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:34:00 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:34:00 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='3'  
+Mon / 2015-08-10 / 20:34:00 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:35:11 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:35:11 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='3'  
+Mon / 2015-08-10 / 20:35:11 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:37:07 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:37:07 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Mon / 2015-08-10 / 20:37:07 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:38:49 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:38:49 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='5'  
+Mon / 2015-08-10 / 20:38:49 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:39:06 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:39:06 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='5'  
+Mon / 2015-08-10 / 20:39:06 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:39:24 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:39:24 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Mon / 2015-08-10 / 20:39:24 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:40:40 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:40:40 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Mon / 2015-08-10 / 20:40:40 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:40:46 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:40:46 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Mon / 2015-08-10 / 20:40:46 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:42:28 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:42:28 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Mon / 2015-08-10 / 20:42:28 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:44:17 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:44:17 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Mon / 2015-08-10 / 20:44:17 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:45:41 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:45:41 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='2'  
+Mon / 2015-08-10 / 20:45:42 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:46:16 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:46:16 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='2'  
+Mon / 2015-08-10 / 20:46:16 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:46:20 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:46:20 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='3'  
+Mon / 2015-08-10 / 20:46:20 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:46:23 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:46:23 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Mon / 2015-08-10 / 20:46:23 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:46:26 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:46:26 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='5'  
+Mon / 2015-08-10 / 20:46:26 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:46:48 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:46:48 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Mon / 2015-08-10 / 20:46:48 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:47:27 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:47:27 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Mon / 2015-08-10 / 20:47:27 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:47:48 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:47:48 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Mon / 2015-08-10 / 20:47:48 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:48:04 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:48:04 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Mon / 2015-08-10 / 20:48:04 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:49:38 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:49:38 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Mon / 2015-08-10 / 20:49:38 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:50:02 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:50:02 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Mon / 2015-08-10 / 20:50:02 WIB/ Koneksi Diputus 
+Mon / 2015-08-10 / 20:50:14 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-10 / 20:50:14 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Mon / 2015-08-10 / 20:50:14 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:58:18 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:58:18 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Fri / 2015-08-14 / 09:58:18 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:58:40 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:58:40 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='2'  
+Fri / 2015-08-14 / 09:58:40 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:58:43 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:58:43 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='3'  
+Fri / 2015-08-14 / 09:58:43 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:58:46 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:58:46 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='4'  
+Fri / 2015-08-14 / 09:58:46 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:58:53 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:58:53 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='5'  
+Fri / 2015-08-14 / 09:58:53 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 10:00:32 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 10:00:32 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Fri / 2015-08-14 / 10:00:32 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 10:01:50 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 10:01:50 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='2'  
+Fri / 2015-08-14 / 10:01:50 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 10:01:54 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 10:01:54 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Fri / 2015-08-14 / 10:01:54 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 10:21:19 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 10:21:19 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Fri / 2015-08-14 / 10:21:19 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 10:41:29 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 10:41:29 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Fri / 2015-08-14 / 10:41:29 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 11:03:27 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 11:03:27 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='4'  
+Fri / 2015-08-14 / 11:03:27 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 11:03:30 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 11:03:30 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Fri / 2015-08-14 / 11:03:30 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 11:03:33 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 11:03:33 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='2'  
+Fri / 2015-08-14 / 11:03:33 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 11:03:36 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 11:03:36 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='5'  
+Fri / 2015-08-14 / 11:03:36 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 11:03:40 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 11:03:40 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Fri / 2015-08-14 / 11:03:40 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:36:42 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:36:42 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Fri / 2015-08-14 / 12:36:42 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:36:47 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:36:47 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='5'  
+Fri / 2015-08-14 / 12:36:47 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:41:38 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:41:38 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='4'  
+Fri / 2015-08-14 / 12:41:38 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:50:28 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:50:28 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Fri / 2015-08-14 / 12:50:28 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:51:09 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:51:09 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Fri / 2015-08-14 / 12:51:09 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:51:25 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:51:25 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Fri / 2015-08-14 / 12:51:25 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:52:30 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:52:30 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Fri / 2015-08-14 / 12:52:30 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:52:56 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:52:56 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Fri / 2015-08-14 / 12:52:56 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:53:12 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:53:12 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Fri / 2015-08-14 / 12:53:12 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:53:20 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:53:20 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Fri / 2015-08-14 / 12:53:20 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:56:51 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:56:51 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Fri / 2015-08-14 / 12:56:51 WIB/ Koneksi Diputus 
+Mon / 2015-08-17 / 18:25:47 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-17 / 18:25:47 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Mon / 2015-08-17 / 18:25:47 WIB/ Koneksi Diputus 
+Mon / 2015-08-17 / 20:33:39 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-17 / 20:33:39 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Mon / 2015-08-17 / 20:33:39 WIB/ Koneksi Diputus 
+Mon / 2015-08-17 / 20:52:29 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-17 / 20:52:29 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Mon / 2015-08-17 / 20:52:29 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 23:16:23 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 23:16:23 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Tue / 2015-08-18 / 23:16:23 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:26:20 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:26:20 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Wed / 2015-08-19 / 00:26:20 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:26:23 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:26:23 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='2'  
+Wed / 2015-08-19 / 00:26:23 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:28:36 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:28:36 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Wed / 2015-08-19 / 00:28:36 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:28:40 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:28:40 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='2'  
+Wed / 2015-08-19 / 00:28:40 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:28:49 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:28:49 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Wed / 2015-08-19 / 00:28:49 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 01:37:44 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 01:37:44 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Wed / 2015-08-19 / 01:37:44 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 01:38:40 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 01:38:40 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='2'  
+Wed / 2015-08-19 / 01:38:40 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 01:41:01 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 01:41:01 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='6'  
+Wed / 2015-08-19 / 01:41:01 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 01:44:36 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 01:44:36 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='1'  
+Wed / 2015-08-19 / 01:44:36 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 01:44:42 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 01:44:42 WIB/ Query Berhasil: SELECT * FROM m_informasi WHERE id_informasi='2'  
+Wed / 2015-08-19 / 01:44:42 WIB/ Koneksi Diputus 

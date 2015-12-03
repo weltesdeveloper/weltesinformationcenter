@@ -1,0 +1,21 @@
+Tue / 2014-11-25 / 11:55:38 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Tue / 2014-11-25 / 11:55:38 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Tue / 2014-11-25 / 11:56:51 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Tue / 2014-11-25 / 11:56:51 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Tue / 2014-11-25 / 12:55:37 WIB/ CommitQuery Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_fak' in 'field list' | QuerySyntax (Array
+(
+    [0] => INSERT INTO m_jurusan (id_fak,nama_jur,row_status) VALUES ('1','Teknik Mesin','1')
+)
+)
+Tue / 2014-11-25 / 12:55:56 WIB/ CommitQuery Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_fak' in 'field list' | QuerySyntax (Array
+(
+    [0] => INSERT INTO m_jurusan (id_fak,nama_jur,row_status) VALUES ('1','asd','1')
+)
+)
+Tue / 2014-11-25 / 12:57:15 WIB/ CommitQuery Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_fak' in 'field list' | QuerySyntax (Array
+(
+    [0] => INSERT INTO m_jurusan (id_fak,nama_jur,ket_jur,gambar,row_status) VALUES ('1','Teknik Mesin','Teknik Mesin','Teknik Mesin','1')
+)
+)
+Tue / 2015-04-21 / 14:01:45 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No such file or directory
+Tue / 2015-04-21 / 14:01:46 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No such file or directory

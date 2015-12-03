@@ -1,0 +1,151 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Process Flow</title>
+        <!-- Copyright 1998-2015 by Northwoods Software Corporation. -->
+        <meta charset="UTF-8">
+        <script src="go.js"></script>
+        <script id="code">
+            function init() {
+
+                var $ = go.GraphObject.make;  // for more concise visual tree definitions
+
+                myDiagram =
+                        $(go.Diagram, "myDiagram",
+                                {
+                                    "grid.visible": false,
+                                    "grid.gridCellSize": new go.Size(30, 20),
+                                    "draggingTool.isGridSnapEnabled": true,
+                                    "resizingTool.isGridSnapEnabled": true,
+                                    "rotatingTool.snapAngleMultiple": 90,
+                                    "rotatingTool.snapAngleEpsilon": 45,
+                                    "undoManager.isEnabled": true
+                                });
+
+                myDiagram.nodeTemplateMap.add("Process",
+                        $(go.Node, "Auto",
+                                {locationSpot: new go.Spot(0.5, 0.5), locationObjectName: "SHAPE",
+                                    resizable: true, resizeObjectName: "SHAPE"},
+                        new go.Binding("location", "pos", go.Point.parse).makeTwoWay(go.Point.stringify),
+                                $(go.Shape, "Cylinder1",
+                                        {name: "SHAPE",
+                                            strokeWidth: 2,
+                                            fill: $(go.Brush, "Linear",
+                                                    {start: go.Spot.Left, end: go.Spot.Right,
+                                                        0: "gray", 0.5: "white", 1: "gray"}),
+                                            minSize: new go.Size(50, 50),
+                                            portId: "", fromSpot: go.Spot.AllSides, toSpot: go.Spot.AllSides
+                                        },
+                                new go.Binding("desiredSize", "size", go.Size.parse).makeTwoWay(go.Size.stringify)),
+                                $(go.TextBlock,
+                                        {alignment: go.Spot.Center, textAlign: "center", margin: 5,
+                                            editable: true},
+                                new go.Binding("text").makeTwoWay())
+                                ));
+
+                myDiagram.nodeTemplateMap.add("Valve",
+                        $(go.Node, "Vertical",
+                                {locationSpot: new go.Spot(0.5, 1, 0, -21), locationObjectName: "SHAPE",
+                                    selectionObjectName: "SHAPE", rotatable: true},
+                        new go.Binding("angle").makeTwoWay(),
+                                new go.Binding("location", "pos", go.Point.parse).makeTwoWay(go.Point.stringify),
+                                $(go.TextBlock,
+                                        {alignment: go.Spot.Center, textAlign: "center", margin: 5, editable: true},
+                                new go.Binding("text").makeTwoWay(),
+                                        // keep the text upright, even when the whole node has been rotated upside down
+                                        new go.Binding("angle", "angle", function (a) {
+                                            return a === 180 ? 180 : 0;
+                                        }).ofObject()),
+                                $(go.Shape,
+                                        {name: "SHAPE",
+                                            geometryString: "F1 M0 0 L40 20 40 0 0 20z M20 10 L20 30 M12 30 L28 30",
+                                            strokeWidth: 2,
+                                            fill: $(go.Brush, "Linear", {0: "gray", 0.35: "white", 0.7: "gray"}),
+                                            portId: "", fromSpot: new go.Spot(1, 0.35), toSpot: new go.Spot(0, 0.35)})
+                                ));
+
+                myDiagram.linkTemplate =
+                        $(go.Link,
+                                {routing: go.Link.AvoidsNodes, curve: go.Link.JumpGap, corner: 10, reshapable: true, toShortLength: 7},
+                        new go.Binding("points").makeTwoWay(),
+                                // mark each Shape to get the link geometry with isPanelMain: true
+                                $(go.Shape, {isPanelMain: true, stroke: "black", strokeWidth: 5}),
+                                $(go.Shape, {isPanelMain: true, stroke: "gray", strokeWidth: 3}),
+                                $(go.Shape, {isPanelMain: true, stroke: "white", strokeWidth: 1, name: "PIPE", strokeDashArray: [10, 10]}),
+                                $(go.Shape, {toArrow: "Triangle", fill: "black", stroke: null})
+                                );
+
+                load();
+
+                loop();  // animate some flow through the pipes
+            }
+
+            function loop() {
+                var diagram = myDiagram;
+                setTimeout(function () {
+                    var oldskips = diagram.skipsUndoManager;
+                    diagram.skipsUndoManager = true;
+                    diagram.links.each(function (link) {
+                        var shape = link.findObject("PIPE");
+                        var off = shape.strokeDashOffset;
+                        off -= 2;
+                        shape.strokeDashOffset = (off <= 0) ? 20 : off;
+                    });
+                    diagram.skipsUndoManager = oldskips;
+                    loop();
+                }, 100);
+            }
+
+            function save() {
+                document.getElementById("mySavedModel").value = myDiagram.model.toJson();
+                myDiagram.isModified = false;
+            }
+            function load() {
+                myDiagram.model = go.Model.fromJson(document.getElementById("mySavedModel").value);
+            }
+        </script>
+
+    </head>
+    <body onload="init()">
+        <div id="sample">
+            <div id="myDiagram" style="border: solid 1px gray; width:100%; height:500px"></div>
+            <button type="button" onclick="save()">Save</button>
+            <button type="button" onclick="load()">Load</button>
+            <br />
+            <textarea id="mySavedModel" style="width:100%;height:300px">
+                { "class": "go.GraphLinksModel",
+      "nodeDataArray": 
+    [ 
+            {"key":"TEKLA", "category":"Process", "pos":"840 180", "text":"Tekla \n XX TONNdasdsad", "size":"118 50"},
+            {"key":"ASSIGN", "category":"Process", "pos":"840 320", "text":"Assign", "size":"101 50"},
+            {"key":"NOTASSIGN", "category":"Process", "pos":"1740 300", "text":"Not Assigned", "size":"101 50"},
+            {"key":"QCPASS", "category":"Process", "pos":"600 420", "text":"QC Passed", "size":"101 50"},
+            {"key":"QCNOTPASS", "category":"Process", "pos":"1320 420", "text":"QC Not Passed", "size":"101 50"},
+            {"key":"SBPT", "category":"Process", "pos":"480 560", "text":"Sandblast Painting", "size":"147 50"},
+            {"key":"DELIVERY", "category":"Process", "pos":"720 560", "text":"Delivery", "size":"144 50"},
+            {"key":"MARKING", "category":"Process", "pos":"900 560", "text":"Marking", "size":"101 50"},
+            {"key":"CUTTING", "category":"Process", "pos":"1050 560", "text":"Cutting", "size":"101 50"},
+            {"key":"ASSEMBLY", "category":"Process", "pos":"1230 560", "text":"Assembly", "size":"101 50"},
+            {"key":"WELDING", "category":"Process", "pos":"1410 560", "text":"Welding", "size":"101 50"},
+            {"key":"DRILLING", "category":"Process", "pos":"1590 560", "text":"Drilling", "size":"101 50"},
+            {"key":"FINISHING", "category":"Process", "pos":"1770 560", "text":"Finishing", "size":"101 50"}
+    ],
+      "linkDataArray": 
+    [ 
+            {"from":"TEKLA", "to":"ASSIGN", "points":[840.0000000000008,206,840.0000000000008,216,840.0000000000008,250.00000000000009,840.0000000000002,250.00000000000009,840.0000000000002,284.00000000000017,840.0000000000002,294.00000000000017]},
+            {"from":"TEKLA", "to":"NOTASSIGN", "points":[900.0000000000008,180,910.0000000000008,180,1294.2500000000005,180,1294.2500000000005,300,1678.5,300,1688.5,300]},
+            {"from":"ASSIGN", "to":"QCPASS", "points":[788.5000000000002,320.00000000000017,778.5000000000002,320.00000000000017,600,320.00000000000017,600,352.0000000000001,600,384.0000000000001,600,394.0000000000001]},
+            {"from":"ASSIGN", "to":"QCNOTPASS", "points":[891.5000000000002,320.00000000000017,901.5000000000002,320.00000000000017,1082.8833312988281,320.00000000000017,1082.8833312988281,411.3333333333334,1258.5,411.3333333333334,1268.5,411.3333333333334]},
+            {"from":"QCPASS", "to":"SBPT", "points":[582.8333333333334,446.0000000000001,582.8333333333334,456.0000000000001,582.8333333333334,490.0000000000001,480.00000000000045,490.0000000000001,480.00000000000045,524.0000000000001,480.00000000000045,534.0000000000001]},
+            {"from":"QCPASS", "to":"DELIVERY", "points":[617.1666666666666,446.0000000000001,617.1666666666666,456.0000000000001,617.1666666666666,490.00000000000006,720,490.00000000000006,720,524,720,534]},
+            {"from":"QCNOTPASS", "to":"MARKING", "points":[1268.5,428.6666666666668,1258.5,428.6666666666668,1260,428.6666666666668,1260,428.6666666666668,988,428.6666666666668,988,560,961.5,560,951.5,560]},
+            {"from":"QCNOTPASS", "to":"CUTTING", "points":[1289.1,446.0000000000001,1289.1,456.0000000000001,1289.1,460,1172,460,1172,560,1111.5,560,1101.5,560]},
+            {"from":"QCNOTPASS", "to":"ASSEMBLY", "points":[1309.7,446.0000000000001,1309.7,464.0000000000001,1309.7,494.00000000000006,1230,494.00000000000006,1230,524,1230,534]},
+            {"from":"QCNOTPASS", "to":"WELDING", "points":[1330.3,446.0000000000001,1330.3,464.0000000000001,1330.3,494.00000000000006,1410,494.00000000000006,1410,524,1410,534]},
+            {"from":"QCNOTPASS", "to":"DRILLING", "points":[1350.9,446.0000000000001,1350.9,456.0000000000001,1350.9,460,1468,460,1468,560,1528.5,560,1538.5,560]},
+            {"from":"QCNOTPASS", "to":"FINISHING", "points":[1371.5,420.0000000000001,1381.5,420.0000000000001,1380,420.0000000000001,1380,420.0000000000001,1652,420.0000000000001,1652,560,1708.5,560,1718.5,560]}
+    ]}
+            </textarea>
+        </div>
+    </body>
+</html>

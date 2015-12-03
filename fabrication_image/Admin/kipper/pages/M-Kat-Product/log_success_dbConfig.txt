@@ -1,0 +1,58 @@
+Fri / 2015-08-14 / 09:12:12 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:12:12 WIB/ Query Berhasil: SELECT * FROM m_kat_product WHERE row_status='1'  
+Fri / 2015-08-14 / 09:12:12 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:12:23 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:12:23 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_kat_product (nama_kat_product,row_status) VALUES ('Makanan','1')
+)
+ 
+Fri / 2015-08-14 / 09:12:23 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:12:23 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:12:23 WIB/ Query Berhasil: SELECT * FROM m_kat_product WHERE row_status='1'  
+Fri / 2015-08-14 / 09:12:23 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:12:27 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:12:27 WIB/ Query Berhasil: SELECT * FROM m_kat_product WHERE id_kat_product='1'  
+Fri / 2015-08-14 / 09:12:27 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:12:31 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:12:31 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_kat_product SET nama_kat_product='Makanan Spesial',row_status='1' WHERE id_kat_product='1' 
+)
+ 
+Fri / 2015-08-14 / 09:12:31 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:12:31 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:12:31 WIB/ Query Berhasil: SELECT * FROM m_kat_product WHERE row_status='1'  
+Fri / 2015-08-14 / 09:12:31 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:12:35 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:12:35 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_kat_product WHERE id_kat_product='1' 
+)
+ 
+Fri / 2015-08-14 / 09:12:35 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:12:35 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:12:35 WIB/ Query Berhasil: SELECT * FROM m_kat_product WHERE row_status='1'  
+Fri / 2015-08-14 / 09:12:35 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:34:55 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:34:55 WIB/ Query Berhasil: SELECT * FROM m_kat_product WHERE row_status='1'  
+Fri / 2015-08-14 / 09:34:55 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:35:00 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:35:00 WIB/ Query Berhasil: SELECT * FROM m_kat_product WHERE row_status='1'  
+Fri / 2015-08-14 / 09:35:00 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:35:54 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:35:54 WIB/ Query Berhasil: SELECT * FROM m_kat_product WHERE row_status='1'  
+Fri / 2015-08-14 / 09:35:54 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:36:01 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:36:01 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_kat_product (nama_kat_product,row_status) VALUES ('Makanan Spesial','1')
+)
+ 
+Fri / 2015-08-14 / 09:36:01 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 09:36:01 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 09:36:01 WIB/ Query Berhasil: SELECT * FROM m_kat_product WHERE row_status='1'  
+Fri / 2015-08-14 / 09:36:01 WIB/ Koneksi Diputus 
+Mon / 2015-08-17 / 18:04:30 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-17 / 18:04:30 WIB/ Query Berhasil: SELECT * FROM m_kat_product WHERE row_status='1'  
+Mon / 2015-08-17 / 18:04:30 WIB/ Koneksi Diputus 

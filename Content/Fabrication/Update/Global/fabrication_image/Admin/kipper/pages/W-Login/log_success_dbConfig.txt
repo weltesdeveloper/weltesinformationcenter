@@ -1,0 +1,39 @@
+Fri / 2015-08-14 / 11:55:25 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 11:55:25 WIB/ Query Berhasil: SELECT * FROM w_user WHERE id_user='admin' AND password='21232f297a57a5a743894a0e4a801fc3' 
+Fri / 2015-08-14 / 11:55:25 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:02:25 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:02:25 WIB/ Query Berhasil: SELECT * FROM w_user WHERE id_user='admin' AND password='65407c4b156aef7b2de44aedd302de3b' 
+Fri / 2015-08-14 / 12:02:25 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:05:46 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:05:46 WIB/ Query Berhasil: SELECT * FROM w_user WHERE id_user='admin' AND password='65bdd2edf6edaeeae9d584c741e4537a' 
+Fri / 2015-08-14 / 12:05:46 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:05:50 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:05:50 WIB/ Query Berhasil: SELECT * FROM w_user WHERE id_user='admin' AND password='21232f297a57a5a743894a0e4a801fc3' 
+Fri / 2015-08-14 / 12:05:50 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:08:39 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:08:39 WIB/ Query Berhasil: SELECT * FROM w_user WHERE id_user='ADMIN' AND password='73acd9a5972130b75066c82595a1fae3' 
+Fri / 2015-08-14 / 12:08:39 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:08:46 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:08:46 WIB/ Query Berhasil: SELECT * FROM w_user WHERE id_user='admin' AND password='21232f297a57a5a743894a0e4a801fc3' 
+Fri / 2015-08-14 / 12:08:46 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:15:31 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:15:31 WIB/ Query Berhasil: SELECT * FROM w_user WHERE id_user='admin' AND password='21232f297a57a5a743894a0e4a801fc3' 
+Fri / 2015-08-14 / 12:15:31 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:21:32 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:21:32 WIB/ Query Berhasil: SELECT * FROM w_user WHERE id_user='admin' AND password='21232f297a57a5a743894a0e4a801fc3' 
+Fri / 2015-08-14 / 12:21:32 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:22:53 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:22:53 WIB/ Query Berhasil: SELECT * FROM w_user WHERE id_user='admin' AND password='21232f297a57a5a743894a0e4a801fc3' 
+Fri / 2015-08-14 / 12:22:53 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:24:19 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:24:19 WIB/ Query Berhasil: SELECT * FROM w_user WHERE id_user='admin' AND password='21232f297a57a5a743894a0e4a801fc3' 
+Fri / 2015-08-14 / 12:24:19 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:25:25 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:25:25 WIB/ Query Berhasil: SELECT * FROM w_user WHERE id_user='admin' AND password='21232f297a57a5a743894a0e4a801fc3' 
+Fri / 2015-08-14 / 12:25:25 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 13:04:15 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 13:04:15 WIB/ Query Berhasil: SELECT * FROM w_user WHERE id_user='admin' AND password='21232f297a57a5a743894a0e4a801fc3' 
+Fri / 2015-08-14 / 13:04:15 WIB/ Koneksi Diputus 
+Tue / 2015-08-18 / 22:40:47 WIB/ Koneksi Berhasil: Use Database db_itk 
+Tue / 2015-08-18 / 22:40:47 WIB/ Query Berhasil: SELECT * FROM w_user WHERE id_user='admin' AND password='21232f297a57a5a743894a0e4a801fc3' 
+Tue / 2015-08-18 / 22:40:47 WIB/ Koneksi Diputus 

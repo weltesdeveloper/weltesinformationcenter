@@ -1,0 +1,126 @@
+Wed / 2015-08-19 / 00:46:15 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:46:15 WIB/ Query Berhasil: SELECT * FROM m_video WHERE row_status='1'  
+Wed / 2015-08-19 / 00:46:15 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:47:14 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:47:14 WIB/ Query Berhasil: select * from m_video where id_video = '19' 
+Wed / 2015-08-19 / 00:47:14 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:47:14 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:47:14 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_video WHERE id_video='19' 
+)
+ 
+Wed / 2015-08-19 / 00:47:14 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:47:14 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:47:14 WIB/ Query Berhasil: SELECT * FROM m_video WHERE row_status='1'  
+Wed / 2015-08-19 / 00:47:14 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:47:35 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:47:35 WIB/ Query Berhasil: select * from m_video where id_video = '20' 
+Wed / 2015-08-19 / 00:47:35 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:47:35 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:47:35 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_video WHERE id_video='20' 
+)
+ 
+Wed / 2015-08-19 / 00:47:35 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:47:35 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:47:35 WIB/ Query Berhasil: SELECT * FROM m_video WHERE row_status='1'  
+Wed / 2015-08-19 / 00:47:35 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:48:05 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:48:05 WIB/ Query Berhasil: SELECT * FROM m_video WHERE row_status='1'  
+Wed / 2015-08-19 / 00:48:05 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:48:29 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:48:29 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_video (nama,file,tgl_posting,row_status) VALUES ('Video Tes','ITK.mp4','20150819','1')
+)
+ 
+Wed / 2015-08-19 / 00:48:29 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:48:29 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:48:29 WIB/ Query Berhasil: SELECT * FROM m_video WHERE row_status='1'  
+Wed / 2015-08-19 / 00:48:29 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:50:17 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:50:17 WIB/ Query Berhasil: SELECT * FROM m_video WHERE row_status='1'  
+Wed / 2015-08-19 / 00:50:17 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:50:23 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:50:23 WIB/ Query Berhasil: select * from m_video where id_video = '21' 
+Wed / 2015-08-19 / 00:50:23 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:50:23 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:50:23 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_video WHERE id_video='21' 
+)
+ 
+Wed / 2015-08-19 / 00:50:23 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:50:23 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:50:23 WIB/ Query Berhasil: SELECT * FROM m_video WHERE row_status='1'  
+Wed / 2015-08-19 / 00:50:23 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:50:32 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:50:32 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_video (nama,file,tgl_posting,row_status) VALUES ('Video Tes','ITK.mp4','20150819','1')
+)
+ 
+Wed / 2015-08-19 / 00:50:32 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:50:32 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:50:32 WIB/ Query Berhasil: SELECT * FROM m_video WHERE row_status='1'  
+Wed / 2015-08-19 / 00:50:32 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:51:52 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:51:52 WIB/ Query Berhasil: SELECT * FROM m_video WHERE id_video='22'  
+Wed / 2015-08-19 / 00:51:52 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:51:58 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:51:58 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_video SET nama='Video Tes',file='ITK.mp4',tgl_posting='20150819',row_status='1' WHERE id_video='22' 
+)
+ 
+Wed / 2015-08-19 / 00:51:58 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:51:58 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:51:58 WIB/ Query Berhasil: SELECT * FROM m_video WHERE row_status='1'  
+Wed / 2015-08-19 / 00:51:58 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:53:23 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:53:23 WIB/ Query Berhasil: SELECT * FROM m_video WHERE row_status='1'  
+Wed / 2015-08-19 / 00:53:23 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:53:26 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:53:26 WIB/ Query Berhasil: SELECT * FROM m_video WHERE id_video='22'  
+Wed / 2015-08-19 / 00:53:26 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:53:35 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:53:35 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_video SET nama='Video Tes',file='ITK.mp4',tgl_posting='20150819',row_status='1' WHERE id_video='22' 
+)
+ 
+Wed / 2015-08-19 / 00:53:35 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:53:35 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:53:35 WIB/ Query Berhasil: SELECT * FROM m_video WHERE row_status='1'  
+Wed / 2015-08-19 / 00:53:35 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:54:17 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:54:17 WIB/ Query Berhasil: SELECT * FROM m_video WHERE row_status='1'  
+Wed / 2015-08-19 / 00:54:17 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:54:21 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:54:21 WIB/ Query Berhasil: SELECT * FROM m_video WHERE id_video='22'  
+Wed / 2015-08-19 / 00:54:21 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:54:23 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:54:23 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_video SET nama='Video Tes',tgl_posting='20150819',row_status='1' WHERE id_video='22' 
+)
+ 
+Wed / 2015-08-19 / 00:54:23 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:54:23 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:54:23 WIB/ Query Berhasil: SELECT * FROM m_video WHERE row_status='1'  
+Wed / 2015-08-19 / 00:54:23 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:54:24 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:54:24 WIB/ Query Berhasil: SELECT * FROM m_video WHERE id_video='22'  
+Wed / 2015-08-19 / 00:54:24 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:54:29 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:54:29 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_video SET nama='Video Tes',file='ITK.mp4',tgl_posting='20150819',row_status='1' WHERE id_video='22' 
+)
+ 
+Wed / 2015-08-19 / 00:54:29 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:54:29 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:54:29 WIB/ Query Berhasil: SELECT * FROM m_video WHERE row_status='1'  
+Wed / 2015-08-19 / 00:54:29 WIB/ Koneksi Diputus 

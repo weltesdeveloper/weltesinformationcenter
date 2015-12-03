@@ -1,0 +1,44 @@
+Wed / 2015-09-09 / 08:34:22 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:34:22 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:35:57 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:35:57 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:36:21 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:36:34 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:36:34 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:36:48 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:36:48 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:39:30 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:39:30 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:40:27 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:40:34 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:40:34 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:40:48 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:40:48 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:41:31 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:41:44 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:43:14 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:43:14 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:43:21 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Wed / 2015-09-09 / 08:43:21 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+

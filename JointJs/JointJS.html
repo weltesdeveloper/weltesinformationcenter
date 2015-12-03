@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>JointJS Trial</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link href="assets/joint.css" rel="stylesheet" type="text/css"/>
+        <script src="../jQuery/jquery-2.1.1.js" type="text/javascript"></script>
+        <script src="assets/lodash.min.js" type="text/javascript"></script>
+        <script src="assets/backbone-min.js" type="text/javascript"></script>
+        <script src="assets/joint.js" type="text/javascript"></script>
+
+    </head>
+    <body>
+        <div>Joint JS Trial</div>
+
+        <div id="joint-js"></div>
+
+    </body>
+</html>
+
+<script type="text/javascript">
+    var graph = new joint.dia.Graph();
+
+    var paper = new joint.dia.Paper({
+        el: $('#joint-js'),
+        width: 1700,
+        height: 1000,
+        gridSize: 1,
+        model: graph,
+        perpendicularLinks: true,
+        restrictTranslate: true
+    });
+
+    function member(x, y, rank, name, image, background, textColor) {
+
+        textColor = textColor || "#000";
+
+        var cell = new joint.shapes.org.Member({
+            position: {x: x, y: y},
+            attrs: {
+                '.card': {fill: background, stroke: 'none'},
+                image: {'xlink:href': 'assets/images/' + image, opacity: 0.7},
+                '.rank': {text: rank, fill: textColor, 'word-spacing': '-5px', 'letter-spacing': 0},
+                '.name': {text: name, fill: textColor, 'font-size': 13, 'font-family': 'Arial', 'letter-spacing': 0}
+            }
+        });
+        graph.addCell(cell);
+        return cell;
+    };
+
+    var tekla = member(700, 30, 'TEKLA ASSY', 'xxx Kg', 'tekla-01.png', '#BFA68F');
+    var assigned = member(600, 200, 'ASSIGNED', 'xxx Kg', 'assign-02.png', '#72A676', '#f1f1f1');
+    var notassigned = member(1300, 200, 'NOT ASSIGN', 'xxx Kg', 'hourglass-04.png', '#D95D41', '#f1f1f1');
+
+    var qcpass = member(195, 330, 'QC PASS', 'xxx Kg', 'check-05.png', '#72A676', '#f1f1f1');
+
+    var notfabricated = member(600, 330, 'UNFABRICATED', 'xxx Kg', 'hourglass-04.png', '#D95D41', '#f1f1f1');
+    var notqcpass = member(950, 330, 'QC NOT PASSED', 'xxx Kg', 'female.png', '#D95D41', '#f1f1f1');
+
+    var sbpt = member(100, 460, 'SBLAST & PAINT', 'xxx Kg', 'male.png', '#A68F7B', '#f1f1f1');
+    var packing = member(290, 460, 'PACKING', 'xxx Kg', 'female.png', '#A68F7B', '#f1f1f1');
+    var delivery = member(290, 555, 'DELIVERY', 'xxx Kg', 'female.png', '#72A676', '#f1f1f1');
+
+    var blasting = member(290, 650, 'BLASTING', 'xxx Kg', 'female.png', '#385C63', '#f1f1f1');
+    var primer = member(480, 650, 'PRIMER', 'xxx Kg', 'female.png', '#385C63', '#f1f1f1');
+    var intermediate = member(670, 650, 'INTERMEDIATE', 'xxx Kg', 'female.png', '#385C63', '#f1f1f1');
+    var ptfinishing = member(860, 650, 'FINISHING', 'xxx Kg', 'female.png', '#385C63', '#f1f1f1');
+    var ptqc = member(1050, 650, 'PAINTING QC', 'xxx Kg', 'check-05.png', '#72A676', '#f1f1f1');
+
+    var marking = member(480, 460, 'MARKING', 'xxx Kg', 'male.png', '#446EA6', '#f1f1f1');
+    var cutting = member(670, 460, 'CUTTING', 'xxx Kg', 'male.png', '#446EA6', '#f1f1f1');
+    var assembly = member(860, 460, 'ASSEMBLY', 'xxx Kg', 'male.png', '#446EA6', '#f1f1f1');
+    var welding = member(1050, 460, 'WELDING', 'xxx Kg', 'female.png', '#446EA6', '#f1f1f1');
+    var drilling = member(1240, 460, 'DRILLING', 'xxx Kg', 'female.png', '#446EA6', '#f1f1f1');
+    var finishing = member(1430, 460, 'FINISHING', 'xxx Kg', 'female.png', '#446EA6', '#f1f1f1');
+
+//    link1(tekla, assigned, [{x: 790, y: 155}, {x: 690, y: 155}]);
+//    link1(tekla, notassigned, [{x: 790, y: 155}, {x: 1400, y: 155}]);
+//
+//    link1(assigned, qcpass, [{x: 690, y: 300}, {x: 285, y: 300}]);
+//    link1(assigned, notqcpass, [{x: 690, y: 300}, {x: 1040, y: 300}]);
+//
+//    link1(assigned, notfabricated, [{x: 690, y: 350}]);
+//
+//    link1(qcpass, sbpt, [{x: 285, y: 430}, {x: 195, y: 430}]);
+//    link1(qcpass, packing, [{x: 285, y: 430}, {x: 375, y: 430}]);
+//
+//    link1(packing, delivery, [{x: 375, y: 530}]);
+//
+//    link1(notqcpass, marking, [{x: 1040, y: 430}, {x: 575, y: 430}]);
+//    link1(notqcpass, cutting, [{x: 1040, y: 430}, {x: 765, y: 430}]);
+//    link1(notqcpass, assembly, [{x: 1040, y: 430}, {x: 955, y: 430}]);
+//    link1(notqcpass, welding, [{x: 1040, y: 430}, {x: 1145, y: 430}]);
+//    link1(notqcpass, drilling, [{x: 1040, y: 430}, {x: 1335, y: 430}]);
+//    link1(notqcpass, finishing, [{x: 1040, y: 430}, {x: 1525, y: 430}]);
+//
+//    link1(sbpt, blasting, [{x: 195, y: 600}, {x: 195, y: 685}]);
+//
+//    link1(blasting, primer);
+//    link1(primer, intermediate);
+//    link1(intermediate, ptfinishing);
+//    link1(ptfinishing, ptqc);
+//    paper.on('cell:pointerclick', function (cellView, evt, x, y) {
+//        console.log('A cell with ID ' + cellView.model.id + ' has just been clicked on.');
+//        alert('A cell with ID ' + cellView.model.id + ' has just been clicked on.');
+//    });
+
+
+    function link1(source, target, breakpoints) {
+
+        var cell = new joint.shapes.org.Arrow({
+            source: {id: source.id},
+            target: {id: target.id},
+            vertices: breakpoints,
+            attrs: {
+                '.connection': {stroke: '#2C3F59', 'stroke-width': 3, 'stroke-dasharray': '5 2'},
+                '.marker-target': {stroke: '#2C3F59', fill: '#2C3F59', d: 'M5.5,15.499,15.8,21.447,15.8,15.846,25.5,21.447,25.5,9.552,15.8,15.152,15.8,9.552z'},
+                '.marker-source': {}
+            }
+
+        });
+        graph.addCell(cell);
+        return cell;
+    }
+
+//    function link2(source, target, breakpoints) {
+//
+//        var cell = new joint.shapes.org.Arrow({
+//            source: {id: source.id},
+//            target: {id: target.id},
+//            vertices: breakpoints,
+//            attrs: {
+//                '.connection': {stroke: '#87312B', 'stroke-width': 4},
+//                '.marker-source': {},
+//                '.marker-target': {stroke: '#87312B', fill: '#87312B', d: 'M 10 0 L 0 5 L 10 10 z'}
+//            }
+//
+//        });
+//        graph.addCell(cell);
+//        return cell;
+//    }
+//
+//    function linkNormal(source, target, breakpoints) {
+//
+//        var cell = new joint.shapes.org.Arrow({
+//            source: {id: source.id},
+//            target: {id: target.id},
+//            vertices: breakpoints,
+//            attrs: {
+//                '.connection': {
+//                    'stroke-dasharray': '5 2',
+//                    'fill': 'none',
+//                    'stroke-linejoin': 'round',
+//                    'stroke-width': '3',
+//                    'stroke': '#2C3F59'
+//                }
+//            }
+//
+//        });
+//        graph.addCell(cell);
+//        return cell;
+//    }
+//
+//    function linkNormalNotDashed(source, target, breakpoints) {
+//
+//        var cell = new joint.shapes.org.Arrow({
+//            source: {id: source.id},
+//            target: {id: target.id},
+//            vertices: breakpoints,
+//            attrs: {
+//                '.connection': {
+//                    'fill': 'none',
+//                    'stroke-linejoin': 'round',
+//                    'stroke-width': '3',
+//                    'stroke': '#2C3F59'
+//                }
+//            }
+//
+//        });
+//        graph.addCell(cell);
+//        return cell;
+//    }
+</script>
+

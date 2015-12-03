@@ -1,0 +1,2930 @@
+Sat / 2014-11-22 / 05:40:08 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:40:08 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Sat / 2014-11-22 / 05:40:08 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 05:40:34 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:40:34 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_fakultas SET row_status='0' WHERE id_fak='5' 
+)
+ 
+Sat / 2014-11-22 / 05:40:35 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 05:40:35 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:40:35 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Sat / 2014-11-22 / 05:40:35 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 05:41:34 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:41:34 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Sat / 2014-11-22 / 05:41:34 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 05:41:37 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:41:37 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fak='4'  
+Sat / 2014-11-22 / 05:41:37 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 05:41:43 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:41:43 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_fakultas SET kode_fak='C',nama_fak='Fakultas Teknik Sipil dan Perencanaan Kota',singkatan='FTSP A',row_status='1' WHERE id_fak='4' 
+)
+ 
+Sat / 2014-11-22 / 05:41:43 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 05:41:43 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:41:43 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Sat / 2014-11-22 / 05:41:43 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 05:42:19 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:42:19 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Sat / 2014-11-22 / 05:42:19 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 05:42:22 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:42:22 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fak='4'  
+Sat / 2014-11-22 / 05:42:22 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 05:42:26 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:42:26 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_fakultas SET kode_fak='C',nama_fak='Fakultas Teknik Sipil dan Perencanaan Kota',singkatan='FTSP',row_status='1' WHERE id_fak='4' 
+)
+ 
+Sat / 2014-11-22 / 05:42:26 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 05:42:26 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 05:42:26 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Sat / 2014-11-22 / 05:42:26 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 11:05:56 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 11:05:56 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Sat / 2014-11-22 / 11:05:56 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 11:06:24 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 11:06:24 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_fakultas SET row_status='0' WHERE id_fak='5' 
+)
+ 
+Sat / 2014-11-22 / 11:06:24 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 11:06:24 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 11:06:24 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Sat / 2014-11-22 / 11:06:24 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 11:06:30 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 11:06:30 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fak='4'  
+Sat / 2014-11-22 / 11:06:30 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 11:06:41 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 11:06:41 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_fakultas SET kode_fak='C',nama_fak='Fakultas Teknik Sipil dan Perencanaan Kota',singkatan='FTSP A',row_status='1' WHERE id_fak='4' 
+)
+ 
+Sat / 2014-11-22 / 11:06:41 WIB/ Koneksi Diputus 
+Sat / 2014-11-22 / 11:06:41 WIB/ Koneksi Berhasil: Use Database DBAkademik 
+Sat / 2014-11-22 / 11:06:41 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Sat / 2014-11-22 / 11:06:41 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 10:51:49 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 10:51:49 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 10:52:34 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 10:52:34 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 10:52:34 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 10:52:34 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 10:54:44 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 10:54:44 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 10:57:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 10:57:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:05:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:05:06 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:06:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:06:25 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:09:05 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:09:05 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:12:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:12:31 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:13:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:13:43 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='0'  
+Tue / 2014-11-25 / 11:13:43 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:13:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:13:58 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:13:58 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:14:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:14:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:15:49 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:15:49 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:15:49 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:16:15 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:16:15 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:16:15 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:16:34 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:16:34 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:19:01 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:19:01 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:19:01 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:19:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:19:40 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:19:40 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:19:48 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:19:48 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:19:48 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:20:07 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:20:07 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:20:07 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:20:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:20:18 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:20:18 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:21:51 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:21:51 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:21:51 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:22:01 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:22:01 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:22:01 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:24:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:24:06 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:24:06 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:24:09 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:24:09 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_fakultas SET row_status='0' WHERE id_fakultas='1' 
+)
+ 
+Tue / 2014-11-25 / 11:24:09 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:24:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:24:10 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:24:10 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:24:32 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:24:32 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:24:32 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:24:38 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:24:38 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:29:12 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:29:12 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:29:12 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:29:15 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:29:15 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:30:00 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:30:00 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_fakultas (nama_fakultas,singkatan,ket_fakultas,gambar,row_status) VALUES ('Fakultas Matematika dan Ilmu Pengetahuan Alam','FMIPA','nnnn','mmmm','1')
+)
+ 
+Tue / 2014-11-25 / 11:30:00 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:30:00 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:30:00 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:30:00 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:30:05 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:30:05 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:32:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:32:43 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:32:43 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:32:45 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:32:45 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='2'  
+Tue / 2014-11-25 / 11:32:45 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:32:52 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:32:52 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='1'  
+Tue / 2014-11-25 / 11:32:52 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:33:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:33:58 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:33:58 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:34:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:34:02 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='2'  
+Tue / 2014-11-25 / 11:34:02 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:34:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:34:40 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:34:40 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:34:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:34:43 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='1'  
+Tue / 2014-11-25 / 11:34:43 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:34:48 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:34:48 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='1'  
+Tue / 2014-11-25 / 11:34:48 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:34:52 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:34:52 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:34:52 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:34:52 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:34:52 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:35:01 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:35:01 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='1'  
+Tue / 2014-11-25 / 11:35:01 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:35:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:35:02 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:35:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:35:02 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:35:02 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:35:27 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:35:27 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:35:27 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:35:29 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:35:29 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='1'  
+Tue / 2014-11-25 / 11:35:29 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:35:32 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:35:32 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:35:32 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:35:32 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:35:32 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:36:00 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:36:00 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:36:00 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:36:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:36:02 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='1'  
+Tue / 2014-11-25 / 11:36:02 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:36:07 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:36:07 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_fakultas SET nama_fakultas='Fakultas Sains dan Teknologi',singkatan='FST',ket_fakultas='jjj',gambar='jjjj',row_status='1' WHERE id_fakultas='1' 
+)
+ 
+Tue / 2014-11-25 / 11:36:07 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:36:07 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:36:07 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:36:07 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:37:09 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:37:09 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='1'  
+Tue / 2014-11-25 / 11:37:09 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:37:51 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:37:51 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:37:51 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:38:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:38:26 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:38:26 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:38:30 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:38:30 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='1'  
+Tue / 2014-11-25 / 11:38:30 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:38:55 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:38:55 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:38:55 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:39:50 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:39:50 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_fakultas (nama_fakultas,singkatan,ket_fakultas,gambar,row_status) VALUES ('Fakultas Teknologi Kelautan','FTK','kkkkk','mmmmm','1')
+)
+ 
+Tue / 2014-11-25 / 11:39:50 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:39:50 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:39:50 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:39:50 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:39:56 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:39:56 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='3'  
+Tue / 2014-11-25 / 11:39:56 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:41:16 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:41:16 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:41:16 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:41:23 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:41:23 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='1'  
+Tue / 2014-11-25 / 11:41:23 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:41:52 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:41:52 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:41:52 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:41:55 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:41:55 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='2'  
+Tue / 2014-11-25 / 11:41:55 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:42:07 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:42:07 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:42:07 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:42:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:42:08 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='1'  
+Tue / 2014-11-25 / 11:42:08 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:42:13 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:42:13 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='2'  
+Tue / 2014-11-25 / 11:42:13 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:44:20 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:44:20 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:44:20 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:44:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:44:25 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='3'  
+Tue / 2014-11-25 / 11:44:25 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:46:15 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:46:15 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:46:15 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:54:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:54:54 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:54:54 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:55:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:55:31 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:55:31 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:56:45 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:56:45 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:56:45 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 11:56:53 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 11:56:53 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 11:56:53 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:25:45 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:25:45 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 12:25:45 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 12:26:07 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 12:26:07 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 12:26:07 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:01:38 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:01:38 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 13:01:38 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:01:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:01:42 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_fakultas SET row_status='0' WHERE id_fakultas='2' 
+)
+ 
+Tue / 2014-11-25 / 13:01:42 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:01:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:01:42 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 13:01:42 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:01:49 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:01:49 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_fakultas SET row_status='0' WHERE id_fakultas='3' 
+)
+ 
+Tue / 2014-11-25 / 13:01:49 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:01:49 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:01:49 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 13:01:49 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:06:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:06:25 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 13:06:25 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:06:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:06:35 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 13:06:35 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:06:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:06:40 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_fakultas (nama_fakultas,singkatan,ket_fakultas,gambar,row_status) VALUES ('asd','asd','asd','asd','1')
+)
+ 
+Tue / 2014-11-25 / 13:06:40 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:06:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:06:40 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 13:06:40 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:06:49 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:06:49 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_fakultas SET row_status='0' WHERE id_fakultas='4' 
+)
+ 
+Tue / 2014-11-25 / 13:06:49 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:06:49 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:06:49 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 13:06:49 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 13:49:28 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 13:49:28 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 13:49:28 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:28:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:28:26 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 14:28:26 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:29:16 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:29:16 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 14:29:16 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:30:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:30:02 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 14:30:02 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:30:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:30:36 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 14:30:36 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:30:37 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:30:37 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='1'  
+Tue / 2014-11-25 / 14:30:37 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:31:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:31:42 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 14:31:42 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:31:48 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:31:48 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='1'  
+Tue / 2014-11-25 / 14:31:48 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:55:19 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:55:19 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 14:55:19 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:55:29 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:55:29 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_fakultas (nama_fakultas,singkatan,ket_fakultas,gambar,row_status) VALUES ('asdas','asdas','asdas','asdasd','1')
+)
+ 
+Tue / 2014-11-25 / 14:55:29 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:55:29 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:55:29 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 14:55:29 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:55:32 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:55:32 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='5'  
+Tue / 2014-11-25 / 14:55:32 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:55:39 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:55:39 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_fakultas SET nama_fakultas='asdas',singkatan='asdas',ket_fakultas='aaaaaaaaaa',gambar='asdasd',row_status='1' WHERE id_fakultas='5' 
+)
+ 
+Tue / 2014-11-25 / 14:55:39 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:55:39 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:55:39 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 14:55:39 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:55:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:55:43 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_fakultas SET row_status='0' WHERE id_fakultas='5' 
+)
+ 
+Tue / 2014-11-25 / 14:55:43 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 14:55:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 14:55:43 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 14:55:43 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 15:58:05 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 15:58:05 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 15:58:05 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 16:03:19 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 16:03:19 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 16:03:19 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 16:06:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 16:06:02 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 16:06:02 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 16:06:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 16:06:06 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 16:06:06 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 16:08:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 16:08:40 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 16:08:40 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 16:11:27 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 16:11:27 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 16:11:27 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 16:13:53 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 16:13:53 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 16:13:53 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 16:14:46 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 16:14:46 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 16:14:46 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 16:18:52 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 16:18:52 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 16:18:52 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 16:22:55 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 16:22:55 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 16:22:55 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 16:23:19 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 16:23:19 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 16:23:19 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 16:26:41 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 16:26:41 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 16:26:41 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 16:26:44 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 16:26:44 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='1'  
+Tue / 2014-11-25 / 16:26:44 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 16:30:27 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 16:30:27 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 16:30:27 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 16:31:30 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 16:31:30 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE row_status='1'  
+Tue / 2014-11-25 / 16:31:30 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 16:44:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 16:44:22 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 16:44:22 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 16:45:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 16:45:26 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='1'  
+Tue / 2014-11-25 / 16:45:26 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 16:45:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 16:45:33 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='1'  
+Tue / 2014-11-25 / 16:45:33 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 16:48:34 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 16:48:34 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 16:48:34 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:19:03 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:19:03 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:19:03 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:25:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:25:08 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:25:08 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:34:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:34:26 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:34:26 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:34:44 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:34:44 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:34:44 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:37:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:37:02 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:37:02 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:37:03 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:37:03 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='1'  
+Tue / 2014-11-25 / 17:37:03 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:37:12 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:37:12 WIB/ Query Berhasil: SELECT * FROM m_fakultas WHERE id_fakultas='1'  
+Tue / 2014-11-25 / 17:37:12 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:41:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:41:43 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:41:43 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:41:47 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:41:47 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE id_berita='1'  
+Tue / 2014-11-25 / 17:41:47 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:41:59 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:41:59 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE id_berita='1'  
+Tue / 2014-11-25 / 17:41:59 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:42:19 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:42:19 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:42:19 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:42:21 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:42:21 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE id_berita='1'  
+Tue / 2014-11-25 / 17:42:21 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:42:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:42:31 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_berita SET judul='aku edit',isi='<p>ddddd</p>
+',gambar='ddddd',row_status='1' WHERE id_berita='1' 
+)
+ 
+Tue / 2014-11-25 / 17:42:31 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:42:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:42:31 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:42:31 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:43:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:43:26 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:43:26 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:43:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:43:36 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:43:36 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:43:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:43:43 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_berita (isi,row_status) VALUES ('<p>asdfsdfsd</p>
+','1')
+)
+ 
+Tue / 2014-11-25 / 17:43:43 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:43:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:43:43 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:43:43 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:43:52 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:43:52 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE id_berita='2'  
+Tue / 2014-11-25 / 17:43:52 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:44:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:44:42 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:44:42 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:44:44 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:44:44 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE id_berita='2'  
+Tue / 2014-11-25 / 17:44:44 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:44:49 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:44:49 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_berita SET judul='ade',isi='<p>asdfsdfsd</p>
+',row_status='1' WHERE id_berita='2' 
+)
+ 
+Tue / 2014-11-25 / 17:44:49 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:44:49 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:44:49 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:44:49 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:44:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:44:57 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_berita SET judul='aaaa',isi='<p>aaa</p>
+',gambar='aaa',row_status='1' WHERE id_berita='2' 
+)
+ 
+Tue / 2014-11-25 / 17:44:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:44:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:44:57 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:44:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:45:09 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:45:09 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_berita SET judul='ggg',isi='<p>ggg</p>
+',gambar='ggg',row_status='1' WHERE id_berita='2' 
+)
+ 
+Tue / 2014-11-25 / 17:45:09 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:45:09 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:45:09 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:45:09 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:45:30 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:45:30 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:45:30 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:45:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:45:35 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE id_berita='2'  
+Tue / 2014-11-25 / 17:45:35 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:45:37 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:45:37 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_berita SET judul='ggg',isi='<p>ggg</p>
+',gambar='ggg',row_status='1' WHERE id_berita='2' 
+)
+ 
+Tue / 2014-11-25 / 17:45:37 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:45:37 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:45:37 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:45:37 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:45:47 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:45:47 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_berita (judul,isi,gambar,row_status) VALUES ('sdfsdf','<p>sdfsdf</p>
+','sdfsdf','1')
+)
+ 
+Tue / 2014-11-25 / 17:45:47 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:45:47 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:45:47 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:45:47 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:45:50 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:45:50 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE id_berita='3'  
+Tue / 2014-11-25 / 17:45:50 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:45:53 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:45:53 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_berita SET judul='sdfsdf',isi='<p>sdfsdfsdfsdf</p>
+',gambar='sdfsdf',row_status='1' WHERE id_berita='3' 
+)
+ 
+Tue / 2014-11-25 / 17:45:53 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:45:53 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:45:53 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:45:53 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:46:37 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:46:37 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:46:37 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:46:46 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:46:46 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_berita (judul,isi,gambar,row_status) VALUES ('afdafaf','<p>afafafaf</p>
+','asdfsda','1')
+)
+ 
+Tue / 2014-11-25 / 17:46:46 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:46:46 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:46:46 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:46:46 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:46:49 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:46:49 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE id_berita='4'  
+Tue / 2014-11-25 / 17:46:49 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:46:51 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:46:51 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_berita SET judul='afdafaf',isi='<p>afafafaf</p>
+',gambar='asdfsda',row_status='1' WHERE id_berita='4' 
+)
+ 
+Tue / 2014-11-25 / 17:46:51 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:46:52 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:46:52 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:46:52 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:46:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:46:54 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE id_berita='3'  
+Tue / 2014-11-25 / 17:46:54 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:46:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:46:57 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_berita SET judul='sdfsdf',isi='<p>sss</p>
+',gambar='sdfsdf',row_status='1' WHERE id_berita='3' 
+)
+ 
+Tue / 2014-11-25 / 17:46:57 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:46:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:46:58 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:46:58 WIB/ Koneksi Diputus 
+Tue / 2014-11-25 / 17:50:05 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-11-25 / 17:50:05 WIB/ Query Berhasil: SELECT * FROM m_berita WHERE row_status='1'  
+Tue / 2014-11-25 / 17:50:05 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:03:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:03:22 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:03:22 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:03:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:03:35 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,keterangan,row_status) VALUES ('rerete','<p>adfdsfd</p>
+','1')
+)
+ 
+Wed / 2014-11-26 / 18:03:35 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:03:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:03:36 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:03:36 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:03:56 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:03:56 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET row_status='0' WHERE id_slide='1' 
+)
+ 
+Wed / 2014-11-26 / 18:03:56 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:03:56 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:03:56 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:03:56 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:04:29 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:04:29 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:04:29 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:04:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:04:35 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,keterangan,row_status) VALUES ('fdjkhfkds','<p>dfdg</p>
+','1')
+)
+ 
+Wed / 2014-11-26 / 18:04:35 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:04:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:04:36 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:04:36 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:04:50 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:04:50 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET row_status='0' WHERE id_slide='2' 
+)
+ 
+Wed / 2014-11-26 / 18:04:50 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:04:50 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:04:50 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:04:50 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:07:12 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:07:12 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:07:12 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:07:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:07:26 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,keterangan,row_status) VALUES ('fgfdg','<p>gdfggh</p>
+','1')
+)
+ 
+Wed / 2014-11-26 / 18:07:26 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:07:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:07:26 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:07:26 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:08:29 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:08:29 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:08:29 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:13:39 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:13:39 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:13:39 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:13:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:13:54 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,keterangan,row_status) VALUES ('sfsf','<p>dsfsf</p>
+','1')
+)
+ 
+Wed / 2014-11-26 / 18:13:54 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:13:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:13:54 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:13:54 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:14:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:14:04 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET row_status='0' WHERE id_slide='3' 
+)
+ 
+Wed / 2014-11-26 / 18:14:04 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:14:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:14:04 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:14:04 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:14:20 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:14:20 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET row_status='0' WHERE id_slide='4' 
+)
+ 
+Wed / 2014-11-26 / 18:14:20 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:14:20 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:14:20 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:14:20 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:14:23 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:14:23 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET row_status='0' WHERE id_slide='4' 
+)
+ 
+Wed / 2014-11-26 / 18:14:23 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:14:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:14:24 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:14:24 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:20:37 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:20:37 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:20:37 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:20:42 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:20:42 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,keterangan,row_status) VALUES ('dsfsd','<p>sdfsd</p>
+','1')
+)
+ 
+Wed / 2014-11-26 / 18:20:42 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:20:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:20:43 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:20:43 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:21:13 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:21:13 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:21:13 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:23:14 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:23:14 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:23:14 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:26:16 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:26:16 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:26:16 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:26:21 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:26:21 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,keterangan,row_status) VALUES ('dfdsfsd','dfsdfs','1')
+)
+ 
+Wed / 2014-11-26 / 18:26:21 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:26:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:26:22 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:26:22 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:26:36 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:26:36 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='5'  
+Wed / 2014-11-26 / 18:26:36 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:27:12 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:27:12 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:27:12 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:27:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:27:22 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:27:22 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:27:28 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:27:28 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,keterangan,row_status) VALUES ('ssad','sdsda','1')
+)
+ 
+Wed / 2014-11-26 / 18:27:28 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:27:28 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:27:28 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:27:28 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:27:50 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:27:50 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:27:50 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:28:00 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:28:00 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:28:00 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:28:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:28:02 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:28:02 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:28:21 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:28:21 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:28:21 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:28:27 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:28:27 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,keterangan,row_status) VALUES ('yuyu','yyu','1')
+)
+ 
+Wed / 2014-11-26 / 18:28:27 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:28:27 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:28:27 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:28:27 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:29:17 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:29:17 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:29:17 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:30:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:30:10 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:30:10 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:30:45 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:30:45 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:30:45 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:31:27 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:31:27 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:31:27 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:32:13 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:32:13 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:32:13 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:32:21 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:32:21 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,keterangan,row_status) VALUES ('fsd','dfds','1')
+)
+ 
+Wed / 2014-11-26 / 18:32:21 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:32:21 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:32:21 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:32:21 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:32:50 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:32:50 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:32:50 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:33:14 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:33:14 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-11-26 / 18:33:14 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:34:05 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:34:05 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='5'  
+Wed / 2014-11-26 / 18:34:05 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:34:17 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:34:17 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='7'  
+Wed / 2014-11-26 / 18:34:17 WIB/ Koneksi Diputus 
+Wed / 2014-11-26 / 18:34:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Wed / 2014-11-26 / 18:34:22 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='8'  
+Wed / 2014-11-26 / 18:34:22 WIB/ Koneksi Diputus 
+Thu / 2014-11-27 / 08:15:15 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-11-27 / 08:15:15 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-11-27 / 08:15:15 WIB/ Koneksi Diputus 
+Thu / 2014-11-27 / 08:15:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-11-27 / 08:15:24 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='5'  
+Thu / 2014-11-27 / 08:15:24 WIB/ Koneksi Diputus 
+Thu / 2014-11-27 / 08:16:27 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-11-27 / 08:16:27 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-11-27 / 08:16:27 WIB/ Koneksi Diputus 
+Thu / 2014-11-27 / 08:16:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-11-27 / 08:16:31 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET row_status='0' WHERE id_slide='9' 
+)
+ 
+Thu / 2014-11-27 / 08:16:31 WIB/ Koneksi Diputus 
+Thu / 2014-11-27 / 08:16:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-11-27 / 08:16:31 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-11-27 / 08:16:31 WIB/ Koneksi Diputus 
+Mon / 2014-12-01 / 17:07:30 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-01 / 17:07:30 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Mon / 2014-12-01 / 17:07:30 WIB/ Koneksi Diputus 
+Mon / 2014-12-01 / 19:07:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-01 / 19:07:26 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Mon / 2014-12-01 / 19:07:26 WIB/ Koneksi Diputus 
+Mon / 2014-12-01 / 19:18:30 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-01 / 19:18:30 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Mon / 2014-12-01 / 19:18:30 WIB/ Koneksi Diputus 
+Mon / 2014-12-08 / 19:31:34 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-08 / 19:31:34 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Mon / 2014-12-08 / 19:31:34 WIB/ Koneksi Diputus 
+Mon / 2014-12-08 / 19:37:17 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-08 / 19:37:17 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Mon / 2014-12-08 / 19:37:17 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:37:48 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:37:48 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2014-12-09 / 17:37:48 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:38:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:38:02 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2014-12-09 / 17:38:02 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:38:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:38:10 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='5'  
+Tue / 2014-12-09 / 17:38:10 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:40:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:40:18 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2014-12-09 / 17:40:18 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:40:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:40:24 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='5'  
+Tue / 2014-12-09 / 17:40:24 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:40:32 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:40:32 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2014-12-09 / 17:40:32 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:40:38 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:40:38 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='7'  
+Tue / 2014-12-09 / 17:40:38 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:40:49 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:40:49 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='5'  
+Tue / 2014-12-09 / 17:40:49 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:41:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:41:02 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Slide',keterangan='<p>Slide</p>
+',row_status='1' WHERE id_slide='5' 
+)
+ 
+Tue / 2014-12-09 / 17:41:02 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:41:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:41:02 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2014-12-09 / 17:41:02 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:41:11 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:41:11 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='6'  
+Tue / 2014-12-09 / 17:41:11 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:41:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:41:26 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Slide 2',keterangan='<p>Slide 3</p>
+',row_status='1' WHERE id_slide='6' 
+)
+ 
+Tue / 2014-12-09 / 17:41:26 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:41:27 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:41:27 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2014-12-09 / 17:41:27 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:41:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:41:31 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='7'  
+Tue / 2014-12-09 / 17:41:31 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:41:45 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:41:45 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Slide 3',keterangan='<p>Slide 3</p>
+',row_status='1' WHERE id_slide='7' 
+)
+ 
+Tue / 2014-12-09 / 17:41:45 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:41:45 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:41:45 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2014-12-09 / 17:41:45 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:41:47 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:41:47 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='8'  
+Tue / 2014-12-09 / 17:41:47 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:42:01 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:42:01 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Slide 4',keterangan='<p>Slide4</p>
+',row_status='1' WHERE id_slide='8' 
+)
+ 
+Tue / 2014-12-09 / 17:42:01 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:42:01 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:42:01 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2014-12-09 / 17:42:01 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:49:54 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:49:54 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2014-12-09 / 17:49:54 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:49:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:49:58 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2014-12-09 / 17:49:58 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:51:14 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:51:14 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2014-12-09 / 17:51:14 WIB/ Koneksi Diputus 
+Tue / 2014-12-09 / 17:51:17 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Tue / 2014-12-09 / 17:51:17 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2014-12-09 / 17:51:17 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:38:39 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:38:39 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:38:39 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:41:29 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:41:29 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:41:29 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:41:58 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:41:58 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:41:58 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:42:44 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:42:44 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:42:44 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:52:12 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:52:12 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:52:12 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:52:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:52:33 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:52:33 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:53:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:53:40 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:53:40 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:54:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:54:41 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:54:41 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:54:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:54:57 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:54:57 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:55:17 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:55:17 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:55:17 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:56:11 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:56:11 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:56:11 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:56:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:56:25 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,gambar,row_status) VALUES ('Slide','588674767.jpg','1')
+)
+ 
+Thu / 2014-12-11 / 15:56:25 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:56:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:56:25 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:56:25 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:56:59 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:56:59 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='10'  
+Thu / 2014-12-11 / 15:56:59 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:57:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:57:04 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Slide',keterangan='<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+',row_status='1' WHERE id_slide='10' 
+)
+ 
+Thu / 2014-12-11 / 15:57:04 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:57:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:57:04 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:57:04 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:57:49 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:57:49 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:57:49 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:58:01 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:58:01 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:58:01 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:58:43 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:58:43 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:58:43 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:59:01 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:59:01 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:59:01 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:59:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:59:18 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:59:18 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:59:45 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:59:45 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='10'  
+Thu / 2014-12-11 / 15:59:45 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:59:50 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:59:50 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='10'  
+Thu / 2014-12-11 / 15:59:50 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:59:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:59:57 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Slide edot',keterangan='<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+',row_status='1' WHERE id_slide='10' 
+)
+ 
+Thu / 2014-12-11 / 15:59:57 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 15:59:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 15:59:57 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 15:59:57 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:00:00 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:00:00 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='10'  
+Thu / 2014-12-11 / 16:00:00 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:00:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:00:04 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Slide',keterangan='<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+',row_status='1' WHERE id_slide='10' 
+)
+ 
+Thu / 2014-12-11 / 16:00:04 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:00:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:00:04 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 16:00:04 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:02:44 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:02:44 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 16:02:44 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:03:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:03:06 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_slide WHERE id_slide='10' 
+)
+ 
+Thu / 2014-12-11 / 16:03:06 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:03:06 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:03:06 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 16:03:06 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:03:27 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:03:27 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,keterangan,gambar,row_status) VALUES ('Slide','<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+','295843496.jpg','1')
+)
+ 
+Thu / 2014-12-11 / 16:03:27 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:03:27 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:03:27 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 16:03:27 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:04:00 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:04:00 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 16:04:00 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:04:03 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:04:03 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_slide WHERE id_slide='11' 
+)
+ 
+Thu / 2014-12-11 / 16:04:03 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:04:03 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:04:03 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 16:04:03 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:04:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:04:18 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,keterangan,gambar,row_status) VALUES ('Slide','<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+','985599917.jpg','1')
+)
+ 
+Thu / 2014-12-11 / 16:04:18 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:04:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:04:18 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 16:04:18 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:08:41 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:08:41 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 16:08:41 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:24:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:24:08 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 16:24:08 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:24:13 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:24:13 WIB/ Query Berhasil: select * from m_slide where id_slide = '12' 
+Thu / 2014-12-11 / 16:24:13 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:24:13 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:24:13 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_slide WHERE id_slide='12' 
+)
+ 
+Thu / 2014-12-11 / 16:24:13 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:24:13 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:24:13 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 16:24:13 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:24:24 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:24:24 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,keterangan,gambar,row_status) VALUES ('Slide','<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+','972905542.jpg','1')
+)
+ 
+Thu / 2014-12-11 / 16:24:24 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:24:25 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:24:25 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 16:24:25 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:24:46 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:24:46 WIB/ Query Berhasil: select * from m_slide where id_slide = '13' 
+Thu / 2014-12-11 / 16:24:46 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:24:46 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:24:46 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_slide WHERE id_slide='13' 
+)
+ 
+Thu / 2014-12-11 / 16:24:46 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:24:46 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:24:46 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 16:24:46 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:25:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:25:10 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 16:25:10 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:25:21 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:25:21 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,keterangan,gambar,row_status) VALUES ('Slide','<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+','1329768104.jpg','1')
+)
+ 
+Thu / 2014-12-11 / 16:25:21 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:25:22 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:25:22 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 16:25:22 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:25:26 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:25:26 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='14'  
+Thu / 2014-12-11 / 16:25:26 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:25:33 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:25:33 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 16:25:33 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:25:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:25:35 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='14'  
+Thu / 2014-12-11 / 16:25:35 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:25:55 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:25:55 WIB/ Query Berhasil: select * from m_slide where id_slide = '14' 
+Thu / 2014-12-11 / 16:25:55 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:25:56 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:25:56 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Slide',keterangan='<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+',gambar='107020039.jpg',row_status='1' WHERE id_slide='14' 
+)
+ 
+Thu / 2014-12-11 / 16:25:56 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:25:56 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:25:56 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 16:25:56 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:29:18 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:29:18 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 16:29:18 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:29:20 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:29:20 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='14'  
+Thu / 2014-12-11 / 16:29:20 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:29:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:29:31 WIB/ Query Berhasil: select * from m_slide where id_slide = '14' 
+Thu / 2014-12-11 / 16:29:31 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:29:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:29:31 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Slide',keterangan='<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+',gambar='403767203.jpg',row_status='1' WHERE id_slide='14' 
+)
+ 
+Thu / 2014-12-11 / 16:29:31 WIB/ Koneksi Diputus 
+Thu / 2014-12-11 / 16:29:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Thu / 2014-12-11 / 16:29:31 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2014-12-11 / 16:29:31 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 12:24:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 12:24:10 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2014-12-13 / 12:24:10 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 12:25:01 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 12:25:01 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,keterangan,gambar,row_status) VALUES ('Slide 2','<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+','1358814556.jpg','1')
+)
+ 
+Sat / 2014-12-13 / 12:25:01 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 12:25:01 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 12:25:01 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2014-12-13 / 12:25:01 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 12:53:10 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 12:53:10 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2014-12-13 / 12:53:10 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:23:39 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:23:39 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2014-12-13 / 14:23:39 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:24:01 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:24:01 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,gambar,row_status) VALUES ('Slide 3','857020955.jpg','1')
+)
+ 
+Sat / 2014-12-13 / 14:24:01 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 14:24:02 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 14:24:02 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2014-12-13 / 14:24:02 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:21:51 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:21:51 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2014-12-13 / 15:21:51 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:21:56 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:21:56 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='14'  
+Sat / 2014-12-13 / 15:21:56 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:22:27 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:22:27 WIB/ Query Berhasil: select * from m_slide where id_slide = '14' 
+Sat / 2014-12-13 / 15:22:27 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:22:27 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:22:28 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Slide',keterangan='<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+',gambar='1107035604.jpg',row_status='1' WHERE id_slide='14' 
+)
+ 
+Sat / 2014-12-13 / 15:22:28 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:22:28 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:22:28 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2014-12-13 / 15:22:28 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:22:31 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:22:31 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='14'  
+Sat / 2014-12-13 / 15:22:31 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:22:40 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:22:40 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='ITK',keterangan='<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+',row_status='1' WHERE id_slide='14' 
+)
+ 
+Sat / 2014-12-13 / 15:22:40 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:22:41 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:22:41 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2014-12-13 / 15:22:41 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:23:57 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:23:57 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='14'  
+Sat / 2014-12-13 / 15:23:57 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:24:14 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:24:15 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='PERENCANAAN ITK',keterangan='<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+',row_status='1' WHERE id_slide='14' 
+)
+ 
+Sat / 2014-12-13 / 15:24:15 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:24:15 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:24:15 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2014-12-13 / 15:24:15 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:24:19 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:24:19 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='15'  
+Sat / 2014-12-13 / 15:24:19 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:24:39 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:24:39 WIB/ Query Berhasil: select * from m_slide where id_slide = '15' 
+Sat / 2014-12-13 / 15:24:39 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:24:39 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:24:39 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='PERENCANAAN ITK',keterangan='<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+',gambar='1034096735.jpg',row_status='1' WHERE id_slide='15' 
+)
+ 
+Sat / 2014-12-13 / 15:24:39 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:24:39 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:24:39 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2014-12-13 / 15:24:39 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:24:41 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:24:41 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='16'  
+Sat / 2014-12-13 / 15:24:41 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:24:49 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:24:49 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='PERENCANAAN ITK',row_status='1' WHERE id_slide='16' 
+)
+ 
+Sat / 2014-12-13 / 15:24:49 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:24:49 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:24:49 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2014-12-13 / 15:24:49 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:24:52 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:24:52 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='16'  
+Sat / 2014-12-13 / 15:24:52 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:25:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:25:08 WIB/ Query Berhasil: select * from m_slide where id_slide = '16' 
+Sat / 2014-12-13 / 15:25:08 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:25:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:25:08 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='PERENCANAAN ITK',gambar='288312934.jpg',row_status='1' WHERE id_slide='16' 
+)
+ 
+Sat / 2014-12-13 / 15:25:08 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:25:08 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:25:08 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2014-12-13 / 15:25:08 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:25:19 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:25:19 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,gambar,row_status) VALUES ('PERENCANAAN ITK','671510946.jpg','1')
+)
+ 
+Sat / 2014-12-13 / 15:25:19 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:25:20 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:25:20 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2014-12-13 / 15:25:20 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:26:04 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:26:05 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,row_status) VALUES ('PERESMIAN ITK','1')
+)
+ 
+Sat / 2014-12-13 / 15:26:05 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:26:05 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:26:05 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2014-12-13 / 15:26:05 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:26:12 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:26:12 WIB/ Query Berhasil: select * from m_slide where id_slide = '18' 
+Sat / 2014-12-13 / 15:26:12 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:26:13 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:26:13 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_slide WHERE id_slide='18' 
+)
+ 
+Sat / 2014-12-13 / 15:26:13 WIB/ Koneksi Diputus 
+Sat / 2014-12-13 / 15:26:13 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sat / 2014-12-13 / 15:26:13 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2014-12-13 / 15:26:13 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 13:50:29 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 13:50:29 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sun / 2014-12-14 / 13:50:29 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 13:50:45 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 13:50:46 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,gambar,row_status) VALUES ('tes','834902619.jpg','1')
+)
+ 
+Sun / 2014-12-14 / 13:50:46 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 13:50:46 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 13:50:46 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sun / 2014-12-14 / 13:50:46 WIB/ Koneksi Diputus 
+Sun / 2014-12-14 / 13:55:39 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Sun / 2014-12-14 / 13:55:39 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sun / 2014-12-14 / 13:55:39 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:09:35 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:09:36 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Mon / 2014-12-15 / 15:09:36 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:09:48 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:09:48 WIB/ Query Berhasil: select * from m_slide where id_slide = '19' 
+Mon / 2014-12-15 / 15:09:48 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:09:48 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:09:48 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_slide WHERE id_slide='19' 
+)
+ 
+Mon / 2014-12-15 / 15:09:48 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:09:48 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:09:48 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Mon / 2014-12-15 / 15:09:48 WIB/ Koneksi Diputus 
+Mon / 2014-12-15 / 15:46:11 WIB/ Koneksi Berhasil: Use Database dbAkadITK 
+Mon / 2014-12-15 / 15:46:11 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Mon / 2014-12-15 / 15:46:11 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:28:38 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:28:38 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-17 / 17:28:38 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:33:00 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:33:00 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-17 / 17:33:00 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:38:47 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:38:47 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-17 / 17:38:47 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:39:08 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:39:08 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-17 / 17:39:08 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:48:28 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:48:28 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-17 / 17:48:28 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:48:31 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:48:31 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='14'  
+Wed / 2014-12-17 / 17:48:31 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:48:51 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:48:52 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,gambar,status,row_status) VALUES ('asdasda','1006556395.jpg','A','1')
+)
+ 
+Wed / 2014-12-17 / 17:48:52 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:48:52 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:48:52 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-17 / 17:48:52 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:51:28 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:51:28 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,gambar,status,row_status) VALUES ('ggggggggg','106546690.jpg','T','1')
+)
+ 
+Wed / 2014-12-17 / 17:51:28 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:51:28 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:51:28 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-17 / 17:51:28 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:54:09 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:54:09 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-17 / 17:54:09 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:54:11 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:54:11 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='19'  
+Wed / 2014-12-17 / 17:54:11 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:54:12 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:54:12 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='19'  
+Wed / 2014-12-17 / 17:54:12 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:54:14 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:54:14 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='19'  
+Wed / 2014-12-17 / 17:54:14 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:54:14 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:54:14 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='18'  
+Wed / 2014-12-17 / 17:54:14 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:54:26 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:54:26 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-17 / 17:54:26 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:54:27 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:54:27 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='19'  
+Wed / 2014-12-17 / 17:54:27 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:57:01 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:57:01 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='18'  
+Wed / 2014-12-17 / 17:57:01 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:57:05 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:57:05 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='asdasda',status='T',row_status='1' WHERE id_slide='18' 
+)
+ 
+Wed / 2014-12-17 / 17:57:05 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:57:06 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:57:06 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-17 / 17:57:06 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:59:20 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:59:20 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-17 / 17:59:20 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 17:59:53 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 17:59:53 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-17 / 17:59:53 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 18:00:03 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 18:00:04 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-17 / 18:00:04 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 18:00:24 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 18:00:24 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-17 / 18:00:24 WIB/ Koneksi Diputus 
+Wed / 2014-12-17 / 18:03:05 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-17 / 18:03:05 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-17 / 18:03:05 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:33:46 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:33:46 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2014-12-23 / 12:33:46 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:52:58 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:52:58 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2014-12-23 / 12:52:58 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:53:48 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:53:48 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,gambar,status,row_status) VALUES ('KOMPETISI DESAIN LOGO DAN KARYA CIPTA HYMNE ITK','37222490.jpg','A','1')
+)
+ 
+Tue / 2014-12-23 / 12:53:48 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 12:53:49 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 12:53:49 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2014-12-23 / 12:53:49 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 13:18:07 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 13:18:07 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2014-12-23 / 13:18:07 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 13:18:11 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 13:18:11 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='20'  
+Tue / 2014-12-23 / 13:18:11 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 13:18:14 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 13:18:14 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='KOMPETISI DESAIN LOGO DAN KARYA CIPTA HYMNE ITK',status='T',row_status='1' WHERE id_slide='20' 
+)
+ 
+Tue / 2014-12-23 / 13:18:14 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 13:18:14 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 13:18:14 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2014-12-23 / 13:18:14 WIB/ Koneksi Diputus 
+Tue / 2014-12-23 / 13:21:21 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Tue / 2014-12-23 / 13:21:21 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2014-12-23 / 13:21:21 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 13:16:29 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-24 / 13:16:29 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-24 / 13:16:29 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 13:16:32 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-24 / 13:16:32 WIB/ Query Berhasil: select * from m_slide where id_slide = '20' 
+Wed / 2014-12-24 / 13:16:32 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 13:16:33 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-24 / 13:16:33 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_slide WHERE id_slide='20' 
+)
+ 
+Wed / 2014-12-24 / 13:16:33 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 13:16:33 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Wed / 2014-12-24 / 13:16:33 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-24 / 13:16:33 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 13:32:37 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2014-12-24 / 13:32:37 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-24 / 13:32:37 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 13:32:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2014-12-24 / 13:32:41 WIB/ Query Berhasil: select * from m_slide where id_slide = '20' 
+Wed / 2014-12-24 / 13:32:41 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 13:32:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2014-12-24 / 13:32:41 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_slide WHERE id_slide='20' 
+)
+ 
+Wed / 2014-12-24 / 13:32:41 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 13:32:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2014-12-24 / 13:32:41 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-24 / 13:32:41 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 13:33:09 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2014-12-24 / 13:33:09 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='17'  
+Wed / 2014-12-24 / 13:33:09 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 13:33:12 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2014-12-24 / 13:33:12 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='PERENCANAAN ITK',status='T',row_status='1' WHERE id_slide='17' 
+)
+ 
+Wed / 2014-12-24 / 13:33:12 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 13:33:13 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2014-12-24 / 13:33:13 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-24 / 13:33:13 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 13:33:34 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2014-12-24 / 13:33:34 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,gambar,status,row_status) VALUES ('KOMPETISI DESAIN LOGO DAN KARYA CIPTA HYMNE ITK','568852160.jpg','A','1')
+)
+ 
+Wed / 2014-12-24 / 13:33:34 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 13:33:34 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2014-12-24 / 13:33:34 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-24 / 13:33:34 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 15:27:01 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2014-12-24 / 15:27:01 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-24 / 15:27:01 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 15:27:07 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2014-12-24 / 15:27:07 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='21'  
+Wed / 2014-12-24 / 15:27:07 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 15:27:12 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2014-12-24 / 15:27:12 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='KOMPETISI DESAIN LOGO DAN KARYA CIPTA HYMNE ITK',status='T',row_status='1' WHERE id_slide='21' 
+)
+ 
+Wed / 2014-12-24 / 15:27:12 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 15:27:12 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2014-12-24 / 15:27:12 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='KOMPETISI DESAIN LOGO DAN KARYA CIPTA HYMNE ITK',status='T',row_status='1' WHERE id_slide='21' 
+)
+ 
+Wed / 2014-12-24 / 15:27:12 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 15:27:13 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2014-12-24 / 15:27:13 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-24 / 15:27:13 WIB/ Koneksi Diputus 
+Wed / 2014-12-24 / 15:27:14 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2014-12-24 / 15:27:14 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2014-12-24 / 15:27:14 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:22:07 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:22:07 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-01-06 / 12:22:07 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:26:52 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:26:52 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,gambar,status,row_status) VALUES ('Ground Breaking ITK','1379565579.jpg','A','1')
+)
+ 
+Tue / 2015-01-06 / 12:26:52 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:26:53 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:26:53 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-01-06 / 12:26:53 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:27:22 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:27:22 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,gambar,status,row_status) VALUES ('Ground Breaking ITK','116613586.jpg','A','1')
+)
+ 
+Tue / 2015-01-06 / 12:27:22 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:27:22 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:27:22 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-01-06 / 12:27:22 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:27:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:27:55 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,gambar,status,row_status) VALUES ('Ground Breaking ITK','945523363.jpg','A','1')
+)
+ 
+Tue / 2015-01-06 / 12:27:55 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:27:56 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:27:56 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-01-06 / 12:27:56 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:34:06 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:34:06 WIB/ Query Berhasil: select * from m_slide where id_slide = '22' 
+Tue / 2015-01-06 / 12:34:06 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:34:06 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:34:06 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_slide WHERE id_slide='22' 
+)
+ 
+Tue / 2015-01-06 / 12:34:06 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:34:06 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:34:06 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-01-06 / 12:34:06 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:34:12 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:34:12 WIB/ Query Berhasil: select * from m_slide where id_slide = '23' 
+Tue / 2015-01-06 / 12:34:12 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:34:12 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:34:12 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_slide WHERE id_slide='23' 
+)
+ 
+Tue / 2015-01-06 / 12:34:12 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:34:13 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:34:13 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-01-06 / 12:34:13 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:34:16 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:34:16 WIB/ Query Berhasil: select * from m_slide where id_slide = '24' 
+Tue / 2015-01-06 / 12:34:16 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:34:16 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:34:16 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_slide WHERE id_slide='24' 
+)
+ 
+Tue / 2015-01-06 / 12:34:16 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:34:17 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:34:17 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-01-06 / 12:34:17 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:34:47 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:34:47 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,gambar,row_status) VALUES ('Rapat Kurikulim','282959939.jpg','1')
+)
+ 
+Tue / 2015-01-06 / 12:34:47 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:34:47 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:34:47 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-01-06 / 12:34:47 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:35:19 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:35:19 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,gambar,row_status) VALUES ('Suasana Rapat Kurikulum ITK','1174781200.jpg','1')
+)
+ 
+Tue / 2015-01-06 / 12:35:19 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:35:19 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:35:19 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-01-06 / 12:35:19 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:35:37 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:35:37 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,gambar,row_status) VALUES ('Rapat Kurikulum ITK','345103985.jpg','1')
+)
+ 
+Tue / 2015-01-06 / 12:35:37 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:35:38 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:35:38 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-01-06 / 12:35:38 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:39:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:39:05 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,gambar,row_status) VALUES ('Ground Zero ITK','550584253.jpg','1')
+)
+ 
+Tue / 2015-01-06 / 12:39:05 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:39:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:39:05 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-01-06 / 12:39:05 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:39:47 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:39:47 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,gambar,row_status) VALUES ('Ground Breaking ITK','48099938.jpg','1')
+)
+ 
+Tue / 2015-01-06 / 12:39:47 WIB/ Koneksi Diputus 
+Tue / 2015-01-06 / 12:39:48 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-01-06 / 12:39:48 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-01-06 / 12:39:48 WIB/ Koneksi Diputus 
+Wed / 2015-01-07 / 01:21:23 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-01-07 / 01:21:23 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-01-07 / 01:21:23 WIB/ Koneksi Diputus 
+Wed / 2015-01-07 / 01:21:39 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-01-07 / 01:21:39 WIB/ Query Berhasil: select * from m_slide where id_slide = '18' 
+Wed / 2015-01-07 / 01:21:39 WIB/ Koneksi Diputus 
+Wed / 2015-01-07 / 01:21:39 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-01-07 / 01:21:39 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_slide WHERE id_slide='18' 
+)
+ 
+Wed / 2015-01-07 / 01:21:39 WIB/ Koneksi Diputus 
+Wed / 2015-01-07 / 01:21:39 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-01-07 / 01:21:39 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-01-07 / 01:21:39 WIB/ Koneksi Diputus 
+Wed / 2015-01-07 / 01:21:46 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-01-07 / 01:21:46 WIB/ Query Berhasil: select * from m_slide where id_slide = '19' 
+Wed / 2015-01-07 / 01:21:46 WIB/ Koneksi Diputus 
+Wed / 2015-01-07 / 01:21:46 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-01-07 / 01:21:46 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_slide WHERE id_slide='19' 
+)
+ 
+Wed / 2015-01-07 / 01:21:46 WIB/ Koneksi Diputus 
+Wed / 2015-01-07 / 01:21:46 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-01-07 / 01:21:46 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-01-07 / 01:21:46 WIB/ Koneksi Diputus 
+Wed / 2015-01-07 / 01:21:53 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-01-07 / 01:21:53 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='25'  
+Wed / 2015-01-07 / 01:21:53 WIB/ Koneksi Diputus 
+Wed / 2015-01-07 / 01:22:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-01-07 / 01:22:05 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Rapat Kurikulum',keterangan='<p>&nbsp;
+<div id="__if72ru4rkjahiuyi_once" style="display:none;">&nbsp;</div>
+</p>
+',status='A',row_status='1' WHERE id_slide='25' 
+)
+ 
+Wed / 2015-01-07 / 01:22:05 WIB/ Koneksi Diputus 
+Wed / 2015-01-07 / 01:22:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-01-07 / 01:22:05 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-01-07 / 01:22:05 WIB/ Koneksi Diputus 
+Thu / 2015-01-08 / 09:16:19 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-01-08 / 09:16:20 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2015-01-08 / 09:16:20 WIB/ Koneksi Diputus 
+Thu / 2015-01-08 / 09:17:56 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-01-08 / 09:17:56 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='28'  
+Thu / 2015-01-08 / 09:17:56 WIB/ Koneksi Diputus 
+Thu / 2015-01-08 / 09:27:33 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-01-08 / 09:27:33 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2015-01-08 / 09:27:33 WIB/ Koneksi Diputus 
+Thu / 2015-01-08 / 09:27:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-01-08 / 09:27:41 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='14'  
+Thu / 2015-01-08 / 09:27:41 WIB/ Koneksi Diputus 
+Thu / 2015-01-08 / 09:27:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-01-08 / 09:27:55 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2015-01-08 / 09:27:55 WIB/ Koneksi Diputus 
+Sun / 2015-01-25 / 22:29:21 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-01-25 / 22:29:21 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sun / 2015-01-25 / 22:29:21 WIB/ Koneksi Diputus 
+Sun / 2015-01-25 / 22:30:10 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-01-25 / 22:30:10 WIB/ Query Berhasil: select * from m_slide where id_slide = '27' 
+Sun / 2015-01-25 / 22:30:10 WIB/ Koneksi Diputus 
+Sun / 2015-01-25 / 22:30:10 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-01-25 / 22:30:10 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_slide WHERE id_slide='27' 
+)
+ 
+Sun / 2015-01-25 / 22:30:10 WIB/ Koneksi Diputus 
+Sun / 2015-01-25 / 22:30:10 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-01-25 / 22:30:10 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sun / 2015-01-25 / 22:30:10 WIB/ Koneksi Diputus 
+Sun / 2015-01-25 / 22:30:14 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-01-25 / 22:30:14 WIB/ Query Berhasil: select * from m_slide where id_slide = '26' 
+Sun / 2015-01-25 / 22:30:14 WIB/ Koneksi Diputus 
+Sun / 2015-01-25 / 22:30:14 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-01-25 / 22:30:14 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_slide WHERE id_slide='26' 
+)
+ 
+Sun / 2015-01-25 / 22:30:14 WIB/ Koneksi Diputus 
+Sun / 2015-01-25 / 22:30:15 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-01-25 / 22:30:15 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sun / 2015-01-25 / 22:30:15 WIB/ Koneksi Diputus 
+Sun / 2015-01-25 / 22:30:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-01-25 / 22:30:26 WIB/ Query Berhasil: select * from m_slide where id_slide = '25' 
+Sun / 2015-01-25 / 22:30:26 WIB/ Koneksi Diputus 
+Sun / 2015-01-25 / 22:30:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-01-25 / 22:30:26 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_slide WHERE id_slide='25' 
+)
+ 
+Sun / 2015-01-25 / 22:30:26 WIB/ Koneksi Diputus 
+Sun / 2015-01-25 / 22:30:27 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-01-25 / 22:30:27 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sun / 2015-01-25 / 22:30:27 WIB/ Koneksi Diputus 
+Sun / 2015-01-25 / 22:32:29 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-01-25 / 22:32:29 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='29'  
+Sun / 2015-01-25 / 22:32:29 WIB/ Koneksi Diputus 
+Sun / 2015-01-25 / 22:32:56 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-01-25 / 22:32:56 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sun / 2015-01-25 / 22:32:56 WIB/ Koneksi Diputus 
+Sun / 2015-01-25 / 22:35:13 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-01-25 / 22:35:13 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sun / 2015-01-25 / 22:35:13 WIB/ Koneksi Diputus 
+Sun / 2015-01-25 / 22:35:27 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-01-25 / 22:35:27 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='17'  
+Sun / 2015-01-25 / 22:35:27 WIB/ Koneksi Diputus 
+Sun / 2015-01-25 / 22:36:07 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-01-25 / 22:36:07 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='PERENCANAAN ITK',keterangan='<p>Rencana Pembangunan Tahap II Cluster A<br />
+&nbsp;</p>
+',status='T',row_status='1' WHERE id_slide='17' 
+)
+ 
+Sun / 2015-01-25 / 22:36:07 WIB/ Koneksi Diputus 
+Sun / 2015-01-25 / 22:36:08 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-01-25 / 22:36:08 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sun / 2015-01-25 / 22:36:08 WIB/ Koneksi Diputus 
+Mon / 2015-02-02 / 14:19:46 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-02-02 / 14:19:46 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Mon / 2015-02-02 / 14:19:46 WIB/ Koneksi Diputus 
+Thu / 2015-03-12 / 15:18:09 WIB/ Koneksi Berhasil: Use Database dbakaditk 
+Thu / 2015-03-12 / 15:18:09 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2015-03-12 / 15:18:09 WIB/ Koneksi Diputus 
+Mon / 2015-03-16 / 10:42:39 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-03-16 / 10:42:39 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Mon / 2015-03-16 / 10:42:39 WIB/ Koneksi Diputus 
+Mon / 2015-03-16 / 10:42:54 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-03-16 / 10:42:54 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='32'  
+Mon / 2015-03-16 / 10:42:54 WIB/ Koneksi Diputus 
+Mon / 2015-03-16 / 10:42:58 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-03-16 / 10:42:58 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Seminar Sains & Teknologi - ITK Innovation 2015',status='T',row_status='1' WHERE id_slide='32' 
+)
+ 
+Mon / 2015-03-16 / 10:42:58 WIB/ Koneksi Diputus 
+Mon / 2015-03-16 / 10:42:58 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-03-16 / 10:42:58 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Mon / 2015-03-16 / 10:42:58 WIB/ Koneksi Diputus 
+Mon / 2015-03-16 / 11:31:45 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-03-16 / 11:31:45 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Mon / 2015-03-16 / 11:31:45 WIB/ Koneksi Diputus 
+Thu / 2015-04-09 / 17:21:59 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-04-09 / 17:21:59 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2015-04-09 / 17:21:59 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:09:04 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:09:04 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-04-10 / 09:09:04 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:12:40 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:12:40 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-04-10 / 09:12:40 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:16:25 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:16:25 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,keterangan,gambar,status,row_status) VALUES ('Jadwal Penerimaan Mahasiswa Baru ITK','<p><a href="http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil">http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil</a></p>
+','519953276.jpg','A','1')
+)
+ 
+Fri / 2015-04-10 / 09:16:25 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:16:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:16:26 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-04-10 / 09:16:26 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:23:00 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:23:00 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='36'  
+Fri / 2015-04-10 / 09:23:00 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:24:04 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:24:04 WIB/ Query Berhasil: select * from m_slide where id_slide = '36' 
+Fri / 2015-04-10 / 09:24:04 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:24:04 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:24:04 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Jadwal Penerimaan Mahasiswa Baru ITK',keterangan='<p><a href="http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil">http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil</a></p>
+',gambar='490461139.jpg',status='A',row_status='1' WHERE id_slide='36' 
+)
+ 
+Fri / 2015-04-10 / 09:24:04 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:24:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:24:05 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-04-10 / 09:24:05 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:35:46 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:35:46 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='36'  
+Fri / 2015-04-10 / 09:35:46 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:36:10 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:36:10 WIB/ Query Berhasil: select * from m_slide where id_slide = '36' 
+Fri / 2015-04-10 / 09:36:10 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:36:10 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:36:10 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Jadwal Penerimaan Mahasiswa Baru ITK',keterangan='<p><a href="http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil">http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil</a></p>
+',gambar='1088580976.jpg',status='A',row_status='1' WHERE id_slide='36' 
+)
+ 
+Fri / 2015-04-10 / 09:36:10 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:36:11 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:36:11 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-04-10 / 09:36:11 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:44:27 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:44:27 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='36'  
+Fri / 2015-04-10 / 09:44:27 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:44:48 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:44:48 WIB/ Query Berhasil: select * from m_slide where id_slide = '36' 
+Fri / 2015-04-10 / 09:44:48 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:44:48 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:44:48 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Jadwal Penerimaan Mahasiswa Baru ITK',keterangan='<p><a href="http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil">http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil</a></p>
+',gambar='324244806.jpg',status='A',row_status='1' WHERE id_slide='36' 
+)
+ 
+Fri / 2015-04-10 / 09:44:48 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:44:49 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:44:49 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-04-10 / 09:44:49 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:45:37 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:45:37 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='31'  
+Fri / 2015-04-10 / 09:45:37 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:45:43 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:45:43 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Lomba Logo ITK',status='T',row_status='1' WHERE id_slide='31' 
+)
+ 
+Fri / 2015-04-10 / 09:45:43 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 09:45:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 09:45:44 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-04-10 / 09:45:44 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 14:20:06 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 14:20:06 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-04-10 / 14:20:06 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 14:20:14 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 14:20:14 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='36'  
+Fri / 2015-04-10 / 14:20:14 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 14:20:35 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 14:20:35 WIB/ Query Berhasil: select * from m_slide where id_slide = '36' 
+Fri / 2015-04-10 / 14:20:35 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 14:20:35 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 14:20:35 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Jadwal Penerimaan Mahasiswa Baru ITK',keterangan='<p><a href="http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil">http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil</a></p>
+',gambar='374740147.jpg',status='A',row_status='1' WHERE id_slide='36' 
+)
+ 
+Fri / 2015-04-10 / 14:20:35 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 14:20:36 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 14:20:36 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-04-10 / 14:20:36 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 14:23:53 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 14:23:53 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='36'  
+Fri / 2015-04-10 / 14:23:53 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 14:24:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 14:24:26 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-04-10 / 14:24:26 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 14:24:32 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 14:24:32 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='36'  
+Fri / 2015-04-10 / 14:24:32 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 14:24:45 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 14:24:45 WIB/ Query Berhasil: select * from m_slide where id_slide = '36' 
+Fri / 2015-04-10 / 14:24:45 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 14:24:45 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 14:24:45 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Jadwal Penerimaan Mahasiswa Baru ITK',keterangan='<p><a href="http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil">http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil</a></p>
+',gambar='1057050478.jpg',status='A',row_status='1' WHERE id_slide='36' 
+)
+ 
+Fri / 2015-04-10 / 14:24:45 WIB/ Koneksi Diputus 
+Fri / 2015-04-10 / 14:24:46 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-10 / 14:24:46 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-04-10 / 14:24:46 WIB/ Koneksi Diputus 
+Tue / 2015-04-14 / 15:56:17 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-14 / 15:56:17 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-04-14 / 15:56:17 WIB/ Koneksi Diputus 
+Tue / 2015-04-14 / 15:56:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-14 / 15:56:26 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='30'  
+Tue / 2015-04-14 / 15:56:26 WIB/ Koneksi Diputus 
+Tue / 2015-04-14 / 15:56:29 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-14 / 15:56:29 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='ITK Innovation 2015',status='T',row_status='1' WHERE id_slide='30' 
+)
+ 
+Tue / 2015-04-14 / 15:56:29 WIB/ Koneksi Diputus 
+Tue / 2015-04-14 / 15:56:30 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-14 / 15:56:30 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-04-14 / 15:56:30 WIB/ Koneksi Diputus 
+Tue / 2015-04-14 / 15:56:46 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-14 / 15:56:46 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='14'  
+Tue / 2015-04-14 / 15:56:46 WIB/ Koneksi Diputus 
+Tue / 2015-04-14 / 15:56:51 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-14 / 15:56:51 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='PERENCANAAN ITK',keterangan='<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+',status='T',row_status='1' WHERE id_slide='14' 
+)
+ 
+Tue / 2015-04-14 / 15:56:51 WIB/ Koneksi Diputus 
+Tue / 2015-04-14 / 15:56:51 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-14 / 15:56:51 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-04-14 / 15:56:51 WIB/ Koneksi Diputus 
+Tue / 2015-04-14 / 15:56:58 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-14 / 15:56:58 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='16'  
+Tue / 2015-04-14 / 15:56:58 WIB/ Koneksi Diputus 
+Tue / 2015-04-14 / 15:57:02 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-14 / 15:57:02 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='PERENCANAAN ITK',status='T',row_status='1' WHERE id_slide='16' 
+)
+ 
+Tue / 2015-04-14 / 15:57:02 WIB/ Koneksi Diputus 
+Tue / 2015-04-14 / 15:57:02 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-14 / 15:57:02 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-04-14 / 15:57:02 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 09:10:01 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 09:10:01 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-04-15 / 09:10:01 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 09:31:51 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 09:31:51 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-04-15 / 09:31:51 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 09:32:29 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 09:32:29 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='36'  
+Wed / 2015-04-15 / 09:32:29 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 09:33:47 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 09:33:47 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Jadwal Penerimaan Mahasiswa Baru ITK',keterangan='<p><a href="http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil">http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil</a></p>
+',status='A',row_status='1' WHERE id_slide='36' 
+)
+ 
+Wed / 2015-04-15 / 09:33:47 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 09:33:48 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 09:33:48 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-04-15 / 09:33:48 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 09:34:34 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 09:34:34 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='36'  
+Wed / 2015-04-15 / 09:34:34 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 09:34:42 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 09:34:42 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Jadwal Penerimaan Mahasiswa Baru ITK',keterangan='<p><a href="http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil">http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil</a></p>
+',status='A',row_status='1' WHERE id_slide='36' 
+)
+ 
+Wed / 2015-04-15 / 09:34:42 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 09:34:43 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 09:34:43 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-04-15 / 09:34:43 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 09:36:02 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 09:36:02 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,keterangan,gambar,status,row_status) VALUES ('Jadwal Penerimaan Mahasiswa Baru ITK','<p><a href="http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil">http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil</a></p>
+','48317181.jpg','A','1')
+)
+ 
+Wed / 2015-04-15 / 09:36:02 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 09:36:03 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 09:36:03 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-04-15 / 09:36:03 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 09:37:01 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 09:37:01 WIB/ Query Berhasil: select * from m_slide where id_slide = '36' 
+Wed / 2015-04-15 / 09:37:01 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 09:37:01 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 09:37:01 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_slide WHERE id_slide='36' 
+)
+ 
+Wed / 2015-04-15 / 09:37:01 WIB/ Koneksi Diputus 
+Wed / 2015-04-15 / 09:37:02 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-15 / 09:37:02 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-04-15 / 09:37:02 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 09:03:00 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 09:03:00 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Mon / 2015-04-20 / 09:03:00 WIB/ Koneksi Diputus 
+Mon / 2015-04-20 / 09:08:11 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-04-20 / 09:08:11 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Mon / 2015-04-20 / 09:08:11 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 09:15:32 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 09:15:32 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-04-21 / 09:15:32 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 09:16:07 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 09:16:07 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='15'  
+Tue / 2015-04-21 / 09:16:07 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 09:55:53 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 09:55:53 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-04-21 / 09:55:53 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:53:08 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:53:08 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-04-21 / 15:53:08 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:53:30 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:53:30 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='37'  
+Tue / 2015-04-21 / 15:53:30 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:54:01 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:54:01 WIB/ Query Berhasil: select * from m_slide where id_slide = '37' 
+Tue / 2015-04-21 / 15:54:01 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:54:01 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:54:01 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Jadwal Penerimaan Mahasiswa Baru ITK',keterangan='<p><a href="http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil">http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil</a></p>
+',gambar='420155103.jpg',status='A',row_status='1' WHERE id_slide='37' 
+)
+ 
+Tue / 2015-04-21 / 15:54:01 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:54:02 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:54:02 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-04-21 / 15:54:02 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:54:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:54:05 WIB/ Query Berhasil: select * from m_slide where id_slide = '37' 
+Tue / 2015-04-21 / 15:54:05 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:54:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:54:05 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Jadwal Penerimaan Mahasiswa Baru ITK',keterangan='<p><a href="http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil">http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil</a></p>
+',gambar='797535703.jpg',status='A',row_status='1' WHERE id_slide='37' 
+)
+ 
+Tue / 2015-04-21 / 15:54:05 WIB/ Koneksi Diputus 
+Tue / 2015-04-21 / 15:54:06 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-04-21 / 15:54:06 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-04-21 / 15:54:06 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:36:40 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:36:40 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-04-22 / 11:36:40 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:36:46 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:36:46 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='37'  
+Wed / 2015-04-22 / 11:36:46 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:37:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:37:05 WIB/ Query Berhasil: select * from m_slide where id_slide = '37' 
+Wed / 2015-04-22 / 11:37:05 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:37:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:37:05 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Jadwal Penerimaan Mahasiswa Baru ITK',keterangan='<p><a href="http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil">http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil</a></p>
+',gambar='281487461.jpg',status='A',row_status='1' WHERE id_slide='37' 
+)
+ 
+Wed / 2015-04-22 / 11:37:05 WIB/ Koneksi Diputus 
+Wed / 2015-04-22 / 11:37:06 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-04-22 / 11:37:06 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-04-22 / 11:37:06 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 08:19:39 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 08:19:39 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-04-24 / 08:19:39 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 08:20:23 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 08:20:23 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-04-24 / 08:20:23 WIB/ Koneksi Diputus 
+Fri / 2015-04-24 / 08:32:42 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-04-24 / 08:32:42 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-04-24 / 08:32:42 WIB/ Koneksi Diputus 
+Sun / 2015-05-24 / 04:13:52 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-24 / 04:13:52 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sun / 2015-05-24 / 04:13:52 WIB/ Koneksi Diputus 
+Sun / 2015-05-24 / 04:14:03 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-24 / 04:14:03 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='32'  
+Sun / 2015-05-24 / 04:14:03 WIB/ Koneksi Diputus 
+Sun / 2015-05-24 / 04:14:24 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-24 / 04:14:24 WIB/ Query Berhasil: select * from m_slide where id_slide = '32' 
+Sun / 2015-05-24 / 04:14:24 WIB/ Koneksi Diputus 
+Sun / 2015-05-24 / 04:14:24 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-24 / 04:14:24 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Seminar Sains & Teknologi - ITK Innovation 2015',gambar='994268170.php',status='T',row_status='1' WHERE id_slide='32' 
+)
+ 
+Sun / 2015-05-24 / 04:14:24 WIB/ Koneksi Diputus 
+Sun / 2015-05-24 / 04:14:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-05-24 / 04:14:26 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sun / 2015-05-24 / 04:14:26 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 18:11:10 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 18:11:10 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-05-27 / 18:11:10 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 18:16:39 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 18:16:39 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-05-27 / 18:16:39 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 18:17:37 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 18:17:37 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-05-27 / 18:17:37 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 18:18:42 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 18:18:42 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='37'  
+Wed / 2015-05-27 / 18:18:42 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 19:07:48 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 19:07:48 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-05-27 / 19:07:48 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 19:08:08 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 19:08:08 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='37'  
+Wed / 2015-05-27 / 19:08:08 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 19:08:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 19:08:55 WIB/ Query Berhasil: select * from m_slide where id_slide = '37' 
+Wed / 2015-05-27 / 19:08:55 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 19:08:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 19:08:55 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Jadwal Penerimaan Mahasiswa Baru ITK',keterangan='<p><a href="http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil">http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil</a></p>
+',gambar='1906045866.jpg',status='A',row_status='1' WHERE id_slide='37' 
+)
+ 
+Wed / 2015-05-27 / 19:08:55 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 19:08:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 19:08:55 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-05-27 / 19:08:55 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 19:09:02 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 19:09:02 WIB/ Query Berhasil: select * from m_slide where id_slide = '37' 
+Wed / 2015-05-27 / 19:09:02 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 19:09:02 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 19:09:02 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Jadwal Penerimaan Mahasiswa Baru ITK',keterangan='<p><a href="http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil">http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil</a></p>
+',gambar='7779960040.jpg',status='A',row_status='1' WHERE id_slide='37' 
+)
+ 
+Wed / 2015-05-27 / 19:09:02 WIB/ Koneksi Diputus 
+Wed / 2015-05-27 / 19:09:02 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-05-27 / 19:09:02 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-05-27 / 19:09:02 WIB/ Koneksi Diputus 
+Thu / 2015-05-28 / 11:21:11 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-05-28 / 11:21:11 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2015-05-28 / 11:21:11 WIB/ Koneksi Diputus 
+Mon / 2015-06-08 / 04:34:50 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-06-08 / 04:34:50 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Mon / 2015-06-08 / 04:34:50 WIB/ Koneksi Diputus 
+Thu / 2015-06-11 / 15:40:29 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-06-11 / 15:40:29 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2015-06-11 / 15:40:29 WIB/ Koneksi Diputus 
+Thu / 2015-06-11 / 15:47:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-06-11 / 15:47:55 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2015-06-11 / 15:47:55 WIB/ Koneksi Diputus 
+Thu / 2015-06-11 / 15:48:13 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-06-11 / 15:48:13 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='14'  
+Thu / 2015-06-11 / 15:48:13 WIB/ Koneksi Diputus 
+Thu / 2015-06-11 / 15:49:23 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-06-11 / 15:49:23 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2015-06-11 / 15:49:23 WIB/ Koneksi Diputus 
+Thu / 2015-06-11 / 15:52:58 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-06-11 / 15:52:58 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2015-06-11 / 15:52:58 WIB/ Koneksi Diputus 
+Thu / 2015-06-11 / 15:53:18 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-06-11 / 15:53:18 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='37'  
+Thu / 2015-06-11 / 15:53:18 WIB/ Koneksi Diputus 
+Thu / 2015-06-11 / 16:28:46 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-06-11 / 16:28:46 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2015-06-11 / 16:28:46 WIB/ Koneksi Diputus 
+Thu / 2015-06-11 / 16:29:07 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-06-11 / 16:29:07 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='35'  
+Thu / 2015-06-11 / 16:29:07 WIB/ Koneksi Diputus 
+Thu / 2015-06-11 / 16:31:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-06-11 / 16:31:44 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2015-06-11 / 16:31:44 WIB/ Koneksi Diputus 
+Thu / 2015-06-11 / 16:31:54 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-06-11 / 16:31:54 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='35'  
+Thu / 2015-06-11 / 16:31:54 WIB/ Koneksi Diputus 
+Thu / 2015-06-11 / 16:32:36 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-06-11 / 16:32:36 WIB/ Query Berhasil: select * from m_slide where id_slide = '35' 
+Thu / 2015-06-11 / 16:32:36 WIB/ Koneksi Diputus 
+Thu / 2015-06-11 / 16:32:36 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-06-11 / 16:32:36 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Pendaftaran ITK (Jalur Mandiri)',gambar='8111756043.jpg',status='A',row_status='1' WHERE id_slide='35' 
+)
+ 
+Thu / 2015-06-11 / 16:32:36 WIB/ Koneksi Diputus 
+Thu / 2015-06-11 / 16:32:36 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-06-11 / 16:32:36 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2015-06-11 / 16:32:36 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 09:34:28 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 09:34:28 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-06-12 / 09:34:28 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 09:34:49 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 09:34:49 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='35'  
+Fri / 2015-06-12 / 09:34:49 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 09:35:28 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 09:35:28 WIB/ Query Berhasil: select * from m_slide where id_slide = '35' 
+Fri / 2015-06-12 / 09:35:28 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 09:35:28 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 09:35:28 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Pendaftaran ITK (Jalur Mandiri)',gambar='4946845853.jpg',status='A',row_status='1' WHERE id_slide='35' 
+)
+ 
+Fri / 2015-06-12 / 09:35:28 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 09:35:28 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 09:35:28 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-06-12 / 09:35:28 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 09:35:36 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 09:35:36 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='37'  
+Fri / 2015-06-12 / 09:35:36 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 09:35:40 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 09:35:40 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Jadwal Penerimaan Mahasiswa Baru ITK',keterangan='<p><a href="http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil">http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil</a></p>
+',status='T',row_status='1' WHERE id_slide='37' 
+)
+ 
+Fri / 2015-06-12 / 09:35:40 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 09:35:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 09:35:41 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-06-12 / 09:35:41 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 10:31:21 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 10:31:21 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-06-12 / 10:31:21 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 10:31:27 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 10:31:27 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='35'  
+Fri / 2015-06-12 / 10:31:27 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 10:31:39 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 10:31:39 WIB/ Query Berhasil: select * from m_slide where id_slide = '35' 
+Fri / 2015-06-12 / 10:31:39 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 10:31:39 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 10:31:39 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Pendaftaran ITK (Jalur Mandiri)',gambar='2950040157.jpg',status='A',row_status='1' WHERE id_slide='35' 
+)
+ 
+Fri / 2015-06-12 / 10:31:39 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 10:31:39 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 10:31:39 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-06-12 / 10:31:39 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 10:34:55 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 10:34:55 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='15'  
+Fri / 2015-06-12 / 10:34:55 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 10:34:58 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 10:34:58 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='PERENCANAAN ITK',keterangan='<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+',status='T',row_status='1' WHERE id_slide='15' 
+)
+ 
+Fri / 2015-06-12 / 10:34:58 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 10:34:58 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 10:34:58 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-06-12 / 10:34:58 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 10:35:03 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 10:35:03 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='35'  
+Fri / 2015-06-12 / 10:35:03 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 10:35:37 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 10:35:37 WIB/ Query Berhasil: select * from m_slide where id_slide = '35' 
+Fri / 2015-06-12 / 10:35:37 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 10:35:37 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 10:35:37 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Pendaftaran ITK (Jalur Mandiri)',gambar='1826558187.jpg',status='A',row_status='1' WHERE id_slide='35' 
+)
+ 
+Fri / 2015-06-12 / 10:35:37 WIB/ Koneksi Diputus 
+Fri / 2015-06-12 / 10:35:38 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Fri / 2015-06-12 / 10:35:38 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-06-12 / 10:35:38 WIB/ Koneksi Diputus 
+Sat / 2015-06-13 / 16:31:45 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-06-13 / 16:31:45 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2015-06-13 / 16:31:45 WIB/ Koneksi Diputus 
+Sat / 2015-06-13 / 17:20:08 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-06-13 / 17:20:08 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2015-06-13 / 17:20:08 WIB/ Koneksi Diputus 
+Sat / 2015-06-13 / 17:20:15 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-06-13 / 17:20:15 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='35'  
+Sat / 2015-06-13 / 17:20:15 WIB/ Koneksi Diputus 
+Sat / 2015-06-13 / 17:20:39 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-06-13 / 17:20:39 WIB/ Query Berhasil: select * from m_slide where id_slide = '35' 
+Sat / 2015-06-13 / 17:20:39 WIB/ Koneksi Diputus 
+Sat / 2015-06-13 / 17:20:39 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-06-13 / 17:20:39 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Pendaftaran ITK (Jalur Mandiri)',gambar='5406900662.jpg',status='A',row_status='1' WHERE id_slide='35' 
+)
+ 
+Sat / 2015-06-13 / 17:20:39 WIB/ Koneksi Diputus 
+Sat / 2015-06-13 / 17:20:40 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-06-13 / 17:20:40 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2015-06-13 / 17:20:40 WIB/ Koneksi Diputus 
+Sat / 2015-06-13 / 17:20:45 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-06-13 / 17:20:45 WIB/ Query Berhasil: select * from m_slide where id_slide = '35' 
+Sat / 2015-06-13 / 17:20:45 WIB/ Koneksi Diputus 
+Sat / 2015-06-13 / 17:20:45 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-06-13 / 17:20:45 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Pendaftaran ITK (Jalur Mandiri)',gambar='7759979651.jpg',status='A',row_status='1' WHERE id_slide='35' 
+)
+ 
+Sat / 2015-06-13 / 17:20:45 WIB/ Koneksi Diputus 
+Sat / 2015-06-13 / 17:20:45 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-06-13 / 17:20:45 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2015-06-13 / 17:20:45 WIB/ Koneksi Diputus 
+Sat / 2015-06-13 / 17:22:32 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-06-13 / 17:22:32 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='14'  
+Sat / 2015-06-13 / 17:22:32 WIB/ Koneksi Diputus 
+Sat / 2015-06-13 / 17:22:37 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-06-13 / 17:22:37 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='PERENCANAAN ITK',keterangan='<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+',status='A',row_status='1' WHERE id_slide='14' 
+)
+ 
+Sat / 2015-06-13 / 17:22:37 WIB/ Koneksi Diputus 
+Sat / 2015-06-13 / 17:22:38 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-06-13 / 17:22:38 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2015-06-13 / 17:22:38 WIB/ Koneksi Diputus 
+Mon / 2015-06-15 / 05:33:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Mon / 2015-06-15 / 05:33:05 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Mon / 2015-06-15 / 05:33:05 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:12:45 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:12:45 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-06-17 / 09:12:45 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:13:06 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:13:06 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='14'  
+Wed / 2015-06-17 / 09:13:06 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:13:12 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:13:12 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='PERENCANAAN ITK',keterangan='<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+',status='T',row_status='1' WHERE id_slide='14' 
+)
+ 
+Wed / 2015-06-17 / 09:13:12 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:13:12 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:13:12 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-06-17 / 09:13:12 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:13:17 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:13:17 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='15'  
+Wed / 2015-06-17 / 09:13:17 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:13:21 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:13:21 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='PERENCANAAN ITK',keterangan='<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+',status='A',row_status='1' WHERE id_slide='15' 
+)
+ 
+Wed / 2015-06-17 / 09:13:21 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:13:22 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:13:22 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-06-17 / 09:13:22 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:13:47 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:13:47 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='16'  
+Wed / 2015-06-17 / 09:13:47 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:13:50 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:13:50 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='PERENCANAAN ITK',status='A',row_status='1' WHERE id_slide='16' 
+)
+ 
+Wed / 2015-06-17 / 09:13:50 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:13:50 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:13:50 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-06-17 / 09:13:50 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:14:44 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:14:44 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='15'  
+Wed / 2015-06-17 / 09:14:44 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:14:48 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:14:48 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='PERENCANAAN ITK',keterangan='<p>Program Sarjana Matematika (PSM) FMIPA ITS didirikan sejak tahun 1965. PSM ITS telah menjalin kerjasama dengan Delft University of Technology Belanda untuk studi lanjut dan penyempurnaan kurikulum. Kurikulum selalu di-update setiap empat tahun disesuaikan dengan perkembangan iptek. Jurusan Matematika mempunyai visi sebagai institusi unggulan dalam pendidikan, penelitian, pengembangan dan penerapan matematika yang bereputasi internasional dan berorientasi pada teknologi yang berwawasan lingkungan.</p>
+
+<p>Saat ini, kurikulum 2009 yang berbasis kompetensi dengan konsentrasi pada bidang minat yang diimpelementasikan dalam empat Rumpun Mata Kuliah, yaitu Analisis dan Aljabar, Pemodelan dan Simulasi, Riset Operasi dan Pengolahan Data, serta Ilmu Komputer. Fasilitas laboratorium yang disediakan Jurusan Matematika ITS adalah Lab Komputasi dan Sistem Informasi, Lab Pemodelan dan Simulasi, Lab Analisis dan Aljabar, Lab Ilmu Komputer, serta Lab Riset Operasi.</p>
+',status='T',row_status='1' WHERE id_slide='15' 
+)
+ 
+Wed / 2015-06-17 / 09:14:48 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:14:48 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:14:48 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-06-17 / 09:14:48 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:15:26 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:15:26 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='17'  
+Wed / 2015-06-17 / 09:15:26 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:15:29 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:15:29 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='PERENCANAAN ITK',keterangan='<p>Rencana Pembangunan Tahap II Cluster A<br />
+&nbsp;</p>
+',status='A',row_status='1' WHERE id_slide='17' 
+)
+ 
+Wed / 2015-06-17 / 09:15:29 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:15:29 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:15:29 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-06-17 / 09:15:29 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:15:58 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:15:58 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='17'  
+Wed / 2015-06-17 / 09:15:58 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:16:00 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:16:00 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='PERENCANAAN ITK',keterangan='<p>Rencana Pembangunan Tahap II Cluster A<br />
+&nbsp;</p>
+',status='T',row_status='1' WHERE id_slide='17' 
+)
+ 
+Wed / 2015-06-17 / 09:16:00 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:16:00 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:16:00 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-06-17 / 09:16:00 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:16:32 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:16:32 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='29'  
+Wed / 2015-06-17 / 09:16:32 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:16:36 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:16:36 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Ground Breaking ITK',status='A',row_status='1' WHERE id_slide='29' 
+)
+ 
+Wed / 2015-06-17 / 09:16:36 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:16:36 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:16:36 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-06-17 / 09:16:36 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:16:58 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:16:58 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='29'  
+Wed / 2015-06-17 / 09:16:58 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:17:01 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:17:01 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Ground Breaking ITK',status='T',row_status='1' WHERE id_slide='29' 
+)
+ 
+Wed / 2015-06-17 / 09:17:01 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:17:01 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:17:01 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-06-17 / 09:17:01 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:17:58 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:17:58 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='28'  
+Wed / 2015-06-17 / 09:17:58 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:18:01 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:18:01 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Ground Zero ITK',status='A',row_status='1' WHERE id_slide='28' 
+)
+ 
+Wed / 2015-06-17 / 09:18:01 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:18:01 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:18:01 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-06-17 / 09:18:01 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:18:24 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:18:24 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='28'  
+Wed / 2015-06-17 / 09:18:24 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:18:27 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:18:27 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Ground Zero ITK',status='T',row_status='1' WHERE id_slide='28' 
+)
+ 
+Wed / 2015-06-17 / 09:18:27 WIB/ Koneksi Diputus 
+Wed / 2015-06-17 / 09:18:27 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Wed / 2015-06-17 / 09:18:27 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-06-17 / 09:18:27 WIB/ Koneksi Diputus 
+Tue / 2015-06-23 / 09:25:15 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-06-23 / 09:25:15 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-06-23 / 09:25:15 WIB/ Koneksi Diputus 
+Tue / 2015-06-23 / 09:26:18 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-06-23 / 09:26:18 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-06-23 / 09:26:18 WIB/ Koneksi Diputus 
+Tue / 2015-06-23 / 09:26:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-06-23 / 09:26:41 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,keterangan,gambar,status,row_status) VALUES ('okezone','<p>okezone</p>
+','5038537713.php','A','1')
+)
+ 
+Tue / 2015-06-23 / 09:26:41 WIB/ Koneksi Diputus 
+Tue / 2015-06-23 / 09:26:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-06-23 / 09:26:41 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-06-23 / 09:26:41 WIB/ Koneksi Diputus 
+Tue / 2015-06-23 / 09:27:43 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-06-23 / 09:27:43 WIB/ Query Berhasil: select * from m_slide where id_slide = '38' 
+Tue / 2015-06-23 / 09:27:43 WIB/ Koneksi Diputus 
+Tue / 2015-06-23 / 09:27:43 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-06-23 / 09:27:43 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => DELETE FROM m_slide WHERE id_slide='38' 
+)
+ 
+Tue / 2015-06-23 / 09:27:43 WIB/ Koneksi Diputus 
+Tue / 2015-06-23 / 09:27:43 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-06-23 / 09:27:43 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-06-23 / 09:27:43 WIB/ Koneksi Diputus 
+Tue / 2015-06-23 / 09:31:19 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Tue / 2015-06-23 / 09:31:19 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Tue / 2015-06-23 / 09:31:19 WIB/ Koneksi Diputus 
+Thu / 2015-07-09 / 14:43:27 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-07-09 / 14:43:27 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2015-07-09 / 14:43:27 WIB/ Koneksi Diputus 
+Thu / 2015-07-09 / 14:44:48 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-07-09 / 14:44:48 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='35'  
+Thu / 2015-07-09 / 14:44:48 WIB/ Koneksi Diputus 
+Thu / 2015-07-09 / 14:45:11 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-07-09 / 14:45:11 WIB/ Query Berhasil: select * from m_slide where id_slide = '35' 
+Thu / 2015-07-09 / 14:45:11 WIB/ Koneksi Diputus 
+Thu / 2015-07-09 / 14:45:11 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-07-09 / 14:45:11 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Pendaftaran ITK (Jalur Mandiri)',gambar='9156924425.jpg',status='A',row_status='1' WHERE id_slide='35' 
+)
+ 
+Thu / 2015-07-09 / 14:45:11 WIB/ Koneksi Diputus 
+Thu / 2015-07-09 / 14:45:12 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Thu / 2015-07-09 / 14:45:12 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Thu / 2015-07-09 / 14:45:12 WIB/ Koneksi Diputus 
+Sun / 2015-07-12 / 13:30:13 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-07-12 / 13:30:13 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sun / 2015-07-12 / 13:30:13 WIB/ Koneksi Diputus 
+Sun / 2015-07-12 / 13:30:20 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-07-12 / 13:30:20 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='35'  
+Sun / 2015-07-12 / 13:30:20 WIB/ Koneksi Diputus 
+Sun / 2015-07-12 / 13:30:42 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-07-12 / 13:30:42 WIB/ Query Berhasil: select * from m_slide where id_slide = '35' 
+Sun / 2015-07-12 / 13:30:42 WIB/ Koneksi Diputus 
+Sun / 2015-07-12 / 13:30:42 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-07-12 / 13:30:42 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Pendaftaran ITK (Jalur Mandiri)',gambar='1372009683.jpg',status='A',row_status='1' WHERE id_slide='35' 
+)
+ 
+Sun / 2015-07-12 / 13:30:42 WIB/ Koneksi Diputus 
+Sun / 2015-07-12 / 13:30:42 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-07-12 / 13:30:42 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sun / 2015-07-12 / 13:30:42 WIB/ Koneksi Diputus 
+Sun / 2015-07-12 / 14:34:09 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-07-12 / 14:34:09 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='16'  
+Sun / 2015-07-12 / 14:34:09 WIB/ Koneksi Diputus 
+Sun / 2015-07-12 / 14:34:19 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-07-12 / 14:34:19 WIB/ Query Berhasil: select * from m_slide where id_slide = '16' 
+Sun / 2015-07-12 / 14:34:19 WIB/ Koneksi Diputus 
+Sun / 2015-07-12 / 14:34:19 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-07-12 / 14:34:19 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='PERENCANAAN ITK',gambar='4047509613.jpg',status='A',row_status='1' WHERE id_slide='16' 
+)
+ 
+Sun / 2015-07-12 / 14:34:19 WIB/ Koneksi Diputus 
+Sun / 2015-07-12 / 14:34:19 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sun / 2015-07-12 / 14:34:19 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sun / 2015-07-12 / 14:34:19 WIB/ Koneksi Diputus 
+Sat / 2015-07-18 / 17:50:41 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-07-18 / 17:50:41 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2015-07-18 / 17:50:41 WIB/ Koneksi Diputus 
+Sat / 2015-07-18 / 17:51:03 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-07-18 / 17:51:03 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='37'  
+Sat / 2015-07-18 / 17:51:03 WIB/ Koneksi Diputus 
+Sat / 2015-07-18 / 17:51:57 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-07-18 / 17:51:57 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='37'  
+Sat / 2015-07-18 / 17:51:57 WIB/ Koneksi Diputus 
+Sat / 2015-07-18 / 17:51:58 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-07-18 / 17:51:58 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='37'  
+Sat / 2015-07-18 / 17:51:58 WIB/ Koneksi Diputus 
+Sat / 2015-07-18 / 17:52:03 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-07-18 / 17:52:03 WIB/ Query Berhasil: select * from m_slide where id_slide = '37' 
+Sat / 2015-07-18 / 17:52:03 WIB/ Koneksi Diputus 
+Sat / 2015-07-18 / 17:52:03 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-07-18 / 17:52:03 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Jadwal Penerimaan Mahasiswa Baru ITK',gambar='7477960470.jpg',status='A',row_status='1' WHERE id_slide='37' 
+)
+ 
+Sat / 2015-07-18 / 17:52:03 WIB/ Koneksi Diputus 
+Sat / 2015-07-18 / 17:52:04 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-07-18 / 17:52:04 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Jadwal Penerimaan Mahasiswa Baru ITK',keterangan='<p><a href="http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil">http://www.itk.ac.id/?id=8&amp;page=pengumuman_detil</a></p>
+',status='A',row_status='1' WHERE id_slide='37' 
+)
+ 
+Sat / 2015-07-18 / 17:52:04 WIB/ Koneksi Diputus 
+Sat / 2015-07-18 / 17:52:04 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-07-18 / 17:52:04 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2015-07-18 / 17:52:04 WIB/ Koneksi Diputus 
+Sat / 2015-07-18 / 17:52:05 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-07-18 / 17:52:05 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2015-07-18 / 17:52:05 WIB/ Koneksi Diputus 
+Sat / 2015-07-18 / 17:52:08 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-07-18 / 17:52:08 WIB/ Query Berhasil: select * from m_slide where id_slide = '37' 
+Sat / 2015-07-18 / 17:52:08 WIB/ Koneksi Diputus 
+Sat / 2015-07-18 / 17:52:08 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-07-18 / 17:52:08 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Jadwal Penerimaan Mahasiswa Baru ITK',gambar='233687846.jpg',status='A',row_status='1' WHERE id_slide='37' 
+)
+ 
+Sat / 2015-07-18 / 17:52:08 WIB/ Koneksi Diputus 
+Sat / 2015-07-18 / 17:52:08 WIB/ Koneksi Berhasil: Use Database itkacid_dbitk 
+Sat / 2015-07-18 / 17:52:08 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2015-07-18 / 17:52:08 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 10:51:46 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 10:51:46 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-08-07 / 10:51:46 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 10:51:55 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 10:51:55 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='14'  
+Fri / 2015-08-07 / 10:51:55 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 11:21:23 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 11:21:23 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-08-07 / 11:21:23 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 11:21:34 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 11:21:34 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='14'  
+Fri / 2015-08-07 / 11:21:34 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 16:11:33 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 16:11:33 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-08-07 / 16:11:33 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 16:11:36 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 16:11:36 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='3'  
+Fri / 2015-08-07 / 16:11:36 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 16:11:51 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 16:11:51 WIB/ Query Berhasil: select * from m_slide where id_slide = '3' 
+Fri / 2015-08-07 / 16:11:51 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 16:11:51 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 16:11:51 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Go International',gambar='525073794.jpg',status='A',row_status='1' WHERE id_slide='3' 
+)
+ 
+Fri / 2015-08-07 / 16:11:51 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 16:11:52 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 16:11:52 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-08-07 / 16:11:52 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 16:17:34 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 16:17:34 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,gambar,status,row_status) VALUES ('Go International 2','788815582.jpg','A','1')
+)
+ 
+Fri / 2015-08-07 / 16:17:34 WIB/ Koneksi Diputus 
+Fri / 2015-08-07 / 16:17:34 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-07 / 16:17:34 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-08-07 / 16:17:34 WIB/ Koneksi Diputus 
+Sat / 2015-08-08 / 11:13:35 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sat / 2015-08-08 / 11:13:35 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2015-08-08 / 11:13:35 WIB/ Koneksi Diputus 
+Sat / 2015-08-08 / 11:14:17 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sat / 2015-08-08 / 11:14:17 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='4'  
+Sat / 2015-08-08 / 11:14:17 WIB/ Koneksi Diputus 
+Sat / 2015-08-08 / 14:59:47 WIB/ Koneksi Berhasil: Use Database db_itk 
+Sat / 2015-08-08 / 14:59:47 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Sat / 2015-08-08 / 14:59:47 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 11:27:24 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 11:27:24 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-08-14 / 11:27:24 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 11:27:31 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 11:27:31 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='3'  
+Fri / 2015-08-14 / 11:27:31 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 11:27:50 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 11:27:50 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Go International Indonesia',status='A',row_status='1' WHERE id_slide='3' 
+)
+ 
+Fri / 2015-08-14 / 11:27:50 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 11:27:50 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 11:27:50 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-08-14 / 11:27:50 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 11:41:15 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 11:41:15 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-08-14 / 11:41:15 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:17:46 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:17:46 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-08-14 / 12:17:46 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:17:56 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:17:56 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='3'  
+Fri / 2015-08-14 / 12:17:56 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:18:17 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:18:17 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='3'  
+Fri / 2015-08-14 / 12:18:17 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:18:19 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:18:19 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Go International Indonesia',status='A',row_status='1' WHERE id_slide='3' 
+)
+ 
+Fri / 2015-08-14 / 12:18:19 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:18:19 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:18:19 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-08-14 / 12:18:19 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:18:55 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:18:55 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-08-14 / 12:18:55 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 12:20:35 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 12:20:35 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-08-14 / 12:20:35 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 13:11:35 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 13:11:35 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-08-14 / 13:11:35 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 13:11:51 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 13:11:51 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='3'  
+Fri / 2015-08-14 / 13:11:51 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 13:12:13 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 13:12:13 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO m_slide (judul,status,row_status) VALUES ('Virtual Dimensi','A','1')
+)
+ 
+Fri / 2015-08-14 / 13:12:13 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 13:12:13 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 13:12:13 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-08-14 / 13:12:13 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 13:12:16 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 13:12:16 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='5'  
+Fri / 2015-08-14 / 13:12:16 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 13:12:25 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 13:12:25 WIB/ Query Berhasil: select * from m_slide where id_slide = '5' 
+Fri / 2015-08-14 / 13:12:25 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 13:12:25 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 13:12:26 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE m_slide SET judul='Virtual Dimensi',gambar='1182771539.jpg',status='A',row_status='1' WHERE id_slide='5' 
+)
+ 
+Fri / 2015-08-14 / 13:12:26 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 13:12:26 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 13:12:26 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-08-14 / 13:12:26 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 13:13:26 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 13:13:26 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE id_slide='3'  
+Fri / 2015-08-14 / 13:13:26 WIB/ Koneksi Diputus 
+Fri / 2015-08-14 / 13:16:42 WIB/ Koneksi Berhasil: Use Database db_itk 
+Fri / 2015-08-14 / 13:16:42 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Fri / 2015-08-14 / 13:16:42 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:36:55 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:36:55 WIB/ Query Berhasil: SELECT * FROM m_slide WHERE row_status='1'  
+Wed / 2015-08-19 / 00:36:55 WIB/ Koneksi Diputus 

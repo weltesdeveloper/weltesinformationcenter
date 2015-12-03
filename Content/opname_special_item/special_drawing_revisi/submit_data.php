@@ -1,0 +1,73 @@
+<?php
+
+require_once '../../../dbinfo.inc.php';
+require_once '../../../FunctionAct.php';
+$conn = oci_pconnect(ORA_CON_UN, ORA_CON_PW, ORA_CON_DB);
+session_start();
+$username = htmlentities($_SESSION['username'], ENT_QUOTES);
+
+$job = $_POST['job'];
+$subjob = $_POST['subjob'];
+$subcont = $_POST['subcont'];
+$tanggal = $_POST['tanggal'];
+$periode = $_POST['periode'];
+$opname_id = $_POST['opname_id'];
+$remark = $_POST['remark'];
+
+
+//JIKA HEAD MARK ADA
+if (isset($_POST['head_mark'])) {
+    $head_mark = $_POST['head_mark'];
+    $profile = $_POST['profile'];
+    $length = $_POST['length'];
+    $qty = $_POST['qty'];
+    $weight = $_POST['weight'];
+    $price = $_POST['price'];
+    $prosentase = $_POST['prosentase'];
+    $remark_item = $_POST['remark_item'];
+    $deleteDtlOpnameSql = "DELETE FROM DTL_OPNAME_SI WHERE OPNAME_ID = '$opname_id'";
+    $deleteDtlOpnameParse = oci_parse($conn, $deleteDtlOpnameSql);
+    $deleteDtlOpname = oci_execute($deleteDtlOpnameParse);
+    if ($deleteDtlOpname) {
+        oci_commit($conn);
+        echo "SUKSES DELETE DETAIL OPNAME ";
+        for ($i = 0; $i < sizeof($head_mark); $i++) {
+            $insertDtlOpnameSql = "INSERT INTO DTL_OPNAME_SI(OPNAME_ID, HEAD_MARK, TOTAL_QTY, OPN_PRICE, OPN_WEIGHT, PROFILE, LENGTH, PROCEN_WEIGHT, REMARK) "
+                    . "VALUES('$opname_id', '$head_mark[$i]', '$qty[$i]', '$price[$i]', '$weight[$i]', '$profile[$i]', '$length[$i]', '$prosentase[$i]', '$remark_item[$i]')";
+//            echo $insertDtlOpnameSql;
+            $insertDtlOpnameParse = oci_parse($conn, $insertDtlOpnameSql);
+            $insertDtlOpname = oci_execute($insertDtlOpnameParse);
+            if ($insertDtlOpname) {
+                oci_commit($conn);
+                echo "SUKSES";
+            } else {
+                echo "GAGAL";
+            }
+        }
+    } else {
+        oci_rollback($conn);
+        echo "GAGAL DELETE";
+    }
+
+    $updateMstOpnameSql = "UPDATE MST_OPNAME_SI SET OPN_TYPE = '$remark' WHERE OPNAME_ID = '$opname_id'";
+    $updateMstOpnameParse = oci_parse($conn, $updateMstOpnameSql);
+    $updateMstOpname = oci_execute($updateMstOpnameParse);
+    if ($updateMstOpname) {
+        oci_commit($conn);
+        echo "SUKSES";
+    } else {
+        echo "GAGAL";
+    }
+}
+//JIKA HEAD MARK TIDAK ADA
+else {
+    $deleteDtlOpnameSql = "DELETE FROM MST_OPNAME_SI WHERE OPNAME_ID = '$opname_id'";
+    $deleteDtlOpnameParse = oci_parse($conn, $deleteDtlOpnameSql);
+    $deleteDtlOpname = oci_execute($deleteDtlOpnameParse);
+    if ($deleteDtlOpname) {
+        oci_commit($conn);
+        echo "SUKSES DELETE";
+    } else {
+        echo "GAGAL DELETE";
+    }
+}

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="../../js/jquery.mobile-1.4.5.min.css">
+        <script src="../../js/jquery-1.11.1.min.js"></script>
+        <script src="../../js/jquery.mobile-1.4.5.min.js"></script>
+    </head>
+    <body>
+        <section id="upload">
+
+            <!--#################################################################################-->
+            <div data-role="page" id="page_upload">
+                <div data-role="header">
+                    <a href="#" class="ui-btn ui-corner-all ui-shadow ui-icon-back ui-btn-icon-left" data-rel="back" id="btnKembali">Back</a>
+                    <h1>Weltes Energy Nusantara</h1>
+                    <div data-role="navbar">
+                        <ul>
+                            <li><a href="#" class="ui-btn-active ui-state-persist" data-icon="home" id="pageHome">Upload Foto</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div data-role="main" class="ui-content">
+
+                    <input type="text" id="user" disabled="disabled"/>
+                    <input type="hidden" id="param" disabled="disabled"/>
+                    <input type="hidden" id="job" disabled="disabled"/>
+                    <input type="hidden" id="sub_job" disabled="disabled"/>
+                    <input id="head_mark" disabled="disabled"/>
+                    <input type="hidden" id="status" disabled="disabled"/>                    
+
+                    <select name="subcont" id="subcont" >
+                        <option value="0">- Pilih Subcont -</option>
+                    </select>
+
+                    <div id="error">
+                        Pilih Subcont ... !!!
+                    </div>
+
+                    <ul data-role="listview" data-inset="true" id="list">
+
+
+                        <div data-role="main" class="ui-content">
+                            <div data-role="collapsibleset">
+                                <div data-role="collapsible" id="tabMark">
+                                    <h3>MARKING</h3>
+                                    <p>
+                                        <a href="#" id="btnMarking" class="ui-btn ui-btn-inline ui-icon-camera ui-btn-icon-notext ui-corner-all ui-shadow ui-alt-icon" >Black icon</a><br>
+                                        Total Qty : <span id="tot_gambar_mark"></span><input type="text" id="tot_gambar_mark__" disabled="disabled"/><hr>
+                                        <input type="text" id="detilImgMark__" disabled="disabled"/>
+                                        <input type="text" id="kurang_gambar_mark__" disabled="disabled"/>
+                                    <div id="list_capture_mark">                                        
+                                    </div>
+                                    <hr>
+                                </div>
+
+                                <div data-role="collapsible">
+                                    <h3>CUTTING</h3>
+                                    <p>
+                                        <a href="#" id="btnCutting" class="ui-btn ui-btn-inline ui-icon-camera ui-btn-icon-notext ui-corner-all ui-shadow ui-alt-icon">Black icon</a><br>
+                                        Total Qty : <span id="tot_gambar_cutt"></span><input type="hidden" id="tot_gambar_cutt__" disabled="disabled"/><hr>
+                                    <div id="list_capture_cutt">                                        
+                                    </div>
+                                    <hr>
+
+                                </div>
+
+                                <div data-role="collapsible">
+                                    <h3>ASSEMBLY</h3>
+                                    <p>
+                                        <a href="#" id="btnAssembly" class="ui-btn ui-btn-inline ui-icon-camera ui-btn-icon-notext ui-corner-all ui-shadow ui-alt-icon">Black icon</a><br>
+                                        Total Qty : <span id="tot_gambar_assy"></span><input type="hidden" id="tot_gambar_assy__" disabled="disabled"/><hr>
+                                    <div id="list_capture_assy">                                        
+                                    </div>
+                                    <hr>
+
+                                </div>
+
+                                <div data-role="collapsible">
+                                    <h3>WELDING</h3>
+                                    <p>
+                                        <a href="#" id="btnWelding" class="ui-btn ui-btn-inline ui-icon-camera ui-btn-icon-notext ui-corner-all ui-shadow ui-alt-icon">Black icon</a><br>
+                                        Total Qty : <span id="tot_gambar_weld"></span><input type="hidden" id="tot_gambar_weld__" disabled="disabled"/><hr>
+                                    <div id="list_capture_weld">                                        
+                                    </div>
+                                    <hr>
+
+                                </div>
+
+                                <div data-role="collapsible">
+                                    <h3>DRILLING</h3>
+                                    <p>
+                                        <a href="#" id="btnDrilling" class="ui-btn ui-btn-inline ui-icon-camera ui-btn-icon-notext ui-corner-all ui-shadow ui-alt-icon">Black icon</a><br>
+                                        Total Qty : <span id="tot_gambar_drill"></span><input type="hidden" id="tot_gambar_drill__" disabled="disabled"/><hr>
+                                    <div id="list_capture_drill">                                        
+                                    </div>
+                                    <hr>
+
+                                </div>
+
+                                <div data-role="collapsible">
+                                    <h3>FINISHING</h3>
+                                    <p>
+                                        <a href="#" id="btnFinishing" class="ui-btn ui-btn-inline ui-icon-camera ui-btn-icon-notext ui-corner-all ui-shadow ui-alt-icon">Black icon</a><br>
+                                        Total Qty : <span id="tot_gambar_finsh"></span><input type="hidden" id="tot_gambar_finsh__" disabled="disabled"/><hr>
+                                    <div id="list_capture_finsh">                                        
+                                    </div>
+                                    <hr>
+
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </ul>
+
+                </div>
+
+                <div data-role="footer">
+                    <h1>My Footer</h1>
+                </div>    
+
+            </div> 
+        </section>	
+    </body>
+</html>
+
+<script src="script_upload.js" type="text/javascript"></script>

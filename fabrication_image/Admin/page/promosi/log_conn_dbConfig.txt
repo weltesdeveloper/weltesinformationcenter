@@ -1,0 +1,18 @@
+Mon / 2015-08-17 / 20:47:38 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-17 / 20:47:38 WIB/ Koneksi Diputus 
+Mon / 2015-08-17 / 20:50:10 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-17 / 20:50:10 WIB/ Koneksi Diputus 
+Mon / 2015-08-17 / 20:50:57 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-17 / 20:50:57 WIB/ Koneksi Diputus 
+Mon / 2015-08-17 / 20:51:16 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-17 / 20:51:16 WIB/ Koneksi Diputus 
+Mon / 2015-08-17 / 20:51:25 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-17 / 20:51:25 WIB/ Koneksi Diputus 
+Mon / 2015-08-17 / 20:52:01 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-17 / 20:52:01 WIB/ Koneksi Diputus 
+Mon / 2015-08-17 / 20:59:54 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-17 / 20:59:54 WIB/ Koneksi Diputus 
+Mon / 2015-08-17 / 21:08:22 WIB/ Koneksi Berhasil: Use Database db_itk 
+Mon / 2015-08-17 / 21:08:22 WIB/ Koneksi Diputus 
+Wed / 2015-08-19 / 00:08:34 WIB/ Koneksi Berhasil: Use Database db_itk 
+Wed / 2015-08-19 / 00:08:34 WIB/ Koneksi Diputus 

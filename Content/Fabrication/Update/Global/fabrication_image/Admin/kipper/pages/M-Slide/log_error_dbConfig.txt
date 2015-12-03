@@ -1,0 +1,36 @@
+Tue / 2014-11-25 / 10:46:56 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Tue / 2014-11-25 / 10:48:08 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Tue / 2014-11-25 / 10:48:11 WIB/ Koneksi Gagal: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+Tue / 2014-11-25 / 10:51:49 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'row_status' in 'where clause' | QuerySyntax (SELECT * FROM m_fakultas WHERE row_status='1' )
+Tue / 2014-11-25 / 10:52:34 WIB/ CommitQuery Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_fak' in 'where clause' | QuerySyntax (Array
+(
+    [0] => UPDATE m_fakultas SET row_status='0' WHERE id_fak='' 
+)
+)
+Tue / 2014-11-25 / 10:52:34 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'row_status' in 'where clause' | QuerySyntax (SELECT * FROM m_fakultas WHERE row_status='1' )
+Tue / 2014-11-25 / 10:54:44 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'row_status' in 'where clause' | QuerySyntax (SELECT * FROM m_fakultas WHERE row_status='1' )
+Tue / 2014-11-25 / 10:57:10 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'row_status' in 'where clause' | QuerySyntax (SELECT * FROM m_fakultas WHERE row_status='1' )
+Tue / 2014-11-25 / 11:05:06 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'row_status' in 'where clause' | QuerySyntax (SELECT * FROM m_fakultas WHERE row_status='1' )
+Tue / 2014-11-25 / 11:06:25 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'row_status' in 'where clause' | QuerySyntax (SELECT * FROM m_fakultas WHERE row_status='1' )
+Tue / 2014-11-25 / 11:09:05 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_fak' in 'where clause' | QuerySyntax (SELECT * FROM m_fakultas WHERE id_fak='' )
+Tue / 2014-11-25 / 11:12:31 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'row_status' in 'where clause' | QuerySyntax (SELECT * FROM m_fakultas WHERE row_status='0' )
+Tue / 2014-11-25 / 11:14:10 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_fak' in 'where clause' | QuerySyntax (SELECT * FROM m_fakultas WHERE id_fak='' )
+Tue / 2014-11-25 / 11:16:34 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_fak' in 'where clause' | QuerySyntax (SELECT * FROM m_fakultas WHERE id_fak='1' )
+Tue / 2014-11-25 / 11:24:38 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_fak' in 'where clause' | QuerySyntax (SELECT * FROM m_fakultas WHERE id_fak='1' )
+Tue / 2014-11-25 / 11:29:15 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_fak' in 'where clause' | QuerySyntax (SELECT * FROM m_fakultas WHERE id_fak='1' )
+Tue / 2014-11-25 / 11:30:05 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_fak' in 'where clause' | QuerySyntax (SELECT * FROM m_fakultas WHERE id_fak='2' )
+Tue / 2014-11-25 / 11:34:52 WIB/ CommitQuery Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_fak' in 'where clause' | QuerySyntax (Array
+(
+    [0] => UPDATE m_fakultas SET nama_fakultas='Fakultas Sains dan Teknologi',singkatan='FST',ket_fakultas='jjj',gambar='jjjj',row_status='1' WHERE id_fak='1' 
+)
+)
+Tue / 2014-11-25 / 11:35:02 WIB/ CommitQuery Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_fak' in 'where clause' | QuerySyntax (Array
+(
+    [0] => UPDATE m_fakultas SET nama_fakultas='Fakultas Sains dan Teknologi',singkatan='FST',ket_fakultas='aaaaaa',gambar='aaaa',row_status='1' WHERE id_fak='1' 
+)
+)
+Tue / 2014-11-25 / 11:35:32 WIB/ CommitQuery Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_fak' in 'where clause' | QuerySyntax (Array
+(
+    [0] => UPDATE m_fakultas SET nama_fakultas='Fakultas Sains dan Teknologi',singkatan='FST',ket_fakultas='aaaaaa',gambar='aaaa',row_status='1' WHERE id_fak='1' 
+)
+)
