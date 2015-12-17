@@ -88,8 +88,9 @@ header("Expires: 0");
                             <th style="vertical-align: middle; text-align:center">FAB FIN</th>
                             <th style="vertical-align: middle; text-align:center">FAB FIN DATE</th>
                             <th style="vertical-align: middle; text-align:center">FAB %</th>
-                            <th style="vertical-align: middle; text-align:center">OVERALL</th>
+                            <th style="vertical-align: middle; text-align:center">%OVERALL</th>
                             <th style="vertical-align: middle; text-align:center">FAB QC</th>
+                            <th style="vertical-align: middle; text-align:center">FAB QC DATE</th>
                             <th style="vertical-align: middle; text-align:center">BLA</th>
                             <th style="vertical-align: middle; text-align:center">PRI</th>
                             <th style="vertical-align: middle; text-align:center">INT</th>
@@ -173,11 +174,13 @@ header("Expires: 0");
                                 $spvFab = "";
                                 $qcInsp = "";
                                 $fabfinishdate = "";
+                                $fabQcFinsDate = "";
                                 $selectSubcontSql = "SELECT SUBCONT_ID, "
                                         . "ASSG_QTY, "
                                         . "SPV_FAB, "
                                         . "QC_INSP, "
-                                        . "FINISHING_FAB_DATE "
+                                        . "FINISHING_FAB_DATE,"
+                                        . "FAB_QC_PASS_DATE "
                                         . "FROM COMP_VW_INFO "
                                         . "WHERE HEAD_MARK = '$row[HEAD_MARK]'";
                                 $selectSubcontParse = oci_parse($conn, $selectSubcontSql);
@@ -187,6 +190,7 @@ header("Expires: 0");
                                     $spvFab .= $row1['SPV_FAB'] . "<br>";
                                     $qcInsp .= $row1['QC_INSP'] . "<br>";
                                     $fabfinishdate .= $row1['FINISHING_FAB_DATE'] . "<br>";
+                                    $fabQcFinsDate .= $row1['FAB_QC_PASS_DATE'] . "<br>";
                                 }
                                 ?>
                                 <td style="vertical-align: middle; text-align:center">
@@ -253,6 +257,9 @@ header("Expires: 0");
                                 </td>
                                 <td style="vertical-align: middle; text-align:center">
                                     <?php echo $row['FAB_QC_PASS']; ?>
+                                </td>
+                                <td style="vertical-align: middle; text-align:center">
+                                    <?php echo $fabQcFinsDate; ?>
                                 </td>
                                 <td style="vertical-align: middle; text-align:center">
                                     <?php echo $row['BLASTING']; ?>
