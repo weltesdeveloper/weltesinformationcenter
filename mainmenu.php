@@ -121,7 +121,7 @@ $username = htmlentities($_SESSION['username'], ENT_QUOTES);
                                         </a>
                                     </li>
                                     <li>
-                                        <a target="_blank" href="Content/opname_painting_backup/input_opname_painting.php">
+                                        <a target="_blank" href="Content/opname_painting/input_opname_painting.php">
                                             <img src="images/opname.png" alt="img01" style="width: 100px; height: 100px;"/>
                                             <span>PAINTING OPNAME</span>
                                         </a>

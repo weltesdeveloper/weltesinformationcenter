@@ -97,9 +97,9 @@ $conn = oci_pconnect(ORA_CON_UN, ORA_CON_PW, ORA_CON_DB);
                 </div>
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="../opname_painting_backup/input_opname_painting.php">INPUT DATA</a></li>
-                        <li class="active"><a href="../opname_painting_backup/revise_opname_painting.php">REVISE</a></li>
-                        <li><a  style="background-color: orange;" href="../opname_painting_backup/monitoring_opname_painting.php">MONITORING</a></li>
+                        <li><a href="../opname_painting/input_opname_painting.php">INPUT DATA</a></li>
+                        <li class="active"><a href="../opname_painting/revise_opname_painting.php">REVISE</a></li>
+                        <li><a  style="background-color: orange;" href="../opname_painting/monitoring_opname_painting.php">MONITORING</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li><a>Signed in as, <font size="4"><b><?php echo $username ?></b></font></a></li></ul>
