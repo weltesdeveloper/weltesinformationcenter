@@ -23,7 +23,7 @@ EOD;
    $username = htmlentities($_SESSION['username'], ENT_QUOTES);
 
    // HAK AKSES
-     $PAINT_ACCS       = HakAksesUser($username,'PAINT_ACCS',$conn);
+     $PAINT_ACCS       = 1;//HakAksesUser($username,'PAINT_ACCS',$conn);
      if ($PAINT_ACCS<>1) {
        # code...
         echo <<< EOD

@@ -37,6 +37,7 @@ $subjob = $_GET['subjob'];
 if ($subjob == "ALL") {
     $subjob = '%';
 }
+
 $start = $_GET['start'];
 $end = $_GET['end'];
 // simpan file excel dengan nama umr2013.xls
@@ -55,20 +56,18 @@ header("Expires: 0");
                 <table id="example1" border="1">
                     <thead>                        
                         <tr>
+                            <th style="vertical-align: middle; text-align:center">JOB</th>
+                            <th style="vertical-align: middle; text-align:center">SUBJOB</th>
                             <th style="vertical-align: middle; text-align:center">DO NUMBER</th>
                             <th style="vertical-align: middle; text-align:center">COLI NUMBER</th>
                             <th style="vertical-align: middle; text-align:center">HEAD MARK</th>
-                            <th style="vertical-align: middle; text-align:center">PANJANG</th>
-                            <th style="vertical-align: middle; text-align:center">LEBAR</th>
-                            <th style="vertical-align: middle; text-align:center">TINGGI</th>
-                            <th style="vertical-align: middle; text-align:center">VOLUME</th>
                             <th style="vertical-align: middle; text-align:center">COMP TYPE</th>
+                            <th style="vertical-align: middle; text-align:center">PANJANG(mm)</th>
+                            <th style="vertical-align: middle; text-align:center">LEBAR(mm)</th>
+                            <th style="vertical-align: middle; text-align:center">TINGGI(mm)</th>
+                            <th style="vertical-align: middle; text-align:center">VOLUME(m<sup>3</sup>)</th>
                             <th style="vertical-align: middle; text-align:center">UNIT PCK</th>
                             <th style="vertical-align: middle; text-align:center">WEIGHT</th>
-                            <th style="vertical-align: middle; text-align:center">JOB</th>
-                            <th style="vertical-align: middle; text-align:center">SUBJOB</th>
-
-<!--<th class="text-center">OPNAME PAINTING</th>-->
                         </tr>
                     </thead>
                     <tbody>
@@ -89,24 +88,20 @@ header("Expires: 0");
                                 . "AND PROJECT_NO LIKE '$job' "
                                 . "AND PROJECT_NAME LIKE '$subjob' "
                                 . "ORDER BY DO_NO ";
-//                        echo "$sql";
                         $parse = oci_parse($conn, $sql);
                         oci_execute($parse);
                         while ($row = oci_fetch_array($parse)) {
                             ?>
                             <tr>
-                                <td><?php echo $row['DO_NO']; ?></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td><?php echo $row['PROJECT_NO']; ?></td>
-                                <td><?php echo $row['PROJECT_NAME_NEW']; ?></td>
+                                <td style="background-color: #9acfea;">
+                                    <?php echo $row['PROJECT_NO']; ?>
+                                </td>
+                                <td style="background-color: #9acfea;">
+                                    <?php echo $row['PROJECT_NAME_NEW']; ?>
+                                </td>
+                                <td colspan="10" style="background-color: #9acfea; text-align: left">
+                                    <?php echo $row['DO_NO']; ?>
+                                </td>
                             </tr>
 
                             <?php
@@ -114,7 +109,7 @@ header("Expires: 0");
                                     . "PACK_LEN, "
                                     . "PACK_HT, "
                                     . "PACK_WID, "
-                                    . "PACK_VOL/1000000000 AS PACK_VOL, "
+                                    . "PACK_VOL AS PACK_VOL, "
                                     . "PROJECT_NO, "
                                     . "PROJECT_NAME_NEW "
                                     . "FROM VW_DELIV_INFO "
@@ -124,18 +119,16 @@ header("Expires: 0");
                             while ($row1 = oci_fetch_array($coli_parse)) {
                                 ?>
                                 <tr>
-                                    <td></td>
-                                    <td><?php echo $row1['COLI_NUMBER']; ?></td>
-                                    <td></td>
-                                    <td><?php echo $row1['PACK_LEN']; ?></td>
-                                    <td><?php echo $row1['PACK_WID']; ?></td>
-                                    <td><?php echo $row1['PACK_HT']; ?></td>
-                                    <td><?php echo number_format($row1['PACK_VOL'], 2); ?></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
                                     <td><?php echo $row1['PROJECT_NO']; ?></td>
                                     <td><?php echo $row1['PROJECT_NAME_NEW']; ?></td>
+                                    <td></td>
+                                    <td colspan="3" style="background-color: wheat"><?php echo $row1['COLI_NUMBER']; ?></td>
+                                    <td style="background-color: wheat"><?php echo number_format($row1['PACK_LEN'],2); ?></td>
+                                    <td style="background-color: wheat"><?php echo number_format($row1['PACK_WID'],2); ?></td>
+                                    <td style="background-color: wheat"><?php echo number_format($row1['PACK_HT'],2); ?></td>
+                                    <td style="background-color: wheat"><?php echo number_format($row1['PACK_VOL']/1000000000, 2); ?></td>
+                                    <td colspan="2" style="background-color: wheat"></td>
+                                    
                                 </tr>
                                 <?php
                                 $hm_sql = "SELECT "
@@ -154,18 +147,19 @@ header("Expires: 0");
                                 while ($row2 = oci_fetch_array($hm_parse)) {
                                     ?>
                                     <tr>
+                                        <td><?php echo $row2['PROJECT_NO']; ?></td>
+                                        <td><?php echo $row2['PROJECT_NAME_NEW']; ?></td>
                                         <td></td>
                                         <td></td>
                                         <td><?php echo $row2['HEAD_MARK']; ?></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
                                         <td><?php echo $row2['COMP_TYPE']; ?></td>
-                                        <td><?php echo $row2['UNIT_PCK_QTY']; ?></td>
-                                        <td><?php echo $row2['UNIT_PCK_WT']; ?></td>
-                                        <td><?php echo $row2['PROJECT_NO']; ?></td>
-                                        <td><?php echo $row2['PROJECT_NAME_NEW']; ?></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td><?php echo number_format($row2['UNIT_PCK_QTY'],2); ?></td>
+                                        <td><?php echo number_format($row2['UNIT_PCK_WT'],2); ?></td>
+
                                     </tr>
                                     <?php
                                 }

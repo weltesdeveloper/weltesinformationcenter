@@ -36,7 +36,7 @@ switch ($ACTION) {
         $user = strtoupper($_GET['qc']);
         
 //        $query = "select DISTINCT(HEAD_MARK) HEAD_MARK, PROJECT_NAME from vw_fab_info where spv_fab = '$user' OR QC_INSP = '$user'  AND fab_status = 'NOTCOMPLETE' ORDER BY HEAD_MARK asc";
-        $query = "SELECT DISTINCT(ID) ID, SUBCONT_ID FROM vw_fab_info  WHERE spv_fab = '$user' OR QC_INSP = '$user' ORDER BY SUBCONT_ID ASC";
+        $query = "SELECT DISTINCT(SUBCONT_ID) SUBCONT_ID FROM vw_fab_info  WHERE spv_fab = '$user' OR QC_INSP = '$user' ORDER BY SUBCONT_ID ASC";
         $hasil = oci_parse($conn, $query);
         oci_execute($hasil);
         $r = oci_num_rows($hasil);

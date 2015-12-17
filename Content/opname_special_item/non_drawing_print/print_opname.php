@@ -73,7 +73,7 @@ $opname_id = $_GET['opname_id']
             }
         </style>
     </head>
-    <body onload="window.print(); window.close()">
+    <body onload="window.print();">
         <form class="form-horizontal" style="margin-left: 10px;">
             <div class="col-sm-10 text-center judul-opname">
                 OPNAME HASIL PEKERJAAN
@@ -231,10 +231,10 @@ $opname_id = $_GET['opname_id']
                                     <?php echo number_format($row['PROCEN_WEIGHT']) . "%"; ?>
                                 </td>
                                 <td class="text-right">
-                                    <?php echo number_format($row['WEIGHT'] * $row['TOTAL_QTY'] * $row['PROCEN_WEIGHT'], 2); ?>
+                                    <?php echo number_format($row['WEIGHT'] * $row['TOTAL_QTY'] * $row['PROCEN_WEIGHT']/100, 2); ?>
                                 </td>
                                 <td class="text-right">
-                                    <?php echo number_format($row['OPN_PRICE'] * $row['WEIGHT'] * $row['TOTAL_QTY'] * $row['PROCEN_WEIGHT'], 2); ?>
+                                    <?php echo number_format($row['OPN_PRICE'] * $row['WEIGHT'] * $row['TOTAL_QTY'] * $row['PROCEN_WEIGHT']/100, 2); ?>
                                 </td>
                                 <td class="text-center">
                                     <?php echo $row['REMARK']; ?>
@@ -254,7 +254,7 @@ $opname_id = $_GET['opname_id']
                                 SUMMARY
                             </th>
                             <th class="text-center footer-table" style="vertical-align: middle;">
-                                <?php echo number_format($total_qty, 0); ?>
+                                <?php // echo number_format($total_qty, 0); ?>
                             </th>
                             <th class="text-center footer-table" style="vertical-align: middle;">
                                 <?php // echo number_format($total_unit_weight, 2); ?>

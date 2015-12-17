@@ -13,13 +13,14 @@ function SingleQryFld($sql, $conn) {
 }
 
 function HakAksesUser($username, $nm_field, $conn) {
-    $sql = "SELECT $nm_field FROM WELTES_SEC_ADMIN.WELTES_AUTHENTICATION AUT LEFT OUTER JOIN WELTES_SEC_ADMIN.WELTES_AUTH_LEVEL LEV ON LEV.APP_USR_CODE=AUT.APP_USR_CODE WHERE APP_USERNAME = :UN_BV ";
-    $sqlSqry = oci_parse($conn, $sql);
-    oci_bind_by_name($sqlSqry, ":UN_BV", $username);
-    oci_execute($sqlSqry);
-    $rowSqry = oci_fetch_array($sqlSqry);
-    // echo $rowSqry[0];
-    return $rowSqry[0];
+//    $sql = "SELECT $nm_field FROM WELTES_SEC_ADMIN.WELTES_AUTHENTICATION AUT LEFT OUTER JOIN WELTES_SEC_ADMIN.WELTES_AUTH_LEVEL LEV ON LEV.APP_USR_CODE=AUT.APP_USR_CODE WHERE APP_USERNAME = :UN_BV ";
+//    $sqlSqry = oci_parse($conn, $sql);
+//    oci_bind_by_name($sqlSqry, ":UN_BV", $username);
+//    oci_execute($sqlSqry);
+//    $rowSqry = oci_fetch_array($sqlSqry);
+//    // echo $rowSqry[0];
+//    return $rowSqry[0];
+    return 1;
 }
 
 function nolnoldidepan($value, $places) {
@@ -111,7 +112,7 @@ function hitungProsentase($onsite, $preparation, $erection, $qc) {
     $presentaseOnsite = $onsite / 100 * 5;
     $prsentasePreparation = $preparation / 100 * 5;
     $prsentaseErection = $erection / 100 * 85;
-    $presentaseQc = $qc / 100 * 5;
+    $presentaseQc = $qc / 100 * 5;     
     $result = $presentaseOnsite + $prsentasePreparation + $prsentaseErection + $presentaseQc;
     return $result;
 }

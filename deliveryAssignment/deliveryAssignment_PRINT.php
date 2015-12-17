@@ -58,28 +58,28 @@ if (isset($_GET['Ambil'])) { // for get multi print
     }
 
 # TANKAGE
-    $projectNameSql = "SELECT DISTINCT(PROJECT_NO),PROJECT_NAME FROM VW_DLV_INFO@WELTES_TANKAGE_LINK WHERE DO_NO='$DONumber' ORDER BY PROJECT_NAME";
-    $projectNameParse = oci_parse($conn, $projectNameSql);
-    oci_execute($projectNameParse);
-    while ($row = oci_fetch_array($projectNameParse)) {
-        $PROJECT_NO = $row['PROJECT_NO'];
-        $PROJ_NM = $row['PROJECT_NAME'];
-        ?>
-                var PROJECT_NO = "<?php echo $PROJECT_NO ?>";
-                var PROJ_NM = "<?php echo $PROJ_NM ?>";
-                alert("Print Packing List TANKAGE for Project " + PROJECT_NO + " - " + PROJ_NM);
-                var URLNy_2 = 'deliveryAssignment_PRINT.php?type=PCK_TNK&DONumber=' + DONumber + '&projName=' + PROJ_NM + '&showWT=' + showWT;
-                PopupCenter(URLNy_2, 'WinDO_' + PROJ_NM, '700', '842');
+//    $projectNameSql = "SELECT DISTINCT(PROJECT_NO),PROJECT_NAME FROM VW_DLV_INFO@WELTES_TANKAGE_LINK WHERE DO_NO='$DONumber' ORDER BY PROJECT_NAME";
+//    $projectNameParse = oci_parse($conn, $projectNameSql);
+//    oci_execute($projectNameParse);
+//    while ($row = oci_fetch_array($projectNameParse)) {
+//        $PROJECT_NO = $row['PROJECT_NO'];
+//        $PROJ_NM = $row['PROJECT_NAME'];
+    ?>
+//            var PROJECT_NO = "<?php // echo $PROJECT_NO ?>";
+//            var PROJ_NM = "<?php // echo $PROJ_NM ?>";
+//            alert("Print Packing List TANKAGE for Project " + PROJECT_NO + " - " + PROJ_NM);
+//            var URLNy_2 = 'deliveryAssignment_PRINT.php?type=PCK_TNK&DONumber=' + DONumber + '&projName=' + PROJ_NM + '&showWT=' + showWT;
+//            PopupCenter(URLNy_2, 'WinDO_' + PROJ_NM, '700', '842');
+//
+//            if (confirm("Print Packing Photo TANKAGE for Project " + PROJECT_NO + " - " + PROJ_NM)) {
+//                var URLNy_3 = 'deliveryAssignment_PRINT.php?type=PCK_TNK_photo&DONumber=' + DONumber + '&projName=' + PROJ_NM + '&showWT=' + showWT;
+//                PopupCenter(URLNy_3, 'WinDO_photo' + PROJ_NM, '700', '842');
+//            } else {
+//                // return false;
+//            }
 
-                if (confirm("Print Packing Photo TANKAGE for Project " + PROJECT_NO + " - " + PROJ_NM)) {
-                    var URLNy_3 = 'deliveryAssignment_PRINT.php?type=PCK_TNK_photo&DONumber=' + DONumber + '&projName=' + PROJ_NM + '&showWT=' + showWT;
-                    PopupCenter(URLNy_3, 'WinDO_photo' + PROJ_NM, '700', '842');
-                } else {
-                    // return false;
-                }
-
-        <?php
-    }
+    <?php
+//    }
     ?>
         });
     </script>
@@ -266,27 +266,23 @@ if (isset($_GET['Ambil'])) { // for get multi print
                         }
 
                         // packing TANKAGE
-                        $projectNameSql = "SELECT DISTINCT(COLI_NUMBER),PACK_TYP FROM VW_DLV_INFO@WELTES_TANKAGE_LINK WHERE DO_NO='$DONumber' ORDER BY COLI_NUMBER";
-                        $projectNameParse = oci_parse($conn, $projectNameSql);
-                        oci_execute($projectNameParse);
-                        while ($row = oci_fetch_array($projectNameParse)) {
-                            $JUMLAH_ITEM = SingleQryFld("SELECT SUM(PACK_QTY) FROM VW_DLV_INFO@WELTES_TANKAGE_LINK WHERE COLI_NUMBER = '$row[COLI_NUMBER]'", $conn);
-                            $i++;
-                            // if ($i==26) {
-                            // break;
-                            // }
-                            // for ($i=0; $i < 5 ; $i++) { 
+//                        $projectNameSql = "SELECT DISTINCT(COLI_NUMBER),PACK_TYP FROM VW_DLV_INFO@WELTES_TANKAGE_LINK WHERE DO_NO='$DONumber' ORDER BY COLI_NUMBER";
+//                        $projectNameParse = oci_parse($conn, $projectNameSql);
+//                        oci_execute($projectNameParse);
+//                        while ($row = oci_fetch_array($projectNameParse)) {
+//                            $JUMLAH_ITEM = SingleQryFld("SELECT SUM(PACK_QTY) FROM VW_DLV_INFO@WELTES_TANKAGE_LINK WHERE COLI_NUMBER = '$row[COLI_NUMBER]'", $conn);
+//                            $i++;
                             ?>
-                            <tr>
-                                <td><?php echo $i ?></td>                                        
-                                <td><?php echo $row['COLI_NUMBER'] ?></td> 
-                                <td><?php echo $row['PACK_TYP'] ?></td>
-                                <td><?php echo $JUMLAH_ITEM; ?></td>
+<!--                            <tr>
+                                <td><?php // echo $i ?></td>                                        
+                                <td><?php // echo $row['COLI_NUMBER'] ?></td> 
+                                <td><?php // echo $row['PACK_TYP'] ?></td>
+                                <td><?php // echo $JUMLAH_ITEM; ?></td>
                                 <td>SEGMENT</td>
-                            </tr>
+                            </tr>-->
                             <?php
                             // }
-                        }
+//                        }
 
                         $row_td = intval($i);
                         $row_td_per_page = 24; // setting pada mozilla page setup SCALE 92%
@@ -558,7 +554,7 @@ if (isset($_GET['Ambil'])) { // for get multi print
                         for ($k = 1; $k <= ($sisa_row + $add_row); $k++) {
                             ?>
                             <tr class="isi">
-                                <td colspan="14" id="td_flexible" class="text-left">&nbsp;<?php //echo $row_td+$k                                                     ?></td>
+                                <td colspan="14" id="td_flexible" class="text-left">&nbsp;<?php //echo $row_td+$k                                                      ?></td>
                             </tr>
                             <?php
                         }
@@ -942,7 +938,7 @@ if (isset($_GET['Ambil'])) { // for get multi print
                                     $SUBTOT_WT += ($UNIT_WEIGHT * $PACK_QTY);
                                     ?>
                                     <tr class="isi">
-                                        <td><?php // echo "$row_td"                       ?></td>
+                                        <td><?php // echo "$row_td"                        ?></td>
                                         <td>&nbsp;</td>
                                         <td class="text-left"><?php echo $HEAD_MARK ?></td>
                                         <td><?php echo $MATERIAL_TYPE ?></td>
@@ -950,14 +946,14 @@ if (isset($_GET['Ambil'])) { // for get multi print
                                         <td><?php echo $LENGTH_SIZE ?></td>
                                         <td><?php echo $WIDTH_SIZE ?></td>
                                         <td><?php echo $THICK_SIZE ?></td>
-                                        <!--<td><?php // echo $MD_REMS                         ?></td>-->
+                                        <!--<td><?php // echo $MD_REMS                          ?></td>-->
                                         <td><?php echo $PACK_QTY ?></td>
                                         <td id="wt7"><?php echo number_format($UNIT_WEIGHT, 1) ?></td>
                                         <!-- <td id="wt8"><?php echo $SubTotWg ?></td> -->
                                         <!-- <td id="wt9">&nbsp;</td> -->
                                         <td colspan="4"><?php echo $MD_REMS ?></td>
-                    <!--                                        <td><?php // echo $WIDTH_SIZE                            ?></td>
-                                        <td><?php // echo $THICK_SIZE                            ?></td>
+                    <!--                                        <td><?php // echo $WIDTH_SIZE                             ?></td>
+                                        <td><?php // echo $THICK_SIZE                             ?></td>
                                         <td>&nbsp;</td>-->
                                         <td>&nbsp;</td>
                                     </tr>
@@ -980,7 +976,7 @@ if (isset($_GET['Ambil'])) { // for get multi print
                         for ($k = 1; $k <= ($sisa_row + $add_row); $k++) {
                             ?>
                             <tr class="isi">
-                                <td colspan="15" id="td_flexible" class="text-left">&nbsp;<?php // echo $row_td+$k                                                  ?></td>
+                                <td colspan="15" id="td_flexible" class="text-left">&nbsp;<?php // echo $row_td+$k                                                   ?></td>
                             </tr>
                             <?php
                         }

@@ -129,7 +129,7 @@ $username = htmlentities($_SESSION['username'], ENT_QUOTES);
                                 <select class="form-control" id="spvFab" name="spvFab" data-live-search="true" data-bv-notempty="true" data-bv-notempty-message="SPV. FABR. is required and cannot be empty">  
                                     <option selected="" class="hide"></option>
                                     <?php
-                                    $sql = "SELECT PERSON_NM FROM MST_SPV_QC WHERE QC_DIMENSI = '1' ORDER BY PERSON_NM";
+                                    $sql = "SELECT DISTINCT SPV_FAB FROM COMP_VW_INFO ORDER BY SPV_FAB ASC";
                                     $parse = oci_parse($conn, $sql);
                                     oci_execute($parse);
                                     while ($row1 = oci_fetch_array($parse)) {
@@ -147,7 +147,7 @@ $username = htmlentities($_SESSION['username'], ENT_QUOTES);
                                 <select class="form-control" id="QCInsp" name="QCInsp" data-live-search="true" data-bv-notempty="true" data-bv-notempty-message="QC. INSPECTOR is required and cannot be empty">  
                                     <option selected="" class="hide"></option>
                                     <?php
-                                    $sql = "SELECT PERSON_NM FROM MST_SPV_QC WHERE QC_VISUAL = '1' ORDER BY PERSON_NM";
+                                    $sql = "SELECT DISTINCT QC_INSP FROM COMP_VW_INFO ORDER BY QC_INSP ASC";
                                     $parse = oci_parse($conn, $sql);
                                     oci_execute($parse);
                                     while ($row1 = oci_fetch_array($parse)) {
@@ -256,13 +256,13 @@ $username = htmlentities($_SESSION['username'], ENT_QUOTES);
                                 . "PROJECT_NAME, ID, HEAD_MARK, ASSIGNED_DUE_DATE, SIGNATURE, SPV_FAB, QC_INSP, DELIVERY_DUE_DATE) "
                                 . "VALUES ("
                                 . ":UPDATEQTY, "
-                                . ":SUBCONTID, '$REV', TO_DATE('$ASSIGNDate','MM/DD/YYYY hh24:mi:ss'), :PROJNAME, '$DISTRIB_CNT', "
-                                . ":HEADMARK, TO_DATE('$dueDate','MM/DD/YYYY hh24:mi:ss'), '$username', '$spvFab', '$QCInsp', TO_DATE('$EndDlv', 'MM/DD/YYYY'))";
+                                . ":SUBCONTID, '$REV', TO_DATE('$ASSIGNDate','MM/DD/YYYY HH24:MI:SS'), :PROJNAME, '$DISTRIB_CNT', "
+                                . ":HEADMARK, TO_DATE('$dueDate','MM/DD/YYYY HH24:MI:SS'), '$username', '$spvFab', '$QCInsp', TO_DATE('$EndDlv', 'MM/DD/YYYY'))";
 
                         $insertIntoFabSql = "INSERT INTO FABRICATION (HEAD_MARK, ID, ENTRY_DATE, MARKING, CUTTING, ASSEMBLY, WELDING, "
                                 . " DRILLING, FINISHING, PROJECT_NAME, FAB_STATUS, UNIT_QTY, SIGN_DATE) "
                                 . "VALUES (:HEADMARK, '$DISTRIB_CNT', "
-                                . " TO_DATE('$ASSIGNDate','MM/DD/YYYY hh24:mi:ss'), 0,0,0,0,0,0, :PROJNAME, 'NOTCOMPLETE', "
+                                . " TO_DATE('$ASSIGNDate','MM/DD/YYYY HH24:MI:SS'), 0,0,0,0,0,0, :PROJNAME, 'NOTCOMPLETE', "
                                 . ":UPDATEQTY, SYSDATE)";
 
                         $insertIntoFabQcSql = "INSERT INTO FABRICATION_QC (HEAD_MARK, ID, MARKING_QC, CUTTING_QC, ASSEMBLY_QC,"

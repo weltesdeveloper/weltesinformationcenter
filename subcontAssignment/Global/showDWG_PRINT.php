@@ -141,7 +141,7 @@ EOD;
     var DWG_DOWN_DT         = $('input[name="DWG_DOWN_DT"]').val();
     var DWG_DOWN_TIME       = $('input[name="DWG_DOWN_TIME"]').val();
     var DWG_DOWN_SUBCONT    = $('#DWG_DOWN_SUBCONT').val();
-    var DWG_DOWN_PROJNM     = $('#DWG_DOWN_PROJNM').val();
+    var DWG_DOWN_PROJNM     = encodeURIComponent($('#DWG_DOWN_PROJNM').val());
     // alert(DWG_DOWN_DT+' -- '+DWG_DOWN_TIME+' -- '+DWG_DOWN_PROJNM+' -- '+DWG_DOWN_SUBCONT);
     var URL = 'subcontAssignment_PRINT.php?type='+type+'&projName='+DWG_DOWN_PROJNM+'&subcont='+DWG_DOWN_SUBCONT+'&date1='+DWG_DOWN_DT+'&time1='+DWG_DOWN_TIME;
     // alert(URL);
@@ -162,6 +162,8 @@ EOD;
         });
 
         $('#DWG_DOWN_PROJNM').selectpicker();
+        
+        
     });
 </script>
 

@@ -48,7 +48,10 @@ $username = htmlentities($_SESSION['username'], ENT_QUOTES);
     <body>
         <div class="panel panel-default">
             <div class="panel-heading">
-                <h3 class="panel-title"><font size="5"><b>ADMIN TOOLS</b></font> ~ <font color="#CC0000" size="5"><b>MASTER DRAWING REVISION</b></font></h3>
+                <h3 class="panel-title"><font size="5"><b>ADMIN TOOLS</b></font> ~ 
+                    <font color="#CC0000" size="5"><b>MASTER DRAWING REVISION</b></font>
+                    <font color="green" size="3">(Merubah Profile, length, Surface, Weight)</font>
+                </h3>
             </div> <!-- panel heading -->
             <div class="panel-body">
                 <form class="form-horizontal">

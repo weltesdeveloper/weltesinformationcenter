@@ -34,7 +34,6 @@ $conn = oci_pconnect(ORA_CON_UN, ORA_CON_PW, ORA_CON_DB);
                         }
                     });
                 }, 60 * 60 * 1000);
-//
                 setInterval(function () {
                     $.ajax({
                         type: 'POST',
@@ -44,7 +43,6 @@ $conn = oci_pconnect(ORA_CON_UN, ORA_CON_PW, ORA_CON_DB);
                         }
                     });
                 }, 60 * 90 * 1000);
-//
                 setInterval(function () {
                     $.ajax({
                         type: 'POST',
@@ -95,36 +93,6 @@ $conn = oci_pconnect(ORA_CON_UN, ORA_CON_PW, ORA_CON_DB);
                         }
                     });
                 }, 60 * 60 * 1000 * 24);
-
-//                setInterval(function () {
-//                    $.ajax({
-//                        type: 'POST',
-//                        url: "../EmailNotification/EmaillW15051.php",
-//                        success: function (response, textStatus, jqXHR) {
-//                            console.log(response);
-//                        }
-//                    });
-//                }, 60 * 180 * 1000);
-//                setInterval(function() {
-//                    $.ajax({
-//                        type: 'POST',
-//                        url: "../EmailNotification/EmailAssign.php",
-//                        success: function(response, textStatus, jqXHR) {
-//                            console.log(response);
-//                        }
-//                    });
-//                }, 60 * 240 * 1000);
-//                
-//                setInterval(function() {
-//                    $.ajax({
-//                        type: 'POST',
-//                        url: "../EmailNotification/EmailQc.php",
-//                        success: function(response, textStatus, jqXHR) {
-//                            console.log(response);
-//                        }
-//                    });
-//                }, 60 * 270 * 1000);
-
             });
         </script>
     </head>

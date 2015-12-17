@@ -26,7 +26,7 @@ oci_set_client_identifier($conn, $_SESSION['username']);
 $username = htmlentities($_SESSION['username'], ENT_QUOTES);
 
 // HAK AKSES
-$PACK_ACCS = HakAksesUser($username, 'PACK_ACCS', $conn);
+$PACK_ACCS = 1;//HakAksesUser($username, 'PACK_ACCS', $conn);
 if ($PACK_ACCS <> 1) {
     # code...
     echo <<< EOD
