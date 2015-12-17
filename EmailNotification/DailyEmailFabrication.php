@@ -394,7 +394,7 @@ function DailyFabrication() {
 }
 
 $hour = date("H");
-if ($hour > 12 && $hour < 24) {
+if ($hour > 6 && $hour < 24) {
     $IDEMAIL = "email-" . date("d/m/Y");
     $cekEmailSql1 = "SELECT COUNT(*) JUMLAH FROM EMAIL_NOTIFICATION WHERE ID_EMAIL = '$IDEMAIL' AND STATUS = 'SUCCESS' AND EMAIL_TYPE = 'DAILYFAB'";
     $result1 = SingleQryFld($cekEmailSql1, $conn);
