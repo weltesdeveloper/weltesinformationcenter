@@ -83,7 +83,7 @@ $username = htmlentities($_SESSION['username'], ENT_QUOTES);
                                         </a>
                                     </li>
                                     <li>
-                                        <a target="_blank" href="MasterDrawingRevision/mdrevisionIndex.php">
+                                        <a target="_blank" href="MasterDrawingRevision_1/mdrevisionIndex.php">
                                             <img src="images/revision.jpg" alt="img01" style="width: 100px; height: 100px;"/>
                                             <span>REVISE HEADMARK</span></a>
                                     </li>

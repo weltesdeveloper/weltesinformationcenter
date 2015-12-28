@@ -35,15 +35,18 @@ $username = htmlentities($_SESSION['username'], ENT_QUOTES);
         <link rel="icon" type="image/ico" href="../favicon.ico">
         <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css" />
         <link rel="stylesheet" type="text/css" href="../css/bootstrap-select.css" />
-        <link rel="stylesheet" type="text/css" href="../css/bootstrap-theme.min.css" />
+        <!--<link rel="stylesheet" type="text/css" href="../css/bootstrap-theme.min.css" />-->
+        <link rel="stylesheet" type="text/css" href="../css/jquery.dataTables.css">
+        <link rel="stylesheet" type="text/css" href="../AdminLTE/css/bootstrap-editable.css">
         <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
           <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
         <script src="../jQuery/jquery-1.11.0.min.js"></script>
         <script src="../js/bootstrap.min.js"></script>
-        <script language="javascript" type="text/javascript"  src="../js/bootstrap-select.min.js"></script>
-        <script language="javascript" type="text/javascript"  src="revisionJs/mdRevision.js"></script>
+        <script src="../js/bootstrap-select.min.js"></script>
+        <script src="../js/jquery.dataTables.min.js"></script>
+        <script src="../AdminLTE/js/bootstrap-editable.min.js"></script>
     </head>
     <body>
         <div class="panel panel-default">
@@ -57,8 +60,8 @@ $username = htmlentities($_SESSION['username'], ENT_QUOTES);
                 <form class="form-horizontal">
 
                     <div class="form-group">
-                        <label for="name" class="col-sm-2 control-label">PROJECT NAME</label>
-                        <div class="col-sm-10">
+                        <label for="name" class="col-sm-1 control-label">PROJECT NAME</label>
+                        <div class="col-sm-11">
                             <?php
                             $sql_project = "SELECT * FROM VW_PROJ_INFO WHERE PROJECT_TYP='STRUCTURE' ORDER BY PROJECT_NO,PROJECT_NAME_NEW";
                             $proj_result = oci_parse($conn, $sql_project);
@@ -77,26 +80,94 @@ $username = htmlentities($_SESSION['username'], ENT_QUOTES);
                         </div>
                     </div>
 
-                    <div class="form-group" id="revisionComp"></div>
-                    <div class="form-group" id="revisionHeadmark"></div>
-                    <div class="form-group" id="reviseableElements"></div>
-
-                    <div class="panel-footer" style="overflow:hidden;text-align:right;">
-                        <div class="form-group">
-                            <div class="col-sm-offset-2 col-sm-10">
-                                <input type="submit" class="btn btn-success btn-sm" name="revise" value="REVISE HEADMARK">
-                                <!--<input type="submit" class="btn btn-danger btn-sm" name="delete" value="DELETE HEADMARK">-->
-                            </div>
-                        </div> 
-                    </div> <!-- panel-footer -->
-
+                    <div class="form-group">
+                        <label for="name" class="col-sm-1 control-label"></label>
+                        <div class="col-sm-11">
+                            <table class="table table-striped table-bordered" id="table-revision">
+                                <thead>
+                                    <tr>
+                                        <th class="text-center">HEAD MARK</th>
+                                        <th class="text-center">COMP TYPE</th>
+                                        <th class="text-center">PROFILE</th>
+                                        <th class="text-center">SURFACE</th>
+                                        <th class="text-center">LENGTH</th>
+                                        <th class="text-center">QTY</th>
+                                        <th class="text-center">STATUS</th>
+                                        <th class="text-center">WEIGHT</th>
+                                        <th class="text-center">GROSS WEIGHT</th>
+                                        <th class="text-center">DWG TYPE</th>
+                                        <th class="text-center">TYPE BUILDING</th>
+                                        <th class="text-center">REMARK REV</th>
+                                        <th class="text-center">ACTION</th>
+                                    </tr>
+                                </thead>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="name" class="col-sm-1 control-label"></label>
+                        <div class="col-sm-11">
+                            <button type="button" class="btn btn-primary col-sm-12" onclick="ShowModal();">SHOW DATA</button>
+                        </div>
+                    </div>
                 </form>
             </div> <!-- panel-body -->  
         </div> <!-- panel-default -->
-        <script type="text/javascript">
-            $(document).ready(function () {
-                $('#projName').selectpicker();
-            });
+        <div id="modal-revision" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content modal-lg" style="width: 1400px; margin-left: -400px;">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title text-center">List Revision Head Mark</h4>
+                    </div>
+                    <div class="modal-body">
+                        <table class="table table-striped table-bordered" id="table-showrev">
+                            <thead>
+                                <tr>
+                                    <th class="text-center" style="vertical-align: middle;">HEAD MARK</th>
+                                    <th class="text-center" style="vertical-align: middle;">COMP TYPE</th>
+                                    <th class="text-center" style="vertical-align: middle;">PROFILE</th>
+                                    <th class="text-center" style="vertical-align: middle;">SURFACE</th>
+                                    <th class="text-center" style="vertical-align: middle;">LENGTH</th>
+                                    <th class="text-center" style="vertical-align: middle;">QTY</th>
+                                    <th class="text-center" style="vertical-align: middle;">STATUS</th>
+                                    <th class="text-center" style="vertical-align: middle;">WEIGHT</th>
+                                    <th class="text-center" style="vertical-align: middle;">GROSS WEIGHT</th>
+                                    <th class="text-center" style="vertical-align: middle;">DWG TYPE</th>
+                                    <th class="text-center" style="vertical-align: middle;">TYPE BUILDING</th>
+                                    <th class="text-center" style="vertical-align: middle;">REMARK REV</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-danger" onclick="SubmitRevision();">Submit</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <?php
+        $arraySubcont = "";
+        $sql = "SELECT DISTINCT COMP_TYPE FROM MASTER_DRAWING WHERE TYPE_BLD = 'STRUCTURE' ORDER BY COMP_TYPE ASC";
+        $parse = oci_parse($conn, $sql);
+        oci_execute($parse);
+        while ($row1 = oci_fetch_array($parse)) {
+            $xx = "{value:'$row1[COMP_TYPE]', text: '$row1[COMP_TYPE]'},";
+            $arraySubcont .= $xx;
+        }
+
+        $arraySubcont = substr($arraySubcont, 0, strlen($arraySubcont) - 1);
+        $arraySubcont = "[" . $arraySubcont . "]";
+        ?>
+        <script>
+            var source_comptype = <?php echo "$arraySubcont"; ?>;
         </script>
+        <script src="ControllerJS/MainController.js"></script>
+
     </body>
 </html>    
