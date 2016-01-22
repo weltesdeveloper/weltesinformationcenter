@@ -373,7 +373,7 @@ function DailyFabrication() {
     $footer = "</table>";
     $qwe = $header . $content . $footer;
     $recepient = 'miko.hendroc@gmail.com, edward@weltes.co.id, ferlydeska@gmail.com, hutagalung.chris@weltes.co.id, '
-            . 'teguh.ppic@weltes.co.id, skt@weltes.co.id, kasmuji@weltes.co.id, williama@weltes.co.id, watmodihardjo@gmail.com, kasmujik@gmail.com';
+            . 'teguh.ppic@weltes.co.id, sukiantoa@gmail.com, kasmuji@weltes.co.id, williama@weltes.co.id, watmodihardjo@gmail.com, kasmujik@gmail.com';
     $m = mail($recepient, 'LAPORAN PROGRESS BY ASSEMBLY W14076 (TANGKI AIR PROYEK UPRITING IPA GUNUNGSARI)', $qwe, $mailheaders);
     $IDEMAIL = "email-" . date("d/m/Y");
     if ($m) {

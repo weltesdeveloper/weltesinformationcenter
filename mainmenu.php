@@ -143,19 +143,6 @@ $username = htmlentities($_SESSION['username'], ENT_QUOTES);
                             <li><a target="_blank" href="AdminLTE/adminLogin.php">Monitoring</a></li>
                             <li><a target="_blank" href="/WeltesSiteMonitoring/index.php">Erection</a></li>
                             <li><a target="_blank" href="/WeltesTankage/index.php">Tankage</a></li>
-                            <li>
-                                <a href="#">Non Product</a>
-                                <ul class="cbp-hssubmenu cbp-hssub-rows">
-                                    <!--<li><a target="_blank" href="packingAssignmentNonProduct/packingAssignmentIndexNEW.php"><img src="images/01.png" alt="img01"/><span>PACKING LAIN LAIN</span></a></li>-->
-                                    <!--<li><a target="_blank" href="packingAssignmentNonProduct/packingAssignmentRev.php"><img src="images/01.png" alt="img01"/><span>REV PACKING LAIN LAIN</span></a></li>-->
-                                    <li>
-                                        <a target="_blank" href="deliveryAssignment_NonProduct/deliveryAssignment.php">
-                                            <img src="images/02.png" alt="img02"/><span>DELIVERY LAIN LAIN</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </li>
-
                         </ul>
                     </div>
                 </nav>

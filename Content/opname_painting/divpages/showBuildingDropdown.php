@@ -46,6 +46,7 @@ GROUP BY CVI.PROJECT_NAME,
          CVI.COMP_TYPE
   HAVING (SUM (CVI.PNT_QCPASS) - COALESCE (OPNAME_QTY, 0)) <> 0
 ORDER BY CVI.COMP_TYPE, TO_NUMBER (REGEXP_REPLACE (CVI.HEAD_MARK, '[^[:digit:]]', NULL))";
+//echo "$sql";
 ?>
 <table class="table table-bordered table-striped" id="table-source">
     <thead>

@@ -86,6 +86,7 @@ $username = htmlentities($_SESSION['username'], ENT_QUOTES);
                             <table class="table table-striped table-bordered" id="table-revision">
                                 <thead>
                                     <tr>
+                                        <th class="text-center">DWG ID</th>
                                         <th class="text-center">HEAD MARK</th>
                                         <th class="text-center">COMP TYPE</th>
                                         <th class="text-center">PROFILE</th>
@@ -125,6 +126,7 @@ $username = htmlentities($_SESSION['username'], ENT_QUOTES);
                         <table class="table table-striped table-bordered" id="table-showrev">
                             <thead>
                                 <tr>
+                                    <th class="text-center" style="vertical-align: middle;">DWG ID</th>
                                     <th class="text-center" style="vertical-align: middle;">HEAD MARK</th>
                                     <th class="text-center" style="vertical-align: middle;">COMP TYPE</th>
                                     <th class="text-center" style="vertical-align: middle;">PROFILE</th>

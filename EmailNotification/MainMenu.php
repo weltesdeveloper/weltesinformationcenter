@@ -25,15 +25,17 @@ $conn = oci_pconnect(ORA_CON_UN, ORA_CON_PW, ORA_CON_DB);
                     });
                 }, 60 * 30 * 1000);
 
-                setInterval(function () {
-                    $.ajax({
-                        type: 'POST',
-                        url: "../EmailNotification/EmaiLW15030.php",
-                        success: function (response, textStatus, jqXHR) {
-                            console.log(response);
-                        }
-                    });
-                }, 60 * 60 * 1000);
+// PROJECT FINISHED
+//                setInterval(function () {
+//                    $.ajax({
+//                        type: 'POST',
+//                        url: "../EmailNotification/EmaiLW15030.php",
+//                        success: function (response, textStatus, jqXHR) {
+//                            console.log(response);
+//                        }
+//                    });
+//                }, 60 * 60 * 1000);
+
                 setInterval(function () {
                     $.ajax({
                         type: 'POST',
@@ -64,15 +66,15 @@ $conn = oci_pconnect(ORA_CON_UN, ORA_CON_PW, ORA_CON_DB);
                     });
                 }, 60 * 150 * 1000);
 
-                setInterval(function () {
-                    $.ajax({
-                        type: 'POST',
-                        url: "../EmailNotification/EmailW15032.php",
-                        success: function (response, textStatus, jqXHR) {
-                            console.log(response);
-                        }
-                    });
-                }, 60 * 180 * 1000);
+//                setInterval(function () {
+//                    $.ajax({
+//                        type: 'POST',
+//                        url: "../EmailNotification/EmailW15032.php",
+//                        success: function (response, textStatus, jqXHR) {
+//                            console.log(response);
+//                        }
+//                    });
+//                }, 60 * 180 * 1000);
 
                 setInterval(function () {
                     $.ajax({
@@ -100,16 +102,16 @@ $conn = oci_pconnect(ORA_CON_UN, ORA_CON_PW, ORA_CON_DB);
         <table class="table table-bordered table-striped">
             <thead>
                 <tr>
-                    <th>PROJECT</th>
-                    <th>HEAD MARK</th>
-                    <th>ASSIGN DATE</th>
-                    <th>ASSEMBLY</th>
-                    <th>PROFILE</th>
-                    <th>SUBCONT</th>
-                    <th>ASSIGN QTY</th>
-                    <th>TOTAL WEIGHT</th>
-                    <th>STATUS</th>
-                    <th>REMARK</th>
+                <th>PROJECT</th>
+                <th>HEAD MARK</th>
+                <th>ASSIGN DATE</th>
+                <th>ASSEMBLY</th>
+                <th>PROFILE</th>
+                <th>SUBCONT</th>
+                <th>ASSIGN QTY</th>
+                <th>TOTAL WEIGHT</th>
+                <th>STATUS</th>
+                <th>REMARK</th>
                 </tr>
             </thead>
             <tbody>
@@ -120,16 +122,16 @@ $conn = oci_pconnect(ORA_CON_UN, ORA_CON_PW, ORA_CON_DB);
                 while ($row = oci_fetch_array($parse)) {
                     ?>
                     <tr>
-                        <td><?php echo $row['PROJECT_NAME']; ?></td>
-                        <td><?php echo $row['HEAD_MARK']; ?></td>
-                        <td><?php echo $row['ASSG_DATE']; ?></td>
-                        <td><?php echo $row['COMP_TYPE']; ?></td>
-                        <td><?php echo $row['PROFILE']; ?></td>
-                        <td><?php echo $row['SUBCONT_ID']; ?></td>
-                        <td><?php echo $row['TOTAL_QTY']; ?></td>
-                        <td><?php echo $row['WEIGHT']; ?></td>
-                        <td><?php echo $row['PROC_TYPE'] . " " . $row['PROC_SUB_TYPE']; ?></td>
-                        <td><?php echo $row['REMS']; ?></td>
+                    <td><?php echo $row['PROJECT_NAME']; ?></td>
+                    <td><?php echo $row['HEAD_MARK']; ?></td>
+                    <td><?php echo $row['ASSG_DATE']; ?></td>
+                    <td><?php echo $row['COMP_TYPE']; ?></td>
+                    <td><?php echo $row['PROFILE']; ?></td>
+                    <td><?php echo $row['SUBCONT_ID']; ?></td>
+                    <td><?php echo $row['TOTAL_QTY']; ?></td>
+                    <td><?php echo $row['WEIGHT']; ?></td>
+                    <td><?php echo $row['PROC_TYPE'] . " " . $row['PROC_SUB_TYPE']; ?></td>
+                    <td><?php echo $row['REMS']; ?></td>
                     </tr>
                     <?php
                 }

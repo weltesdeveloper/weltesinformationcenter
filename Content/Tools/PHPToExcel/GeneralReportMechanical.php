@@ -236,7 +236,7 @@ header("Expires: 0");
                                             $row['WELDING'] * $row['WEIGHT'] * 30 / 100 +
                                             $row['DRILLING'] * $row['WEIGHT'] * 15 / 100 +
                                             $row['FAB_FINISHING'] * $row['WEIGHT'] * 25 / 100;
-                                    echo number_format($prosentase / ($row['WEIGHT'] * $row['TOTAL_QTY']) * 100);
+                                    echo @number_format($prosentase / ($row['WEIGHT'] * $row['TOTAL_QTY']) * 100);
                                     ?>
                                 </td>
                                 <td style="vertical-align: middle; text-align:center">
@@ -248,7 +248,7 @@ header("Expires: 0");
                                             $row['WELDING'] * $row['WEIGHT'] * 30 / 100 +
                                             $row['DRILLING'] * $row['WEIGHT'] * 15 / 100 +
                                             $row['FAB_FINISHING'] * $row['WEIGHT'] * 25 / 100;
-                                    echo number_format($prosentase / $berat * 100,2);
+                                    echo @number_format(@$prosentase / $berat * 100,2);
                                     ?>
                                 </td>
                                 <td style="vertical-align: middle; text-align:center">

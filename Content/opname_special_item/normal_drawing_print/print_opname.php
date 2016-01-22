@@ -160,27 +160,27 @@ $opname_id = $_GET['opname_id']
                 <table class="table table-striped table-bordered">
                     <thead>
                         <tr>
-                            <th rowspan="2" class="text-center header-opn" style="vertical-align: middle;">NO</th>
-                            <th rowspan="2" class="text-center header-opn" style="vertical-align: middle;">HEAD MARK</th>
-                            <th rowspan="2" class="text-center header-opn" style="vertical-align: middle;">PROFILE</th>
-                            <th rowspan="2" class="text-center header-opn" style="vertical-align: middle;">LENGTH</th>
-                            <th rowspan="2" class="text-center header-opn" style="vertical-align: middle;">UNIT <br>WEIGHT</th>
-                            <th rowspan="2" class="text-center header-opn" style="vertical-align: middle;">DWG<br>QTY</th>
-                            <th rowspan="2" class="text-center header-opn" style="vertical-align: middle;">DWG<br>ASSG</th>
-                            <th rowspan="2" class="text-center header-opn" style="vertical-align: middle;">QC PASS <br>QTY</th>
-                            <th rowspan="2" class="text-center header-opn" style="vertical-align: middle;">QC PASS <br>DATE</th>
-                            <th colspan="2" class="text-center header-opn" style="vertical-align: middle;">LAST PERIOD</th>
-                            <th colspan="6" class="text-center header-opn" style="vertical-align: middle;">THIS PERIOD</th>
+                        <th rowspan="2" class="text-center header-opn" style="vertical-align: middle;">NO</th>
+                        <th rowspan="2" class="text-center header-opn" style="vertical-align: middle;">HEAD MARK</th>
+                        <th rowspan="2" class="text-center header-opn" style="vertical-align: middle;">PROFILE</th>
+                        <th rowspan="2" class="text-center header-opn" style="vertical-align: middle;">LENGTH</th>
+                        <th rowspan="2" class="text-center header-opn" style="vertical-align: middle;">UNIT <br>WEIGHT</th>
+                        <th rowspan="2" class="text-center header-opn" style="vertical-align: middle;">DWG<br>QTY</th>
+                        <th rowspan="2" class="text-center header-opn" style="vertical-align: middle;">DWG<br>ASSG</th>
+                        <th rowspan="2" class="text-center header-opn" style="vertical-align: middle;">QC PASS <br>QTY</th>
+                        <th rowspan="2" class="text-center header-opn" style="vertical-align: middle;">QC PASS <br>DATE</th>
+                        <th colspan="2" class="text-center header-opn" style="vertical-align: middle;">LAST PERIOD</th>
+                        <th colspan="6" class="text-center header-opn" style="vertical-align: middle;">THIS PERIOD</th>
                         </tr>
                         <tr>
-                            <th class="text-center header-opn" style="vertical-align: middle;">% <br>WEIGHT</th>
-                            <th class="text-center header-opn" style="vertical-align: middle;">TOTAL <br>PRICE</th>
-                            <th class="text-center header-opn" style="vertical-align: middle;">QTY <br>OPNAME</th>
-                            <th class="text-center header-opn" style="vertical-align: middle;">UNIT <br>PRICE</th>
-                            <th class="text-center header-opn" style="vertical-align: middle;">% <br>WEIGHT</th>
-                            <th class="text-center header-opn" style="vertical-align: middle;">TOTAL <br>WEIGHT</th>
-                            <th class="text-center header-opn" style="vertical-align: middle;">TOTAL <br>PRICE</th>
-                            <th class="text-center header-opn" style="vertical-align: middle;">REMARK</th>
+                        <th class="text-center header-opn" style="vertical-align: middle;">% <br>WEIGHT</th>
+                        <th class="text-center header-opn" style="vertical-align: middle;">TOTAL <br>PRICE</th>
+                        <th class="text-center header-opn" style="vertical-align: middle;">QTY <br>OPNAME</th>
+                        <th class="text-center header-opn" style="vertical-align: middle;">UNIT <br>PRICE</th>
+                        <th class="text-center header-opn" style="vertical-align: middle;">% <br>WEIGHT</th>
+                        <th class="text-center header-opn" style="vertical-align: middle;">TOTAL <br>WEIGHT</th>
+                        <th class="text-center header-opn" style="vertical-align: middle;">TOTAL <br>PRICE</th>
+                        <th class="text-center header-opn" style="vertical-align: middle;">REMARK</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -211,84 +211,84 @@ $opname_id = $_GET['opname_id']
                             $price = $row['UNIT_WEIGHT'] * $row['QTY_OPNAME'] * $row['PROCEN_WEIGHT'] / 100 * $row['PRICE'];
                             ?>
                             <tr>
-                                <td class="text-center" style="vertical-align:middle;">
-                                    <?php echo "$i"; ?>
-                                </td>
-                                <td class="text-center" style="vertical-align:middle;">
-                                    <?php echo $row['HEAD_MARK']; ?>
-                                </td>
-                                <td class="text-center" style="vertical-align:middle;">
-                                    <?php echo $row['PROFILE'] . " (" . $row['DWG_TYP'] . ")"; ?>
-                                </td>
-                                <td class="text-right" style="vertical-align:middle;">
-                                    <?php echo $row['LENGTH']; ?>
-                                </td>
-                                <td class="text-right" style="vertical-align:middle;">
-                                    <?php echo number_format($row['UNIT_WEIGHT'], 2); ?>
-                                </td>
-                                <td class="text-center" style="vertical-align:middle;">
-                                    <?php echo $row['ASSIGNED_QTY']; ?>
-                                </td>
-                                <td class="text-center" style="vertical-align:middle;">
-                                    <?php echo $row['ASSIGNMENT_DATE']; ?>
-                                </td>
-                                <td class="text-center" style="vertical-align:middle;">
-                                    <?php echo $row['QCPASS']; ?>
-                                </td>
-                                <td class="text-center" style="vertical-align:middle;">
-                                    <?php
-                                    if ($row['QCPASSDATE'] != "")
-                                        echo $row['QCPASSDATE'];
-                                    else
-                                        echo "-";
-                                    ?>
-                                </td>
-                                <td class="text-center" style="vertical-align:middle;">
-                                    <?php
-                                    if ($row['PROCEN_WEIGHT'] == "100") {
-                                        echo "-";
-                                    } else {
-                                        $prosentaseSebelumnya = "SELECT SUM(PROCEN_WEIGHT) FROM VW_INFO_OPNAME_SI WHERE HEAD_MARK = '$row[HEAD_MARK]' AND SUBCONT_ID = '$row[SUBCONT_ID]'";
-                                        $xx = SingleQryFld($prosentaseSebelumnya, $conn);
-                                        echo "$xx%";
-                                    }
-                                    ?>
-                                </td>
-                                <td class="text-center" style="vertical-align:middle;">
-                                    <?php
-                                    if ($row['PROCEN_WEIGHT'] == "100") {
-                                        echo "-";
-                                    } else {
-                                        $hargaSebelumnya = "SELECT SUM(PROCEN_WEIGHT*TOTAL_QTY*WEIGHT/100*OPN_PRICE) FROM VW_INFO_OPNAME_SI WHERE HEAD_MARK = '$row[HEAD_MARK]' AND SUBCONT_ID = '$row[SUBCONT_ID]'";
-                                        $yy = SingleQryFld($hargaSebelumnya, $conn);
-                                        echo number_format($yy, 2);
-                                    }
-                                    ?>
-                                </td>
-                                <td class="text-center" style="vertical-align:middle;">
-                                    <?php echo $row['QTY_OPNAME']; ?>
-                                </td>
-                                <td class="text-right" style="vertical-align:middle;">
-                                    <?php echo number_format($row['PRICE'], 2); ?>
-                                </td>
-                                <td class="text-center" style="vertical-align:middle;">
-                                    <?php echo $row['PROCEN_WEIGHT'] . "%"; ?>
-                                </td>
-                                <td class="text-right" style="vertical-align:middle;">
-                                    <?php echo number_format($weight, 2); ?>
-                                </td>
-                                <td class="text-right" style="vertical-align:middle;">
-                                    <?php echo number_format($price, 2); ?>
-                                </td>
-                                <td class="text-center" style="vertical-align:middle;">
-                                    <?php
-                                    if ($row['PROCEN_WEIGHT'] == '100') {
-                                        echo 'Progress 100%';
-                                    } else {
-                                        echo "Tambahan Progress  $row[PROCEN_WEIGHT]%";
-                                    }
-                                    ?>
-                                </td>
+                            <td class="text-center" style="vertical-align:middle;">
+                                <?php echo "$i"; ?>
+                            </td>
+                            <td class="text-center" style="vertical-align:middle;">
+                                <?php echo $row['HEAD_MARK']; ?>
+                            </td>
+                            <td class="text-center" style="vertical-align:middle;">
+                                <?php echo $row['PROFILE'] . " (" . $row['DWG_TYP'] . ")"; ?>
+                            </td>
+                            <td class="text-right" style="vertical-align:middle;">
+                                <?php echo $row['LENGTH']; ?>
+                            </td>
+                            <td class="text-right" style="vertical-align:middle;">
+                                <?php echo number_format($row['UNIT_WEIGHT'], 2); ?>
+                            </td>
+                            <td class="text-center" style="vertical-align:middle;">
+                                <?php echo $row['ASSIGNED_QTY']; ?>
+                            </td>
+                            <td class="text-center" style="vertical-align:middle;">
+                                <?php echo $row['ASSIGNMENT_DATE']; ?>
+                            </td>
+                            <td class="text-center" style="vertical-align:middle;">
+                                <?php echo $row['QCPASS']; ?>
+                            </td>
+                            <td class="text-center" style="vertical-align:middle;">
+                                <?php
+                                if ($row['QCPASSDATE'] != "")
+                                    echo $row['QCPASSDATE'];
+                                else
+                                    echo "-";
+                                ?>
+                            </td>
+                            <td class="text-center" style="vertical-align:middle;">
+                                <?php
+                                if ($row['PROCEN_WEIGHT'] == "100") {
+                                    echo "-";
+                                } else {
+                                    $prosentaseSebelumnya = "SELECT SUM(PROCEN_WEIGHT) FROM VW_INFO_OPNAME_SI WHERE HEAD_MARK = '$row[HEAD_MARK]' AND SUBCONT_ID = '$row[SUBCONT_ID]'";
+                                    $xx = SingleQryFld($prosentaseSebelumnya, $conn);
+                                    echo "$xx%";
+                                }
+                                ?>
+                            </td>
+                            <td class="text-center" style="vertical-align:middle;">
+                                <?php
+                                if ($row['PROCEN_WEIGHT'] == "100") {
+                                    echo "-";
+                                } else {
+                                    $hargaSebelumnya = "SELECT SUM(PROCEN_WEIGHT*TOTAL_QTY*WEIGHT/100*OPN_PRICE) FROM VW_INFO_OPNAME_SI WHERE HEAD_MARK = '$row[HEAD_MARK]' AND SUBCONT_ID = '$row[SUBCONT_ID]'";
+                                    $yy = SingleQryFld($hargaSebelumnya, $conn);
+                                    echo number_format($yy, 2);
+                                }
+                                ?>
+                            </td>
+                            <td class="text-center" style="vertical-align:middle;">
+                                <?php echo $row['QTY_OPNAME']; ?>
+                            </td>
+                            <td class="text-right" style="vertical-align:middle;">
+                                <?php echo number_format($row['PRICE'], 2); ?>
+                            </td>
+                            <td class="text-center" style="vertical-align:middle;">
+                                <?php echo $row['PROCEN_WEIGHT'] . "%"; ?>
+                            </td>
+                            <td class="text-right" style="vertical-align:middle;">
+                                <?php echo number_format($weight, 2); ?>
+                            </td>
+                            <td class="text-right" style="vertical-align:middle;">
+                                <?php echo number_format($price, 2); ?>
+                            </td>
+                            <td class="text-center" style="vertical-align:middle;">
+                                <?php
+                                if ($row['PROCEN_WEIGHT'] == '100') {
+                                    echo 'Progress 100%';
+                                } else {
+                                    echo "Tambahan Progress  $row[PROCEN_WEIGHT]%";
+                                }
+                                ?>
+                            </td>
                             </tr>
                             <?php
                             $total_weight += $weight;
@@ -297,18 +297,18 @@ $opname_id = $_GET['opname_id']
                         }
                         ?>
                         <tr>
-                            <th class="text-center footer-table" style="vertical-align: middle;" colspan="14">
-                                SUMMARY
-                            </th>
-                            <th class="text-right footer-table" style="vertical-align: middle;">
-                                <?php echo number_format($total_weight, 2); ?>
-                            </th>
-                            <th class="text-right footer-table" style="vertical-align: middle;">
-                                <?php echo number_format($total_price, 2); ?>
-                            </th>
-                            <th class="text-center footer-table" style="vertical-align: middle;">
-                                <?php echo "~"; ?>
-                            </th>
+                        <th class="text-center footer-table" style="vertical-align: middle;" colspan="14">
+                            SUMMARY
+                        </th>
+                        <th class="text-right footer-table" style="vertical-align: middle;">
+                            <?php echo number_format($total_weight, 2); ?>
+                        </th>
+                        <th class="text-right footer-table" style="vertical-align: middle;">
+                            <?php echo number_format($total_price, 2); ?>
+                        </th>
+                        <th class="text-center footer-table" style="vertical-align: middle;">
+                            <?php echo "~"; ?>
+                        </th>
                         </tr>
                     </tbody>
                 </table>

@@ -166,7 +166,7 @@ $conn = oci_pconnect(ORA_CON_UN, ORA_CON_PW, ORA_CON_DB);
                             $optParse = oci_parse($conn, $optSql);
                             oci_execute($optParse);
                             while ($row1 = oci_fetch_array($optParse)) {
-                                echo "<option value=$row1[PROJECT_NAME_OLD]>$row1[PROJECT_NAME_NEW]</option>";
+                                echo "<option value='$row1[PROJECT_NAME_OLD]'>$row1[PROJECT_NAME_NEW]</option>";
                             }
                             echo "</optgroup>";
                         }

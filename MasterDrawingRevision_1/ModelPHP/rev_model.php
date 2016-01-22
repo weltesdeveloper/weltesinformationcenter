@@ -2,6 +2,8 @@
 
 require_once '../../config/DBConfig.php';
 $dbconfig = new DBConfig();
+session_start();
+
 switch ($_POST['action']) {
     case "show_hm":
         $job = $_POST['job'];
@@ -15,7 +17,8 @@ switch ($_POST['action']) {
                 . "SUBCONT_STATUS, "
                 . "GR_WEIGHT, "
                 . "DWG_TYP, "
-                . "TYPE_BLD "
+                . "TYPE_BLD,"
+                . "MASTER_DRAWING_ID "
                 . "FROM "
                 . "MASTER_DRAWING "
                 . "WHERE PROJECT_NAME = '$job'";
@@ -24,6 +27,7 @@ switch ($_POST['action']) {
         echo json_encode($response);
         break;
     case "show_rev":
+        $drawing_id = $_POST['drawing_id'];
         $project_name = $_POST['project_name'];
         $head_mark = $_POST['head_mark'];
         $comp_type = $_POST['comp_type'];
@@ -55,7 +59,8 @@ switch ($_POST['action']) {
                     . "DWG_TYP, "
                     . "TYPE_BLD, "
                     . "REV_REMARK, "
-                    . "REV_DATE) "
+                    . "REV_DATE,"
+                    . "REV_SIGN) "
                     . "VALUES("
                     . "'$head_mark[$i]', "
                     . "'$comp_type[$i]', "
@@ -70,7 +75,8 @@ switch ($_POST['action']) {
                     . "'$dwg_typ[$i]', "
                     . "'$type_bld[$i]', "
                     . "'$remark[$i]', "
-                    . "SYSDATE "
+                    . "SYSDATE,"
+                    . "'$_SESSION[username]' "
                     . ")";
             $responseInsert .= $dbconfig->InserTable($query)[0];
         }
@@ -78,7 +84,7 @@ switch ($_POST['action']) {
         $responseUpdate = "";
         for ($i = 0; $i < count($head_mark); $i++) {
             $query = "UPDATE MASTER_DRAWING "
-                    . "SET "
+                    . "SET HEAD_MARK = '$head_mark[$i]', "
                     . "COMP_TYPE = '$comp_type[$i]',"
                     . "PROFILE = '$profile[$i]',"
                     . "SURFACE = '$surface[$i]',"
@@ -88,9 +94,9 @@ switch ($_POST['action']) {
                     . "WEIGHT = '$weight[$i]',"
                     . "GR_WEIGHT = '$gr_weight[$i]',"
                     . "TYPE_BLD = '$type_bld[$i]',"
-                    . "DWG_TYP = '$dwg_typ[$i]'"
-                    . " WHERE HEAD_MARK = '$head_mark[0]'";
-            $responseInsert .= $dbconfig->UpdateTable($query)[0];
+                    . "DWG_TYP = '$dwg_typ[$i]' "
+                    . " WHERE MASTER_DRAWING_ID = '$drawing_id[$i]'";
+            $responseUpdate .= $dbconfig->UpdateTable($query)[0];
         }
         $response = $responseInsert . $responseUpdate;
         if (strrpos($responseInsert, "GAGAL")) {

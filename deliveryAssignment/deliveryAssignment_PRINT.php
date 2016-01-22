@@ -332,7 +332,7 @@ if (isset($_GET['Ambil'])) { // for get multi print
                                         <td style="vertical-align:bottom;text-align:center;border: 1px solid black !important;"><i><small><?php echo $CLIENT_INIT ?></small></i><br><br><br><br>( &nbsp;&nbsp;&nbsp;.......&nbsp;&nbsp;&nbsp; )</td>
                                         <td style="vertical-align:bottom;text-align:center;border: 1px solid black !important;">( <?php echo strtoupper($DO_ROW['DVR']); ?> )</td>
                                         <td style="vertical-align:bottom;text-align:center;border: 1px solid black !important;">( EDIYANTO )</td>
-                                        <td style="vertical-align:bottom;text-align:center;border: 1px solid black !important;">( DADANG )</td>
+                                        <td style="vertical-align:bottom;text-align:center;border: 1px solid black !important;">( &nbsp;&nbsp;&nbsp;.......&nbsp;&nbsp;&nbsp; )</td>
                                         <td style="vertical-align:bottom;text-align:center;border: 1px solid black !important;">( <?php echo strtoupper($DO_ROW['DO_SPV']); ?> )</td>
                                     </tr>
                                     <tr>
