@@ -26,15 +26,15 @@ if (isset($_POST['cd-dropdown']))
 date_default_timezone_set('Asia/Jakarta'); //CDT
 $current_date = date('H:i:s');
 
-error_reporting(E_ALL);
+//error_reporting(E_ALL);
 header("Content-type: application/octet-stream");
 $formattedFileName = date("m/d/Y_h:i", time());
-$job = $_GET['job'];
+$job = urldecode($_GET['job']);
 if ($job == "ALL") {
     $job = '%';
 }
-$subjob = $_GET['subjob'];
-if ($subjob == "ALL") {
+$subjob = urldecode($_GET['subjob']);
+if ($subjob == "[ALL]") {
     $subjob = '%';
 }
 
@@ -56,18 +56,18 @@ header("Expires: 0");
                 <table id="example1" border="1">
                     <thead>                        
                         <tr>
-                            <th style="vertical-align: middle; text-align:center">JOB</th>
-                            <th style="vertical-align: middle; text-align:center">SUBJOB</th>
-                            <th style="vertical-align: middle; text-align:center">DO NUMBER</th>
-                            <th style="vertical-align: middle; text-align:center">COLI NUMBER</th>
-                            <th style="vertical-align: middle; text-align:center">HEAD MARK</th>
-                            <th style="vertical-align: middle; text-align:center">COMP TYPE</th>
-                            <th style="vertical-align: middle; text-align:center">PANJANG(mm)</th>
-                            <th style="vertical-align: middle; text-align:center">LEBAR(mm)</th>
-                            <th style="vertical-align: middle; text-align:center">TINGGI(mm)</th>
-                            <th style="vertical-align: middle; text-align:center">VOLUME(m<sup>3</sup>)</th>
-                            <th style="vertical-align: middle; text-align:center">UNIT PCK</th>
-                            <th style="vertical-align: middle; text-align:center">WEIGHT</th>
+                        <th style="vertical-align: middle; text-align:center">JOB</th>
+                        <th style="vertical-align: middle; text-align:center">SUBJOB</th>
+                        <th style="vertical-align: middle; text-align:center">DO NUMBER</th>
+                        <th style="vertical-align: middle; text-align:center">COLI NUMBER</th>
+                        <th style="vertical-align: middle; text-align:center">HEAD MARK</th>
+                        <th style="vertical-align: middle; text-align:center">COMP TYPE</th>
+                        <th style="vertical-align: middle; text-align:center">PANJANG(mm)</th>
+                        <th style="vertical-align: middle; text-align:center">LEBAR(mm)</th>
+                        <th style="vertical-align: middle; text-align:center">TINGGI(mm)</th>
+                        <th style="vertical-align: middle; text-align:center">VOLUME(m<sup>3</sup>)</th>
+                        <th style="vertical-align: middle; text-align:center">UNIT PCK</th>
+                        <th style="vertical-align: middle; text-align:center">WEIGHT</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -86,22 +86,22 @@ header("Expires: 0");
                                 . "BETWEEN TO_DATE ('$start','MM/DD/YYYY') "
                                 . "AND TO_DATE ('$end', 'MM/DD/YYYY') "
                                 . "AND PROJECT_NO LIKE '$job' "
-                                . "AND PROJECT_NAME LIKE '$subjob' "
+                                . "AND PROJECT_NAME_NEW LIKE '$subjob' "
                                 . "ORDER BY DO_NO ";
                         $parse = oci_parse($conn, $sql);
                         oci_execute($parse);
                         while ($row = oci_fetch_array($parse)) {
                             ?>
                             <tr>
-                                <td style="background-color: #9acfea;">
-                                    <?php echo $row['PROJECT_NO']; ?>
-                                </td>
-                                <td style="background-color: #9acfea;">
-                                    <?php echo $row['PROJECT_NAME_NEW']; ?>
-                                </td>
-                                <td colspan="10" style="background-color: #9acfea; text-align: left">
-                                    <?php echo $row['DO_NO']; ?>
-                                </td>
+                            <td style="background-color: #9acfea;">
+                                <?php echo $row['PROJECT_NO']; ?>
+                            </td>
+                            <td style="background-color: #9acfea;">
+                                <?php echo $row['PROJECT_NAME_NEW']; ?>
+                            </td>
+                            <td colspan="10" style="background-color: #9acfea; text-align: left">
+                                <?php echo $row['DO_NO']; ?>
+                            </td>
                             </tr>
 
                             <?php
@@ -119,16 +119,16 @@ header("Expires: 0");
                             while ($row1 = oci_fetch_array($coli_parse)) {
                                 ?>
                                 <tr>
-                                    <td><?php echo $row1['PROJECT_NO']; ?></td>
-                                    <td><?php echo $row1['PROJECT_NAME_NEW']; ?></td>
-                                    <td></td>
-                                    <td colspan="3" style="background-color: wheat"><?php echo $row1['COLI_NUMBER']; ?></td>
-                                    <td style="background-color: wheat"><?php echo number_format($row1['PACK_LEN'],2); ?></td>
-                                    <td style="background-color: wheat"><?php echo number_format($row1['PACK_WID'],2); ?></td>
-                                    <td style="background-color: wheat"><?php echo number_format($row1['PACK_HT'],2); ?></td>
-                                    <td style="background-color: wheat"><?php echo number_format($row1['PACK_VOL']/1000000000, 2); ?></td>
-                                    <td colspan="2" style="background-color: wheat"></td>
-                                    
+                                <td><?php echo $row1['PROJECT_NO']; ?></td>
+                                <td><?php echo $row1['PROJECT_NAME_NEW']; ?></td>
+                                <td></td>
+                                <td colspan="3" style="background-color: wheat"><?php echo $row1['COLI_NUMBER']; ?></td>
+                                <td style="background-color: wheat"><?php echo number_format($row1['PACK_LEN'], 2); ?></td>
+                                <td style="background-color: wheat"><?php echo number_format($row1['PACK_WID'], 2); ?></td>
+                                <td style="background-color: wheat"><?php echo number_format($row1['PACK_HT'], 2); ?></td>
+                                <td style="background-color: wheat"><?php echo number_format($row1['PACK_VOL'] / 1000000000, 2); ?></td>
+                                <td colspan="2" style="background-color: wheat"></td>
+
                                 </tr>
                                 <?php
                                 $hm_sql = "SELECT "
@@ -147,18 +147,18 @@ header("Expires: 0");
                                 while ($row2 = oci_fetch_array($hm_parse)) {
                                     ?>
                                     <tr>
-                                        <td><?php echo $row2['PROJECT_NO']; ?></td>
-                                        <td><?php echo $row2['PROJECT_NAME_NEW']; ?></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td><?php echo $row2['HEAD_MARK']; ?></td>
-                                        <td><?php echo $row2['COMP_TYPE']; ?></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td><?php echo number_format($row2['UNIT_PCK_QTY'],2); ?></td>
-                                        <td><?php echo number_format($row2['UNIT_PCK_WT'],2); ?></td>
+                                    <td><?php echo $row2['PROJECT_NO']; ?></td>
+                                    <td><?php echo $row2['PROJECT_NAME_NEW']; ?></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td><?php echo $row2['HEAD_MARK']; ?></td>
+                                    <td><?php echo $row2['COMP_TYPE']; ?></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td><?php echo number_format($row2['UNIT_PCK_QTY'], 2); ?></td>
+                                    <td><?php echo number_format($row2['UNIT_PCK_WT'], 2); ?></td>
 
                                     </tr>
                                     <?php
